@@ -234,6 +234,10 @@ TRADE_SKILLS_DATA["zones"] = {
             ["Spanish"] = "Montaña Roca Negra",
             ["Taiwanese"] = "黑石山",
         },
+        ["levels"] = {
+            ["min"] = 52,
+            ["max"] = 60,
+        }
     },
     {
         ["cont_id"] = 2,
@@ -570,6 +574,10 @@ TRADE_SKILLS_DATA["zones"] = {
             ["Spanish"] = "Castillo de Colmillo Oscuro",
             ["Taiwanese"] = "影牙城堡",
         },
+        ["levels"] = {
+            ["min"] = 22,
+            ["max"] = 30,
+        }
     },
     {
         ["cont_id"] = 1,
@@ -786,6 +794,10 @@ TRADE_SKILLS_DATA["zones"] = {
             ["Spanish"] = "Horado Rajacieno",
             ["Taiwanese"] = "剃刀沼澤",
         },
+        ["levels"] = {
+            ["min"] = 29,
+            ["max"] = 38,
+        }
     },
     {
         ["cont_id"] = 1,
@@ -838,6 +850,10 @@ TRADE_SKILLS_DATA["zones"] = {
             ["Spanish"] = "Las Mazmorras",
             ["Taiwanese"] = "監獄",
         },
+        ["levels"] = {
+            ["min"] = 24,
+            ["max"] = 32,
+        }
     },
     {
         ["cont_id"] = 4,
@@ -854,6 +870,10 @@ TRADE_SKILLS_DATA["zones"] = {
             ["Spanish"] = "Cuevas de los Lamentos",
             ["Taiwanese"] = "哀嚎洞穴",
         },
+        ["levels"] = {
+            ["min"] = 17,
+            ["max"] = 24,
+        }
     },
     {
         ["cont_id"] = 4,
@@ -870,6 +890,10 @@ TRADE_SKILLS_DATA["zones"] = {
             ["Spanish"] = "Cavernas de Brazanegra",
             ["Taiwanese"] = "黑澗深淵",
         },
+        ["levels"] = {
+            ["min"] = 24,
+            ["max"] = 32,
+        }
     },
     {
         ["cont_id"] = 4,
@@ -886,6 +910,10 @@ TRADE_SKILLS_DATA["zones"] = {
             ["Spanish"] = "Gnomeregan",
             ["Taiwanese"] = "諾姆瑞根",
         },
+        ["levels"] = {
+            ["min"] = 29,
+            ["max"] = 38,
+        }
     },
     {
         ["cont_id"] = 4,
@@ -902,6 +930,10 @@ TRADE_SKILLS_DATA["zones"] = {
             ["Spanish"] = "Zahúrda Rojocieno",
             ["Taiwanese"] = "剃刀高地",
         },
+        ["levels"] = {
+            ["min"] = 37,
+            ["max"] = 46,
+        }
     },
     {
         ["cont_id"] = 4,
@@ -918,6 +950,10 @@ TRADE_SKILLS_DATA["zones"] = {
             ["Spanish"] = "Monasterio Escarlata",
             ["Taiwanese"] = "血色修道院",
         },
+        ["levels"] = {
+            ["min"] = 34,
+            ["max"] = 45,
+        }
     },
     {
         ["cont_id"] = 4,
@@ -934,6 +970,10 @@ TRADE_SKILLS_DATA["zones"] = {
             ["Spanish"] = "Zul'Farrak",
             ["Taiwanese"] = "祖爾法拉克",
         },
+        ["levels"] = {
+            ["min"] = 42,
+            ["max"] = 46,
+        }
     },
     {
         ["cont_id"] = 4,
@@ -950,6 +990,10 @@ TRADE_SKILLS_DATA["zones"] = {
             ["Spanish"] = "Uldaman",
             ["Taiwanese"] = "奧達曼",
         },
+        ["levels"] = {
+            ["min"] = 41,
+            ["max"] = 51,
+        }
     },
     {
         ["cont_id"] = 1,
@@ -986,6 +1030,10 @@ TRADE_SKILLS_DATA["zones"] = {
             ["Spanish"] = "Templo Sumergido",
             ["Taiwanese"] = "沉沒的神廟",
         },
+        ["levels"] = {
+            ["min"] = 50,
+            ["max"] = 60,
+        }
     },
     {
         ["cont_id"] = 4,
@@ -1002,6 +1050,10 @@ TRADE_SKILLS_DATA["zones"] = {
             ["Spanish"] = "El Templo de Atal'Hakkar",
             ["Taiwanese"] = "阿塔哈卡神廟",
         },
+        ["levels"] = {
+            ["min"] = 60,
+            ["max"] = 60,
+        }
     },
     {
         ["cont_id"] = 2,
@@ -1066,6 +1118,10 @@ TRADE_SKILLS_DATA["zones"] = {
             ["Spanish"] = "Las Minas de la Muerte",
             ["Taiwanese"] = "死亡礦坑",
         },
+        ["levels"] = {
+            ["min"] = 17,
+            ["max"] = 24,
+        }
     },
     {
         ["cont_id"] = 4,
@@ -1082,6 +1138,10 @@ TRADE_SKILLS_DATA["zones"] = {
             ["Spanish"] = "Cumbre de Roca Negra",
             ["Taiwanese"] = "黑石塔",
         },
+        ["levels"] = {
+            ["min"] = 55,
+            ["max"] = 60,
+        }
     },
     {
         ["cont_id"] = 4,
@@ -1098,6 +1158,10 @@ TRADE_SKILLS_DATA["zones"] = {
             ["Spanish"] = "Profundidades de Roca Negra",
             ["Taiwanese"] = "黑石深淵",
         },
+        ["levels"] = {
+            ["min"] = 52,
+            ["max"] = 60,
+        }
     },
     {
         ["cont_id"] = 1,
@@ -1178,6 +1242,10 @@ TRADE_SKILLS_DATA["zones"] = {
             ["Spanish"] = "Zul'Gurub",
             ["Taiwanese"] = "祖爾格拉布",
         },
+        ["levels"] = {
+            ["min"] = 60,
+            ["max"] = 60,
+        }
     },
     {
         ["cont_id"] = 4,
@@ -1194,6 +1262,10 @@ TRADE_SKILLS_DATA["zones"] = {
             ["Spanish"] = "Stratholme",
             ["Taiwanese"] = "斯坦索姆",
         },
+        ["levels"] = {
+            ["min"] = 58,
+            ["max"] = 60,
+        }
     },
     {
         ["cont_id"] = 4,
@@ -1210,6 +1282,10 @@ TRADE_SKILLS_DATA["zones"] = {
             ["Spanish"] = "Scholomance",
             ["Taiwanese"] = "通靈學院",
         },
+        ["levels"] = {
+            ["min"] = 58,
+            ["max"] = 60,
+        }
     },
     {
         ["cont_id"] = 4,
@@ -1226,6 +1302,10 @@ TRADE_SKILLS_DATA["zones"] = {
             ["Spanish"] = "Maraudon",
             ["Taiwanese"] = "瑪拉頓",
         },
+        ["levels"] = {
+            ["min"] = 46,
+            ["max"] = 55,
+        }
     },
     {
         ["cont_id"] = 5,
@@ -1242,6 +1322,10 @@ TRADE_SKILLS_DATA["zones"] = {
             ["Spanish"] = "Guarida de Onyxia",
             ["Taiwanese"] = "奧妮克希亞的巢穴",
         },
+        ["levels"] = {
+            ["min"] = 60,
+            ["max"] = 60,
+        }
     },
     {
         ["cont_id"] = 2,
@@ -1274,6 +1358,10 @@ TRADE_SKILLS_DATA["zones"] = {
             ["Spanish"] = "Sima Ígnea",
             ["Taiwanese"] = "怒焰裂谷",
         },
+        ["levels"] = {
+            ["min"] = 13,
+            ["max"] = 18,
+        }
     },
     {
         ["cont_id"] = 4,
@@ -1290,6 +1378,10 @@ TRADE_SKILLS_DATA["zones"] = {
             ["Spanish"] = "La Masacre",
             ["Taiwanese"] = "厄運之槌",
         },
+        ["levels"] = {
+            ["min"] = 56,
+            ["max"] = 60,
+        }
     },
     {
         ["cont_id"] = 3,
@@ -1322,6 +1414,10 @@ TRADE_SKILLS_DATA["zones"] = {
             ["Spanish"] = "Guarida Alanegra",
             ["Taiwanese"] = "黑翼之巢",
         },
+        ["levels"] = {
+            ["min"] = 60,
+            ["max"] = 60,
+        }
     },
     {
         ["cont_id"] = 5,
@@ -1338,6 +1434,10 @@ TRADE_SKILLS_DATA["zones"] = {
             ["Spanish"] = "Núcleo de Magma",
             ["Taiwanese"] = "熔火之心",
         },
+        ["levels"] = {
+            ["min"] = 60,
+            ["max"] = 60,
+        }
     },
     {
         ["cont_id"] = 3,
@@ -1386,6 +1486,10 @@ TRADE_SKILLS_DATA["zones"] = {
             ["Spanish"] = "Ahn'Qiraj",
             ["Taiwanese"] = "安其拉",
         },
+        ["levels"] = {
+            ["min"] = 60,
+            ["max"] = 60,
+        }
     },
     {
         ["cont_id"] = 5,
@@ -1402,6 +1506,10 @@ TRADE_SKILLS_DATA["zones"] = {
             ["Spanish"] = "Ruinas de Ahn'Qiraj",
             ["Taiwanese"] = "安琪拉廢墟",
         },
+        ["levels"] = {
+            ["min"] = 60,
+            ["max"] = 60,
+        }
     },
     {
         ["cont_id"] = 5,
@@ -1418,5 +1526,9 @@ TRADE_SKILLS_DATA["zones"] = {
             ["Spanish"] = "Naxxramas",
             ["Taiwanese"] = "納克薩瑪斯",
         },
+        ["levels"] = {
+            ["min"] = 60,
+            ["max"] = 60,
+        }
     },
 }
