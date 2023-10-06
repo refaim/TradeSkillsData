@@ -47,9 +47,7 @@
 
 
 ------------------------------------------------- Holidays -------------------------------------------------
----@shape Holiday
----@field id number
----@field name Translation
+---@shape Holiday: Entity
 ---@field phase Phase
 
 
@@ -66,9 +64,7 @@
 ---@shape ItemSourceDropInfo
 ---@field sources number[]
 
----@shape Item
----@field id number
----@field name Translation
+---@shape Item: Entity
 ---@field quality ItemQuality
 ---@field phase Phase
 
@@ -83,9 +79,7 @@
 ---@field sources number[]
 
 ------------------------------------------------- Levels -------------------------------------------------
----@shape ProfessionLevel
----@field id number
----@field name Translation
+---@shape ProfessionLevel: Entity
 ---@field min_skill number
 ---@field max_skill number
 ---@field min_xp_level number
@@ -104,9 +98,7 @@
 ---@field max number | "??"
 ---@field is_elite 0 | 1
 
----@shape NPC
----@field id number
----@field name Translation
+---@shape NPC: Entity
 ---@field phase Phase
 ---@field reacts Reaction
 ---@field xp_level NPCLevelInfo
@@ -116,19 +108,15 @@
 ---@field location Location
 
 ------------------------------------------------- Objects -------------------------------------------------
----@shape Object
----@field id number
+---@shape Object: Entity
 ---@field location Location
----@field name Translation
 ---@field phase Phase
 ---@field zone_id number
 
 
 ------------------------------------------------- Quests -------------------------------------------------
----@shape Quest
----@field id number
+---@shape Quest: Entity
 ---@field min_xp_level number
----@field name Translation
 ---@field phase Phase
 
 ---@shape NpcQuest: Quest
@@ -145,9 +133,7 @@
 
 
 ------------------------------------------------- Skills -------------------------------------------------
----@shape Skill
----@field id number
----@field name Translation
+---@shape Skill: Entity
 ---@field min_skill number
 ---@field phase Phase
 
@@ -158,17 +144,13 @@
 ---@field special_action string
 
 ------------------------------------------------- Specialisations -------------------------------------------------
----@shape Specialisation
----@field id number
----@field name Translation
+---@shape Specialisation: Entity
 ---@field min_skill number
 ---@field phase Phase
 ---@field quests number[]
 
 
 ------------------------------------------------- Zones -------------------------------------------------
----@shape Zone
+---@shape Zone: Entity
 ---@field cont_id number
----@field id number
----@field name Translation
 ---@field levels LevelRange
