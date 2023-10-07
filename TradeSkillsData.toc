@@ -2,7 +2,7 @@
 ## Title: TradeSkillsData [Vanilla]
 ## Author: Thumbkin, Refaim
 ## Notes: A database of trade skill recipes, vendors and sources.
-## Version: 1.1
+## Version: 1.1.1
 
 global_variables.lua
 
