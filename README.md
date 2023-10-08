@@ -7,6 +7,9 @@ Used in [MissingTradeSkillsList](https://github.com/refaim/MissingTradeSkillsLis
 
 ## Version History
 
+### v1.1.2 (Oct 9, 2023)
+* Fix Harlown Darkweave location
+
 ### v1.1.1 (Oct 7, 2023)
 * Automatically format database tables
 
