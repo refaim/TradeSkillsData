@@ -52,31 +52,31 @@
 
 
 ---------------------------------------------------- Items -------------------------------------------------
----@alias ItemQuality "common" | "uncommon" | "rare" | "epic"
-
 ---@shape ItemLevelRange
 ---@field min_xp_level number
 ---@field max_xp_level number
 
----@shape ItemWorldDropInfo
----@field range ItemLevelRange
-
----@shape ItemSourceDropInfo
----@field sources number[]
+---@shape ItemDropInfo
+---@field range ItemLevelRange|nil
+---@field sources number[]|nil
 
 ---@shape Item: Entity
----@field quality ItemQuality
+---@field quality "common" | "uncommon" | "rare" | "epic"
 ---@field phase Phase
+---@field drops ItemDropInfo|nil
+---@field quests number[]|nil
+---@field vendors VendorsInfo|nil
+---@field special_action string|nil
+---@field reputation ReputationInfo|nil
 
----@shape DropItem: Item
----@field drops ItemWorldDropInfo | ItemSourceDropInfo
-
----@shape QuestItem: Item
----@field quests number[]
-
----@shape TrainerInfo
+---@shape VendorsInfo
 ---@field price number
 ---@field sources number[]
+
+---@shape ReputationInfo
+---@field faction_id number
+---@field level_id number
+
 
 ------------------------------------------------- Levels -------------------------------------------------
 ---@shape ProfessionLevel: Entity
@@ -85,9 +85,11 @@
 ---@field min_xp_level number
 ---@field phase Phase
 ---@field rank number
+---@field trainers TrainersInfo|nil
 
----@shape TrainedProfessionLevel
----@field trainers TrainerInfo
+---@shape TrainersInfo
+---@field price number
+---@field sources number[]
 
 
 ------------------------------------------------- NPCs -------------------------------------------------
@@ -136,12 +138,10 @@
 ---@shape Skill: Entity
 ---@field min_skill number
 ---@field phase Phase
+---@field items number[]|nil
+---@field trainers TrainersInfo|nil
+---@field special_action string|nil
 
----@shape TrainedSkill: Skill
----@field trainers TrainerInfo
-
----@shape SpecialActionSkill: Skill
----@field special_action string
 
 ------------------------------------------------- Specialisations -------------------------------------------------
 ---@shape Specialisation: Entity
