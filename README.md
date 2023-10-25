@@ -7,6 +7,9 @@ Used in [MissingTradeSkillsList](https://github.com/refaim/MissingTradeSkillsLis
 
 ## Version History
 
+### v1.1.4 (Oct 26, 2023)
+* Add some more NPCs
+
 ### v1.1.3 (Oct 25, 2023)
 * Add a bunch of NPCs
 * Improve type definitions

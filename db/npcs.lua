@@ -20431,4 +20431,64 @@ TRADE_SKILLS_DATA["npcs"] =
             },
             ["zone_id"] = 1584,
         },
+        {
+            ["id"] = 1045,
+            ["name"] = {
+                ["English"] = "Red Dragonspawn",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 58,
+                ["min"] = 57,
+            },
+            ["zone_id"] = 11,
+        },
+        {
+            ["id"] = 1046,
+            ["name"] = {
+                ["English"] = "Red Wyrmkin",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 59,
+                ["min"] = 58,
+            },
+            ["zone_id"] = 11,
+        },
+        {
+            ["id"] = 1047,
+            ["name"] = {
+                ["English"] = "Red Scalebane",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 60,
+                ["min"] = 59,
+            },
+            ["zone_id"] = 11,
+        },
+        {
+            ["id"] = 4883,
+            ["location"] = {
+                ["x"] = "36.4",
+                ["y"] = "30.8",
+            },
+            ["name"] = {
+                ["English"] = "Krak",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Horde",
+            ["xp_level"] = {
+                ["is_elite"] = 0,
+                ["max"] = 43,
+                ["min"] = 43,
+            },
+            ["zone_id"] = 15,
+        },
     }
