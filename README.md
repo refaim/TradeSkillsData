@@ -7,6 +7,10 @@ Used in [MissingTradeSkillsList](https://github.com/refaim/MissingTradeSkillsLis
 
 ## Version History
 
+### v1.1.3 (Oct 25, 2023)
+* Add a bunch of NPCs
+* Improve type definitions
+
 ### v1.1.2 (Oct 9, 2023)
 * Fix Harlown Darkweave location
 

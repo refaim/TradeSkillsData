@@ -19773,4 +19773,662 @@ TRADE_SKILLS_DATA["npcs"] =
             },
             ["zone_id"] = 3456,
         },
+        {
+            ["id"] = 10418,
+            ["name"] = {
+                ["English"] = "Crimson Guardsman",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 58,
+                ["min"] = 57,
+            },
+            ["zone_id"] = 2017,
+        },
+        {
+            ["id"] = 10419,
+            ["name"] = {
+                ["English"] = "Crimson Conjuror",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 58,
+                ["min"] = 57,
+            },
+            ["zone_id"] = 2017,
+        },
+        {
+            ["id"] = 10420,
+            ["name"] = {
+                ["English"] = "Crimson Initiate",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 58,
+                ["min"] = 57,
+            },
+            ["zone_id"] = 2017,
+        },
+        {
+            ["id"] = 10421,
+            ["name"] = {
+                ["English"] = "Crimson Defender",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 59,
+                ["min"] = 58,
+            },
+            ["zone_id"] = 2017,
+        },
+        {
+            ["id"] = 10423,
+            ["name"] = {
+                ["English"] = "Crimson Priest",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 59,
+                ["min"] = 58,
+            },
+            ["zone_id"] = 2017,
+        },
+        {
+            ["id"] = 10424,
+            ["name"] = {
+                ["English"] = "Crimson Gallant",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 60,
+                ["min"] = 59,
+            },
+            ["zone_id"] = 2017,
+        },
+        {
+            ["id"] = 10440,
+            ["name"] = {
+                ["English"] = "Baron Rivendare",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 62,
+                ["min"] = 61,
+            },
+            ["zone_id"] = 2017,
+        },
+        {
+            ["id"] = 10436,
+            ["name"] = {
+                ["English"] = "Baroness Anastari",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 59,
+                ["min"] = 59,
+            },
+            ["zone_id"] = 2017,
+        },
+        {
+            ["id"] = 10437,
+            ["name"] = {
+                ["English"] = "Nerub'enkan",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 60,
+                ["min"] = 60,
+            },
+            ["zone_id"] = 2017,
+        },
+        {
+            ["id"] = 10439,
+            ["name"] = {
+                ["English"] = "Ramstein the Gorger",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 61,
+                ["min"] = 61,
+            },
+            ["zone_id"] = 2017,
+        },
+        {
+            ["id"] = 10470,
+            ["name"] = {
+                ["English"] = "Scholomance Neophyte",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 58,
+                ["min"] = 57,
+            },
+            ["zone_id"] = 2057,
+        },
+        {
+            ["id"] = 10471,
+            ["name"] = {
+                ["English"] = "Scholomance Acolyte",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 58,
+                ["min"] = 57,
+            },
+            ["zone_id"] = 2057,
+        },
+        {
+            ["id"] = 10472,
+            ["name"] = {
+                ["English"] = "Scholomance Occultist",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 59,
+                ["min"] = 58,
+            },
+            ["zone_id"] = 2057,
+        },
+        {
+            ["id"] = 10476,
+            ["name"] = {
+                ["English"] = "Scholomance Necrolyte",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 58,
+                ["min"] = 57,
+            },
+            ["zone_id"] = 2057,
+        },
+        {
+            ["id"] = 10477,
+            ["name"] = {
+                ["English"] = "Scholomance Necromancer",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 59,
+                ["min"] = 58,
+            },
+            ["zone_id"] = 2057,
+        },
+        {
+            ["id"] = 10489,
+            ["name"] = {
+                ["English"] = "Risen Guard",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 59,
+                ["min"] = 57,
+            },
+            ["zone_id"] = 2057,
+        },
+        {
+            ["id"] = 10503,
+            ["name"] = {
+                ["English"] = "Jandice Barov",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 61,
+                ["min"] = 61,
+            },
+            ["zone_id"] = 2057,
+        },
+        {
+            ["id"] = 10808,
+            ["name"] = {
+                ["English"] = "Timmy the Cruel",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 58,
+                ["min"] = 58,
+            },
+            ["zone_id"] = 2017,
+        },
+        {
+            ["id"] = 10811,
+            ["name"] = {
+                ["English"] = "Archivist Galford",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 60,
+                ["min"] = 60,
+            },
+            ["zone_id"] = 2017,
+        },
+        {
+            ["id"] = 10812,
+            ["name"] = {
+                ["English"] = "Grand Crusader Dathrohan",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 62,
+                ["min"] = 62,
+            },
+            ["zone_id"] = 2017,
+        },
+        {
+            ["id"] = 11032,
+            ["name"] = {
+                ["English"] = "Malor the Zealous",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 60,
+                ["min"] = 60,
+            },
+            ["zone_id"] = 2017,
+        },
+        {
+            ["id"] = 11257,
+            ["name"] = {
+                ["English"] = "Scholomance Handler",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 60,
+                ["min"] = 59,
+            },
+            ["zone_id"] = 2057,
+        },
+        {
+            ["id"] = 11622,
+            ["name"] = {
+                ["English"] = "Rattlegore",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 61,
+                ["min"] = 61,
+            },
+            ["zone_id"] = 2057,
+        },
+        {
+            ["id"] = 5256,
+            ["name"] = {
+                ["English"] = "Atal'ai Warrior",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 49,
+                ["min"] = 48,
+            },
+            ["zone_id"] = 1477,
+        },
+        {
+            ["id"] = 5267,
+            ["name"] = {
+                ["English"] = "Unliving Atal'ai",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 49,
+                ["min"] = 48,
+            },
+            ["zone_id"] = 1477,
+        },
+        {
+            ["id"] = 5270,
+            ["name"] = {
+                ["English"] = "Atal'ai Corpse Eater",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 50,
+                ["min"] = 49,
+            },
+            ["zone_id"] = 1477,
+        },
+        {
+            ["id"] = 5273,
+            ["name"] = {
+                ["English"] = "Atal'ai High Priest",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 51,
+                ["min"] = 50,
+            },
+            ["zone_id"] = 1477,
+        },
+        {
+            ["id"] = 5277,
+            ["name"] = {
+                ["English"] = "Nightmare Scalebane",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 51,
+                ["min"] = 50,
+            },
+            ["zone_id"] = 1477,
+        },
+        {
+            ["id"] = 5280,
+            ["name"] = {
+                ["English"] = "Nightmare Wyrmkin",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 51,
+                ["min"] = 50,
+            },
+            ["zone_id"] = 1477,
+        },
+        {
+            ["id"] = 5709,
+            ["name"] = {
+                ["English"] = "Shade of Eranikus",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 55,
+                ["min"] = 55,
+            },
+            ["zone_id"] = 1477,
+        },
+        {
+            ["id"] = 5710,
+            ["name"] = {
+                ["English"] = "Jammal'an the Prophet",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 54,
+                ["min"] = 54,
+            },
+            ["zone_id"] = 1477,
+        },
+        {
+            ["id"] = 8497,
+            ["name"] = {
+                ["English"] = "Nightmare Suppressor",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 50,
+                ["min"] = 49,
+            },
+            ["zone_id"] = 1477,
+        },
+        {
+            ["id"] = 8889,
+            ["name"] = {
+                ["English"] = "Anvilrage Overseer",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 49,
+                ["min"] = 48,
+            },
+            ["zone_id"] = 1584,
+        },
+        {
+            ["id"] = 8890,
+            ["name"] = {
+                ["English"] = "Anvilrage Warden",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 50,
+                ["min"] = 49,
+            },
+            ["zone_id"] = 1584,
+        },
+        {
+            ["id"] = 8891,
+            ["name"] = {
+                ["English"] = "Anvilrage Guardsman",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 51,
+                ["min"] = 50,
+            },
+            ["zone_id"] = 1584,
+        },
+        {
+            ["id"] = 8893,
+            ["name"] = {
+                ["English"] = "Anvilrage Soldier",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 53,
+                ["min"] = 52,
+            },
+            ["zone_id"] = 1584,
+        },
+        {
+            ["id"] = 8895,
+            ["name"] = {
+                ["English"] = "Anvilrage Officer",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 54,
+                ["min"] = 53,
+            },
+            ["zone_id"] = 1584,
+        },
+        {
+            ["id"] = 8899,
+            ["name"] = {
+                ["English"] = "Doomforge Dragoon",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 55,
+                ["min"] = 54,
+            },
+            ["zone_id"] = 1584,
+        },
+        {
+            ["id"] = 8983,
+            ["name"] = {
+                ["English"] = "Golem Lord Argelmach",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 57,
+                ["min"] = 57,
+            },
+            ["zone_id"] = 1584,
+        },
+        {
+            ["id"] = 9019,
+            ["name"] = {
+                ["English"] = "Emperor Dagran Thaurissan",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 59,
+                ["min"] = 59,
+            },
+            ["zone_id"] = 1584,
+        },
+        {
+            ["id"] = 9033,
+            ["name"] = {
+                ["English"] = "General Angerforge",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 57,
+                ["min"] = 57,
+            },
+            ["zone_id"] = 1584,
+        },
+        {
+            ["id"] = 9056,
+            ["name"] = {
+                ["English"] = "Fineous Darkvire",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 54,
+                ["min"] = 54,
+            },
+            ["zone_id"] = 1584,
+        },
+        {
+            ["id"] = 9319,
+            ["name"] = {
+                ["English"] = "Houndmaster Grebmar",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 52,
+                ["min"] = 52,
+            },
+            ["zone_id"] = 1584,
+        },
+        {
+            ["id"] = 9502,
+            ["name"] = {
+                ["English"] = "Phalanx",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 55,
+                ["min"] = 55,
+            },
+            ["zone_id"] = 1584,
+        },
+        {
+            ["id"] = 9537,
+            ["name"] = {
+                ["English"] = "Hurley Blackbreath",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 55,
+                ["min"] = 55,
+            },
+            ["zone_id"] = 1584,
+        },
+        {
+            ["id"] = 9541,
+            ["name"] = {
+                ["English"] = "Blackbreath Crony",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 53,
+                ["min"] = 53,
+            },
+            ["zone_id"] = 1584,
+        },
+        {
+            ["id"] = 9938,
+            ["name"] = {
+                ["English"] = "Magmus",
+            },
+            ["phase"] = 1,
+            ["reacts"] = "Hostile",
+            ["xp_level"] = {
+                ["is_elite"] = 1,
+                ["max"] = 57,
+                ["min"] = 57,
+            },
+            ["zone_id"] = 1584,
+        },
     }
