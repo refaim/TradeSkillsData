@@ -1,9 +1,4 @@
 ---@shape TradeSkillsData
----@field AMOUNT_RANKS table<ProfessionId, number>
----@field MIN_PATCH_LEVEL Phase
----@field MAX_PATCH_LEVEL Phase
----@field CURRENT_PATCH_LEVEL Phase
----@field PHASE_IDS number[]
 ---@field continents Entity[]
 ---@field factions Entity[]
 ---@field holidays Holiday[]
@@ -27,8 +22,6 @@
 ---@alias Language "Chinese" | "English" | "French" | "German" | "Korean" | "Mexican" | "Portuguese" | "Russian" | "Spanish" | "Taiwanese"
 ---@alias Translation table<Language, string>
 
----@alias Phase 1 | 2 | 3 | 4 | 5 | 6
-
 ---@shape LevelRange
 ---@field min number
 ---@field max number
@@ -48,7 +41,6 @@
 
 ------------------------------------------------- Holidays -------------------------------------------------
 ---@shape Holiday: Entity
----@field phase Phase
 
 
 ---------------------------------------------------- Items -------------------------------------------------
@@ -62,7 +54,6 @@
 
 ---@shape Item: Entity
 ---@field quality "common" | "uncommon" | "rare" | "epic"
----@field phase Phase
 ---@field drops ItemDropInfo|nil
 ---@field quests number[]|nil
 ---@field vendors VendorsInfo|nil
@@ -83,7 +74,6 @@
 ---@field min_skill number
 ---@field max_skill number
 ---@field min_xp_level number
----@field phase Phase
 ---@field rank number
 ---@field trainers TrainersInfo|nil
 
@@ -101,7 +91,6 @@
 ---@field is_elite 0 | 1
 
 ---@shape NPC: Entity
----@field phase Phase
 ---@field reacts Reaction
 ---@field xp_level NPCLevelInfo
 ---@field zone_id number
@@ -112,14 +101,12 @@
 ------------------------------------------------- Objects -------------------------------------------------
 ---@shape Object: Entity
 ---@field location Location
----@field phase Phase
 ---@field zone_id number
 
 
 ------------------------------------------------- Quests -------------------------------------------------
 ---@shape Quest: Entity
 ---@field min_xp_level number
----@field phase Phase
 
 ---@shape NpcQuest: Quest
 ---@field npcs number[]
@@ -137,16 +124,15 @@
 ------------------------------------------------- Skills -------------------------------------------------
 ---@shape Skill: Entity
 ---@field min_skill number
----@field phase Phase
 ---@field items number[]|nil
 ---@field trainers TrainersInfo|nil
 ---@field special_action string|nil
+---@field specialisation number|nil
 
 
 ------------------------------------------------- Specialisations -------------------------------------------------
 ---@shape Specialisation: Entity
 ---@field min_skill number
----@field phase Phase
 ---@field quests number[]
 
 

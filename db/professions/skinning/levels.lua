@@ -17,7 +17,6 @@ TRADE_SKILLS_DATA["levels"]["Skinning"] =
                 ["Spanish"] = "Desuello (Aprendiz)",
                 ["Taiwanese"] = "剝皮 (學徒)",
             },
-            ["phase"] = 1,
             ["rank"] = 1,
             ["trainers"] = {
                 ["price"] = 10,
@@ -57,7 +56,6 @@ TRADE_SKILLS_DATA["levels"]["Skinning"] =
                 ["Spanish"] = "Desuello (Oficial)",
                 ["Taiwanese"] = "剝皮 (熟練工)",
             },
-            ["phase"] = 1,
             ["rank"] = 2,
             ["trainers"] = {
                 ["price"] = 500,
@@ -97,7 +95,6 @@ TRADE_SKILLS_DATA["levels"]["Skinning"] =
                 ["Spanish"] = "Desuello (Experto)",
                 ["Taiwanese"] = "剝皮 (專家)",
             },
-            ["phase"] = 1,
             ["rank"] = 3,
             ["trainers"] = {
                 ["price"] = 5000,
@@ -137,7 +134,6 @@ TRADE_SKILLS_DATA["levels"]["Skinning"] =
                 ["Spanish"] = "Desuello (Artesano)",
                 ["Taiwanese"] = "剝皮 (大工匠)",
             },
-            ["phase"] = 1,
             ["rank"] = 4,
             ["trainers"] = {
                 ["price"] = 50000,

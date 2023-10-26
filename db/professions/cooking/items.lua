@@ -14,7 +14,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: estofado de Páramos de Poniente",
                 ["Taiwanese"] = "食譜：雜味燉肉",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["quests"] = {
                 38,
@@ -40,7 +39,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: tarta de hígado de Dentosangre",
                 ["Taiwanese"] = "食譜：豬肝餡餅",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["quests"] = {
                 22,
@@ -72,7 +70,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: pinza de cangrejo cocida",
                 ["Taiwanese"] = "食譜：煮蟹爪",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 400,
@@ -95,7 +92,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: estofado Crestagrana",
                 ["Taiwanese"] = "食譜：赤脊山燉肉",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["quests"] = {
                 92,
@@ -127,7 +123,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: costillas de cerdo suculentas",
                 ["Taiwanese"] = "食譜：多汁豬排",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 400,
@@ -150,7 +145,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: kebab de lobo salpimentado",
                 ["Taiwanese"] = "食譜：乾烤狼肉串",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["quests"] = {
                 90,
@@ -176,7 +170,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: costillas de jabalí a la cerveza",
                 ["Taiwanese"] = "食譜：啤酒烤豬排",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["quests"] = {
                 384,
@@ -202,7 +195,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: chuleta de crocolisco",
                 ["Taiwanese"] = "食譜：鱷魚煎排",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["quests"] = {
                 385,
@@ -228,7 +220,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: morcilla",
                 ["Taiwanese"] = "食譜：血腸",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["quests"] = {
                 418,
@@ -254,7 +245,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: sopa de aleta de múrloc",
                 ["Taiwanese"] = "食譜：魚人鰭湯",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["quests"] = {
                 127,
@@ -280,7 +270,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: potaje de crocolisco",
                 ["Taiwanese"] = "食譜：鱷魚濃湯",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["quests"] = {
                 471,
@@ -306,7 +295,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: tortilla con un sabor curioso",
                 ["Taiwanese"] = "食譜：美味煎蛋捲",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["quests"] = {
                 296,
@@ -334,7 +322,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: pastel de araña pegajosa",
                 ["Taiwanese"] = "食譜：蜘蛛蛋糕",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["quests"] = {
                 93,
@@ -360,7 +347,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: chuleta de oso grande",
                 ["Taiwanese"] = "食譜：烤熊排",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["quests"] = {
                 498,
@@ -387,7 +373,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: chuletas de león picantes",
                 ["Taiwanese"] = "食譜：烤獅排",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["quests"] = {
                 501,
@@ -414,7 +399,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: filete de león sabroso",
                 ["Taiwanese"] = "食譜：香烤獅肉",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["quests"] = {
                 564,
@@ -434,7 +418,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: sopa de tortuga reconfortante",
                 ["Taiwanese"] = "食譜：海龜湯",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["quests"] = {
                 555,
@@ -455,7 +438,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: ala de águila ratonera a la parrilla",
                 ["Taiwanese"] = "食譜：燒烤禿鷹翅膀",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["quests"] = {
                 703,
@@ -482,7 +464,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: kebab de araña Kaldorei",
                 ["Taiwanese"] = "食譜：卡多雷蜘蛛烤肉",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["quests"] = {
                 4161,
@@ -502,7 +483,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: sorpresa de escórpido",
                 ["Taiwanese"] = "食譜：蠍肉大餐",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 140,
@@ -525,7 +505,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: carne de kodo asado",
                 ["Taiwanese"] = "食譜：炒科多肉",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 240,
@@ -548,7 +527,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: filete de furia",
                 ["Taiwanese"] = "食譜：狂魚肉片",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 400,
@@ -571,7 +549,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: estofado de zancudo",
                 ["Taiwanese"] = "食譜：燉陸行鳥",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["quests"] = {
                 2178,
@@ -597,7 +574,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: estofado de ratas de excavación",
                 ["Taiwanese"] = "食譜：掘地鼠燉肉",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["quests"] = {
                 862,
@@ -617,7 +593,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: cola de lagarto crujiente",
                 ["Taiwanese"] = "食譜：脆炸蜥蜴尾",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 400,
@@ -640,7 +615,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: venado magro",
                 ["Taiwanese"] = "食譜：瘦鹿肉",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 1200,
@@ -664,7 +638,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: sopa de almejas",
                 ["Taiwanese"] = "食譜：雜燴蚌肉",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 800,
@@ -688,7 +661,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: almeja gigante chamuscada",
                 ["Taiwanese"] = "食譜：烤巨蚌",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 5000,
@@ -711,7 +683,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: pececito luminoso",
                 ["Taiwanese"] = "食譜：美味小魚",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 40,
@@ -742,7 +713,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: caballa suave",
                 ["Taiwanese"] = "食譜：滑皮鯖魚",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 40,
@@ -769,7 +739,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: pargo de lodo boquilargo",
                 ["Taiwanese"] = "食譜：長嘴泥鰍",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 400,
@@ -799,7 +768,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: delicia de furia de Loch Modan",
                 ["Taiwanese"] = "食譜：洛克湖狂魚",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 400,
@@ -822,7 +790,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: siluro mostacherizo",
                 ["Taiwanese"] = "食譜：刺鬚鯰魚",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 1200,
@@ -851,7 +818,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: atún blanco arco iris",
                 ["Taiwanese"] = "食譜：彩鰭魚",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 400,
@@ -883,7 +849,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: bacalao Piedrescama",
                 ["Taiwanese"] = "食譜：石鱗鱈魚",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 2200,
@@ -920,7 +885,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: delicia desviada sabrosa",
                 ["Taiwanese"] = "食譜：美味風蛇",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -937,7 +901,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: carne de oso ahumado",
                 ["Taiwanese"] = "食譜：燻熊肉",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 248,
@@ -961,7 +924,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: ala de murciélago crujiente",
                 ["Taiwanese"] = "食譜：香脆蝙蝠翅",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 24,
@@ -984,7 +946,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: chuleta de lobo magro",
                 ["Taiwanese"] = "食譜：瘦狼排",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 1600,
@@ -1007,7 +968,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: raptor asado",
                 ["Taiwanese"] = "食譜：烤迅猛龍肉",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 5000,
@@ -1036,7 +996,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: costillas de lobo picantes",
                 ["Taiwanese"] = "食譜：熱狼排",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 5000,
@@ -1061,7 +1020,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: estofado de la selva",
                 ["Taiwanese"] = "食譜：叢林大雜燴",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 3000,
@@ -1086,7 +1044,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: sorpresa de carroñero",
                 ["Taiwanese"] = "食譜：腐肉大餐",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 5000,
@@ -1112,7 +1069,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: estofado misterioso",
                 ["Taiwanese"] = "食譜：神秘雜燴",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 3000,
@@ -1137,7 +1093,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: ají aliento de dragón",
                 ["Taiwanese"] = "食譜：龍息紅椒",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 7000,
@@ -1162,7 +1117,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: estofado de kodo pesado",
                 ["Taiwanese"] = "食譜：科多肉雜燴",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 7000,
@@ -1187,7 +1141,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: serviola moteada",
                 ["Taiwanese"] = "食譜：斑點黃尾魚",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 16000,
@@ -1210,7 +1163,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: vigorpez lustroso cocido",
                 ["Taiwanese"] = "食譜：煮熟的光滑大魚",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 16000,
@@ -1233,7 +1185,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: filete de branquirrojo",
                 ["Taiwanese"] = "食譜：油炸紅腮魚",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 16000,
@@ -1256,7 +1207,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: calamar a la parrilla",
                 ["Taiwanese"] = "食譜：烤魷魚",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 16000,
@@ -1279,7 +1229,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: lubina ahumada caliente",
                 ["Taiwanese"] = "食譜：煙燻鱸魚",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 16000,
@@ -1302,7 +1251,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: sopa de aleta nocturna",
                 ["Taiwanese"] = "食譜：夜鱗魚湯",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 20000,
@@ -1325,7 +1273,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: salmón escama de sol pochado",
                 ["Taiwanese"] = "食譜：水煮陽鱗鮭魚",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 20000,
@@ -1348,7 +1295,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: estofado de langosta",
                 ["Taiwanese"] = "食譜：燉龍蝦",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 20000,
@@ -1372,7 +1318,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: filete de vigorpez",
                 ["Taiwanese"] = "食譜：大魚片",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 20000,
@@ -1396,7 +1341,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: salmón al horno",
                 ["Taiwanese"] = "食譜：烤鮭魚",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 20000,
@@ -1420,7 +1364,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Libro de cocina para expertos",
                 ["Taiwanese"] = "高級烹飪教材",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 10000,
@@ -1444,7 +1387,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: tortilla de monstruo",
                 ["Taiwanese"] = "食譜：超級煎蛋捲",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 12000,
@@ -1469,7 +1411,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: chili de cangrejo especiado",
                 ["Taiwanese"] = "食譜：辣椒蟹肉",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 12000,
@@ -1494,7 +1435,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: sopa de almejas de Villabajo",
                 ["Taiwanese"] = "食譜：安德麥蚌肉雜燴",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 3000,
@@ -1517,7 +1457,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: trucha de cabeza de mitril",
                 ["Taiwanese"] = "食譜：銀頭鮭魚",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 2200,
@@ -1549,7 +1488,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: galleta de jengibre",
                 ["Taiwanese"] = "食譜：小薑餅",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 24,
@@ -1577,7 +1515,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: ponche de huevo",
                 ["Taiwanese"] = "食譜：蛋奶酒",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 240,
@@ -1604,7 +1541,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: chuleta de lobo tierno",
                 ["Taiwanese"] = "食譜：嫩狼肉排",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 12000,
@@ -1629,7 +1565,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: té de cardo",
                 ["Taiwanese"] = "食譜：菊花茶",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 2359,
@@ -1661,7 +1596,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: sorpresa de tubérculo runtún",
                 ["Taiwanese"] = "食譜：洛恩塔姆薯塊",
             },
-            ["phase"] = 2,
             ["quality"] = "uncommon",
         },
         {
@@ -1678,7 +1612,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: estofado de crocolisco pesado",
                 ["Taiwanese"] = "食譜：鱷魚燉肉",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 2000,
@@ -1701,7 +1634,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: pinchos quimerok potentes de Dirge",
                 ["Taiwanese"] = "食譜：迪爾格的超美味奇美拉肉片",
             },
-            ["phase"] = 5,
             ["quality"] = "epic",
             ["quests"] = {
                 8586,
@@ -1721,7 +1653,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: sabiola ahumada",
                 ["Taiwanese"] = "食譜：烤鼠尾魚",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 500,
@@ -1757,7 +1688,6 @@ TRADE_SKILLS_DATA["items"]["Cooking"] =
                 ["Spanish"] = "Receta: delicia de sabiolas",
                 ["Taiwanese"] = "食譜：美味鼠尾魚",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 5000,

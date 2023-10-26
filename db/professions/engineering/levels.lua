@@ -17,7 +17,6 @@ TRADE_SKILLS_DATA["levels"]["Engineering"] =
                 ["Spanish"] = "Ingeniería (Aprendiz)",
                 ["Taiwanese"] = "工程學 (學徒)",
             },
-            ["phase"] = 1,
             ["rank"] = 1,
             ["trainers"] = {
                 ["price"] = 10,
@@ -52,7 +51,6 @@ TRADE_SKILLS_DATA["levels"]["Engineering"] =
                 ["Spanish"] = "Ingeniería (Oficial)",
                 ["Taiwanese"] = "工程學 (熟練工)",
             },
-            ["phase"] = 1,
             ["rank"] = 2,
             ["trainers"] = {
                 ["price"] = 500,
@@ -82,7 +80,6 @@ TRADE_SKILLS_DATA["levels"]["Engineering"] =
                 ["Spanish"] = "Ingeniería (Experto)",
                 ["Taiwanese"] = "工程學 (專家)",
             },
-            ["phase"] = 1,
             ["rank"] = 3,
             ["trainers"] = {
                 ["price"] = 5000,
@@ -109,7 +106,6 @@ TRADE_SKILLS_DATA["levels"]["Engineering"] =
                 ["Spanish"] = "Ingeniería (Artesano)",
                 ["Taiwanese"] = "工程學 (大工匠)",
             },
-            ["phase"] = 1,
             ["rank"] = 4,
             ["trainers"] = {
                 ["price"] = 50000,

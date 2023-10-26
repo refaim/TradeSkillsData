@@ -15,7 +15,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Botas de cuero cosidas a mano",
                 ["Taiwanese"] = "手工皮靴",
             },
-            ["phase"] = 1,
             ["special_action"] = "auto learned",
         },
         {
@@ -33,7 +32,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Complemento ligero para armadura",
                 ["Taiwanese"] = "輕型護甲片",
             },
-            ["phase"] = 1,
             ["special_action"] = "auto learned",
         },
         {
@@ -51,7 +49,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Pantalones de cuero cosidos a mano",
                 ["Taiwanese"] = "手工皮短褲",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 50,
                 ["sources"] = {
@@ -101,7 +98,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Botas finas de cuero",
                 ["Taiwanese"] = "優質皮靴",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2159,
@@ -118,7 +114,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Capa fina de cuero",
                 ["Taiwanese"] = "優質皮披風",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 250,
                 ["sources"] = {
@@ -154,7 +149,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Jubón de cuero repujado",
                 ["Taiwanese"] = "雕花皮外衣",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 100,
                 ["sources"] = {
@@ -201,7 +195,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Botas de cuero repujadas",
                 ["Taiwanese"] = "雕花皮靴",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 100,
                 ["sources"] = {
@@ -248,7 +241,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Capa de cuero repujada",
                 ["Taiwanese"] = "雕花皮質披風",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 100,
                 ["sources"] = {
@@ -298,7 +290,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Chaleco blanco de cuero",
                 ["Taiwanese"] = "白色皮夾克",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2164,
@@ -318,7 +309,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Guantes finos de cuero",
                 ["Taiwanese"] = "優質皮手套",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2165,
@@ -335,7 +325,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Mejora media de armadura",
                 ["Taiwanese"] = "中型護甲片",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 250,
                 ["sources"] = {
@@ -371,7 +360,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Armadura de cuero endurecido",
                 ["Taiwanese"] = "韌化皮甲",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 450,
                 ["sources"] = {
@@ -407,7 +395,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Botas oscuras de cuero",
                 ["Taiwanese"] = "黑皮戰靴",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 350,
                 ["sources"] = {
@@ -443,7 +430,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Capa oscura de cuero",
                 ["Taiwanese"] = "黑皮披風",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 350,
                 ["sources"] = {
@@ -482,7 +468,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Túnica oscura de cuero",
                 ["Taiwanese"] = "黑皮外套",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2881,
@@ -499,7 +484,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Cuero ligero",
                 ["Taiwanese"] = "輕皮",
             },
-            ["phase"] = 1,
             ["special_action"] = "auto learned",
         },
         {
@@ -517,7 +501,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Cinturón de cuero cosido a mano",
                 ["Taiwanese"] = "手工皮帶",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 75,
                 ["sources"] = {
@@ -564,7 +547,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Guantes de cuero repujada",
                 ["Taiwanese"] = "雕花皮手套",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 150,
                 ["sources"] = {
@@ -611,7 +593,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Pantalones de cuero repujados",
                 ["Taiwanese"] = "雕花皮短褲",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 200,
                 ["sources"] = {
@@ -658,7 +639,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Capa del montañero",
                 ["Taiwanese"] = "山地披風",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 600,
                 ["sources"] = {
@@ -694,7 +674,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Túnica fina de cuero",
                 ["Taiwanese"] = "優質皮外套",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 350,
                 ["sources"] = {
@@ -733,7 +712,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Jubón de cuero del montañero",
                 ["Taiwanese"] = "山地皮外衣",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3763,
@@ -750,7 +728,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Cinturón fino de cuero",
                 ["Taiwanese"] = "優質皮帶",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 300,
                 ["sources"] = {
@@ -786,7 +763,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Guantes de cuero del montañero",
                 ["Taiwanese"] = "山地皮手套",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 500,
                 ["sources"] = {
@@ -825,7 +801,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Guantes oscuros de cuero",
                 ["Taiwanese"] = "黑皮手套",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3766,
@@ -842,7 +817,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Cinturón oscuro de cuero",
                 ["Taiwanese"] = "黑皮腰帶",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 400,
                 ["sources"] = {
@@ -881,7 +855,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Cinturón del montañero",
                 ["Taiwanese"] = "山地腰帶",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3768,
@@ -898,7 +871,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Hombreras del montañero",
                 ["Taiwanese"] = "山地護肩",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 500,
                 ["sources"] = {
@@ -937,7 +909,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Hombreras oscuras de cuero",
                 ["Taiwanese"] = "黑皮護肩",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3770,
@@ -954,7 +925,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Guantes de ciuero endurecido",
                 ["Taiwanese"] = "韌化皮手套",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 500,
                 ["sources"] = {
@@ -993,7 +963,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Guantes primitivos",
                 ["Taiwanese"] = "野人手套",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3772,
@@ -1013,7 +982,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Armadura verde de cuero",
                 ["Taiwanese"] = "綠色皮甲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3773,
@@ -1033,7 +1001,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Armadura del Guardián",
                 ["Taiwanese"] = "守護之甲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3774,
@@ -1050,7 +1017,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Cinturón verde de cuero",
                 ["Taiwanese"] = "綠色皮帶",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 900,
                 ["sources"] = {
@@ -1079,7 +1045,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Cinturón del Guardián",
                 ["Taiwanese"] = "守護腰帶",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3776,
@@ -1096,7 +1061,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Brazales verdes de cuero",
                 ["Taiwanese"] = "綠色皮護腕",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1080,
                 ["sources"] = {
@@ -1125,7 +1089,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Brazales de cuero del Guardián",
                 ["Taiwanese"] = "守護腕甲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3778,
@@ -1145,7 +1108,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Cinturón de cuero con gemas incrustadas",
                 ["Taiwanese"] = "寶石皮帶",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3779,
@@ -1165,7 +1127,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Cinturón primitivo",
                 ["Taiwanese"] = "野人腰帶",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3780,
@@ -1182,7 +1143,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Complemento pesado para armadura",
                 ["Taiwanese"] = "重型護甲片",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 750,
                 ["sources"] = {
@@ -1218,7 +1178,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Pellejo curado ligero",
                 ["Taiwanese"] = "熟化輕毛皮",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 50,
                 ["sources"] = {
@@ -1265,7 +1224,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Pellejo curado medio",
                 ["Taiwanese"] = "熟化中毛皮",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 200,
                 ["sources"] = {
@@ -1301,7 +1259,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Pellejo curado pesado",
                 ["Taiwanese"] = "熟化重毛皮",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 500,
                 ["sources"] = {
@@ -1340,7 +1297,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Arnés oculto de raptor",
                 ["Taiwanese"] = "迅猛龍皮背心",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 4097,
@@ -1360,7 +1316,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Cinturón oculto de raptor",
                 ["Taiwanese"] = "迅猛龍皮腰帶",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 5244,
@@ -1380,7 +1335,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Bolsa de pellejo de kodo",
                 ["Taiwanese"] = "科多獸皮包",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 6661,
@@ -1397,7 +1351,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Arnés primitivo",
                 ["Taiwanese"] = "野人背心",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1800,
                 ["sources"] = {
@@ -1426,7 +1379,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Cinturón de escamas de múrloc",
                 ["Taiwanese"] = "魚人鱗片腰帶",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 6703,
@@ -1446,7 +1398,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Peto de escamas de múrloc",
                 ["Taiwanese"] = "魚人鱗片胸甲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 6704,
@@ -1466,7 +1417,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Armadura gruesa de múrloc",
                 ["Taiwanese"] = "厚魚人皮甲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 6705,
@@ -1486,7 +1436,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Brazales de escamas de múrloc",
                 ["Taiwanese"] = "魚人鱗片護腕",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7126,
@@ -1503,7 +1452,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Jubón de cuero cosido a mano",
                 ["Taiwanese"] = "手工皮外衣",
             },
-            ["phase"] = 1,
             ["special_action"] = "auto learned",
         },
         {
@@ -1524,7 +1472,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Pantalones finos de cuero",
                 ["Taiwanese"] = "優質皮褲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7135,
@@ -1541,7 +1488,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Pantalones oscuros de cuero",
                 ["Taiwanese"] = "黑皮短褲",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 400,
                 ["sources"] = {
@@ -1577,7 +1523,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Pantalones del Guardián",
                 ["Taiwanese"] = "守護短褲",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 900,
                 ["sources"] = {
@@ -1606,7 +1551,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Leotardos primitivos",
                 ["Taiwanese"] = "野人護腿",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7151,
@@ -1623,7 +1567,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Hombreras primitivas",
                 ["Taiwanese"] = "野人護肩",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1080,
                 ["sources"] = {
@@ -1652,7 +1595,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Capa del Guardián",
                 ["Taiwanese"] = "守護披風",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7156,
@@ -1669,7 +1611,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Guantes del Guardián",
                 ["Taiwanese"] = "守護手套",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 2400,
                 ["sources"] = {
@@ -1698,7 +1639,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Capa de escamas descarriadas",
                 ["Taiwanese"] = "蛇鱗披風",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7954,
@@ -1718,7 +1658,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Guantes de escamas descarriadas",
                 ["Taiwanese"] = "蛇鱗手套",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7955,
@@ -1738,7 +1677,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Cinturón de escamas descarriadas",
                 ["Taiwanese"] = "蛇鱗腰帶",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 8322,
@@ -1758,7 +1696,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Jubón de brillo lunar",
                 ["Taiwanese"] = "月光外衣",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 9058,
@@ -1775,7 +1712,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Capa de cuero cosida a mano",
                 ["Taiwanese"] = "手工皮披風",
             },
-            ["phase"] = 1,
             ["special_action"] = "auto learned",
         },
         {
@@ -1793,7 +1729,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Brazales de cuero cosidos a mano",
                 ["Taiwanese"] = "手工皮護腕",
             },
-            ["phase"] = 1,
             ["special_action"] = "auto learned",
         },
         {
@@ -1811,7 +1746,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Carcaj ligero de cuero",
                 ["Taiwanese"] = "輕皮箭袋",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 100,
                 ["sources"] = {
@@ -1858,7 +1792,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Faltriquera pequeña de cuero para munición",
                 ["Taiwanese"] = "皮質小彈藥包",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 100,
                 ["sources"] = {
@@ -1908,7 +1841,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Pantralones de cuero basto",
                 ["Taiwanese"] = "皺褶皮短褲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 9065,
@@ -1925,7 +1857,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Brazales ligeros de cuero",
                 ["Taiwanese"] = "輕皮護腕",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 150,
                 ["sources"] = {
@@ -1972,7 +1903,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Pantalones ligeros de cuero",
                 ["Taiwanese"] = "輕皮短褲",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 400,
                 ["sources"] = {
@@ -2011,7 +1941,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Capa negra de cría",
                 ["Taiwanese"] = "黑色雛龍披風",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 9072,
@@ -2031,7 +1960,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Guantes de cría de dragón rojo",
                 ["Taiwanese"] = "紅色雛龍手套",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 9074,
@@ -2048,7 +1976,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Guantes de cuero eficaces",
                 ["Taiwanese"] = "輕巧的皮手套",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 500,
                 ["sources"] = {
@@ -2080,7 +2007,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Guantes de Fletcher",
                 ["Taiwanese"] = "造弓師手套",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 500,
                 ["sources"] = {
@@ -2119,7 +2045,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Guantes de herborista",
                 ["Taiwanese"] = "採藥人手套",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 9147,
@@ -2139,7 +2064,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Hombreras terráneas de cuero",
                 ["Taiwanese"] = "土靈皮護肩",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 9148,
@@ -2159,7 +2083,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Guantes de ratero",
                 ["Taiwanese"] = "竊賊手套",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 9149,
@@ -2179,7 +2102,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Guantes pesados terráneos",
                 ["Taiwanese"] = "重型土靈手套",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 9193,
@@ -2196,7 +2118,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Carcaj pesado",
                 ["Taiwanese"] = "重型箭袋",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 500,
                 ["sources"] = {
@@ -2232,7 +2153,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Faltriquera pesada de cuero para munición",
                 ["Taiwanese"] = "重皮彈藥包",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 500,
                 ["sources"] = {
@@ -2271,7 +2191,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Leotardos de cuero oscuros",
                 ["Taiwanese"] = "暗色皮護腿",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 9196,
@@ -2288,7 +2207,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Armadura de cuero oscura",
                 ["Taiwanese"] = "暗色皮甲",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1350,
                 ["sources"] = {
@@ -2317,7 +2235,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Armadura de cría verde",
                 ["Taiwanese"] = "綠色幼龍護甲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 9198,
@@ -2334,7 +2251,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Capa de cuero escarchado",
                 ["Taiwanese"] = "冰霜皮質披風",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1800,
                 ["sources"] = {
@@ -2360,7 +2276,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Brazales oscuros",
                 ["Taiwanese"] = "暗色護腕",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1800,
                 ["sources"] = {
@@ -2389,7 +2304,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Brazales de cría verde",
                 ["Taiwanese"] = "綠色幼龍護腕",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 9206,
@@ -2406,7 +2320,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Cinturón oscuro",
                 ["Taiwanese"] = "暗色皮帶",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 2250,
                 ["sources"] = {
@@ -2435,7 +2348,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Botas oscuras",
                 ["Taiwanese"] = "暗色長靴",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 9208,
@@ -2455,7 +2367,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Botas veloces",
                 ["Taiwanese"] = "迅捷之靴",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 10482,
@@ -2472,7 +2383,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Pellejo curado grueso",
                 ["Taiwanese"] = "熟化厚毛皮",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1800,
                 ["sources"] = {
@@ -2498,7 +2408,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Complemento grueso para armadura",
                 ["Taiwanese"] = "厚重護甲片",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1800,
                 ["sources"] = {
@@ -2527,7 +2436,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Sombrero de cuero cómodo",
                 ["Taiwanese"] = "舒適的皮帽",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 10499,
@@ -2544,7 +2452,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Túnica Nochefugaz",
                 ["Taiwanese"] = "夜色外套",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 2700,
                 ["sources"] = {
@@ -2570,7 +2477,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Cinta de pelo Nochefugaz",
                 ["Taiwanese"] = "夜色頭帶",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 2700,
                 ["sources"] = {
@@ -2599,7 +2505,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Guantes de escamas de tortuga",
                 ["Taiwanese"] = "龜殼手套",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 10511,
@@ -2616,7 +2521,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Peto de escamas de tortuga",
                 ["Taiwanese"] = "龜殼胸甲",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 2700,
                 ["sources"] = {
@@ -2645,7 +2549,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Hombreras Nochefugaz",
                 ["Taiwanese"] = "夜色護肩",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 10518,
@@ -2662,7 +2565,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Brazales de escamas de tortuga",
                 ["Taiwanese"] = "龜殼護腕",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3150,
                 ["sources"] = {
@@ -2691,7 +2593,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Gran toga vudú",
                 ["Taiwanese"] = "巫毒長袍",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 10525,
@@ -2711,7 +2612,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Peto duro de escórpido",
                 ["Taiwanese"] = "硬化蠍殼胸甲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 10529,
@@ -2731,7 +2631,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Hombreras de cuero salvaje",
                 ["Taiwanese"] = "蠻皮護肩",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 10531,
@@ -2751,7 +2650,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Gran máscara vudú",
                 ["Taiwanese"] = "巫毒面具",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 10533,
@@ -2771,7 +2669,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Brazales duros de escórpido",
                 ["Taiwanese"] = "硬化蠍殼護腕",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 10542,
@@ -2791,7 +2688,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Guantes duros de escórpido",
                 ["Taiwanese"] = "硬化蠍殼手套",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 10544,
@@ -2811,7 +2707,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Jubón de cuero salvaje",
                 ["Taiwanese"] = "蠻皮外衣",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 10546,
@@ -2831,7 +2726,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Yelmo de cuero salvaje",
                 ["Taiwanese"] = "蠻皮頭盔",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 10548,
@@ -2848,7 +2742,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Pantalones Nochefugaz",
                 ["Taiwanese"] = "夜色短褲",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 4000,
                 ["sources"] = {
@@ -2872,7 +2765,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Yelmo de escamas de tortuga",
                 ["Taiwanese"] = "龜殼頭盔",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 4000,
                 ["sources"] = {
@@ -2899,7 +2791,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Botas duras de escórpido",
                 ["Taiwanese"] = "硬化蠍殼戰靴",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 10556,
@@ -2916,7 +2807,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Leotardos de escamas de tortuga",
                 ["Taiwanese"] = "龜殼護腿",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 4500,
                 ["sources"] = {
@@ -2940,7 +2830,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Botas Nochefugaz",
                 ["Taiwanese"] = "夜色長靴",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 4500,
                 ["sources"] = {
@@ -2967,7 +2856,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Grandes pantalones vudú",
                 ["Taiwanese"] = "巫毒短褲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 10562,
@@ -2987,7 +2875,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Gran capa vudú",
                 ["Taiwanese"] = "巫毒披風",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 10564,
@@ -3007,7 +2894,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Hombreras duras de escórpido",
                 ["Taiwanese"] = "硬化蠍殼護肩",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 10566,
@@ -3027,7 +2913,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Botas de cuero salvaje",
                 ["Taiwanese"] = "蠻皮戰靴",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 10568,
@@ -3047,7 +2932,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Leotardos duros de escórpido",
                 ["Taiwanese"] = "硬化蠍殼護腿",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 10570,
@@ -3067,7 +2951,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Yelmo duro de escórpido",
                 ["Taiwanese"] = "硬化蠍殼頭盔",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 10572,
@@ -3087,7 +2970,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Leotardos de cuero salvaje",
                 ["Taiwanese"] = "蠻皮護腿",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 10574,
@@ -3107,7 +2989,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Capa de cuero salvaje",
                 ["Taiwanese"] = "蠻皮披風",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 10619,
@@ -3124,7 +3005,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Guanteletes de escamas de dragón",
                 ["Taiwanese"] = "龍鱗護手",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10656,
             ["trainers"] = {
                 ["price"] = 9000,
@@ -3150,7 +3030,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Yelmo de Cabezalobo",
                 ["Taiwanese"] = "狼頭之盔",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10660,
             ["trainers"] = {
                 ["price"] = 9000,
@@ -3175,7 +3054,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Guanteletes del Mar",
                 ["Taiwanese"] = "深海護手",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10658,
             ["trainers"] = {
                 ["price"] = 9000,
@@ -3200,7 +3078,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Yelmo de Fuego",
                 ["Taiwanese"] = "火焰頭盔",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10658,
             ["trainers"] = {
                 ["price"] = 9000,
@@ -3225,7 +3102,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Peto de plumas",
                 ["Taiwanese"] = "羽飾胸甲",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10660,
             ["trainers"] = {
                 ["price"] = 9000,
@@ -3250,7 +3126,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Peto de escamas de dragón",
                 ["Taiwanese"] = "龍鱗胸甲",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10656,
             ["trainers"] = {
                 ["price"] = 9000,
@@ -3275,7 +3150,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Carcaj rápido",
                 ["Taiwanese"] = "快捷箭袋",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3240,
                 ["sources"] = {
@@ -3301,7 +3175,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Faltriquera para munición de cuero grueso",
                 ["Taiwanese"] = "厚皮彈藥包",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3240,
                 ["sources"] = {
@@ -3327,7 +3200,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Pellejo curado basto",
                 ["Taiwanese"] = "熟化毛皮",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 5000,
                 ["sources"] = {
@@ -3354,7 +3226,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Brazales escórpidos pesados",
                 ["Taiwanese"] = "重型蠍殼護腕",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 19049,
@@ -3374,7 +3245,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Guanteletes perversos de cuero",
                 ["Taiwanese"] = "邪惡皮甲護手",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 19050,
@@ -3394,7 +3264,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Peto de escamas de dragón verde",
                 ["Taiwanese"] = "綠龍鱗片胸甲",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10656,
         },
         {
@@ -3415,7 +3284,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Jubón escórpido pesado",
                 ["Taiwanese"] = "重型蠍殼外衣",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 19052,
@@ -3435,7 +3303,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Brazales perversos de cuero",
                 ["Taiwanese"] = "邪惡皮甲護腕",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 19053,
@@ -3455,7 +3322,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Guantes quiméricos",
                 ["Taiwanese"] = "奇美拉手套",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10660,
         },
         {
@@ -3476,7 +3342,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Peto de escamas de dragón rojo",
                 ["Taiwanese"] = "紅龍鱗片胸甲",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10656,
         },
         {
@@ -3497,7 +3362,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Guanteletes de cuero rúnico",
                 ["Taiwanese"] = "符文皮甲護手",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 19058,
@@ -3514,7 +3378,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Complemento basto para armadura",
                 ["Taiwanese"] = "毛皮護甲片",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 5000,
                 ["sources"] = {
@@ -3541,7 +3404,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Leotardos volcánicos",
                 ["Taiwanese"] = "火山護腿",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10658,
         },
         {
@@ -3562,7 +3424,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Leotardos de escamas de dragón verde",
                 ["Taiwanese"] = "綠龍鱗片護腿",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10656,
         },
         {
@@ -3583,7 +3444,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Hombreras vivientes",
                 ["Taiwanese"] = "生命護肩",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10658,
         },
         {
@@ -3604,7 +3464,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Hombreras Plumahierro",
                 ["Taiwanese"] = "鐵羽護肩",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10660,
         },
         {
@@ -3625,7 +3484,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Botas quiméricas",
                 ["Taiwanese"] = "奇美拉長靴",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10660,
         },
         {
@@ -3646,7 +3504,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Guanteletes escórpidos pesados",
                 ["Taiwanese"] = "重型蠍殼護手",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 19065,
@@ -3666,7 +3523,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Brazales de cuero rúnico",
                 ["Taiwanese"] = "符文皮甲護腕",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 19066,
@@ -3686,7 +3542,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Botas sable de hielo",
                 ["Taiwanese"] = "霜刃長靴",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10660,
         },
         {
@@ -3707,7 +3562,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Pantalones velotormenta",
                 ["Taiwanese"] = "雷暴短褲",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10658,
         },
         {
@@ -3728,7 +3582,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Arnés de oso de guerra",
                 ["Taiwanese"] = "戰熊背心",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10660,
         },
         {
@@ -3749,7 +3602,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Cinturón escórpido pesado",
                 ["Taiwanese"] = "重型蠍殼腰帶",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 19071,
@@ -3769,7 +3621,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Cinta de pelo perversa de cuero",
                 ["Taiwanese"] = "邪惡皮甲頭環",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 19072,
@@ -3789,7 +3640,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Cinturón de cuero rúnico",
                 ["Taiwanese"] = "符文皮甲腰帶",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 19073,
@@ -3809,7 +3659,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Leotardos quiméricos",
                 ["Taiwanese"] = "奇美拉護腿",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10660,
         },
         {
@@ -3830,7 +3679,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Leotardos sable de hielo",
                 ["Taiwanese"] = "霜刃護腿",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10660,
         },
         {
@@ -3851,7 +3699,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Leotardos escórpidos pesados",
                 ["Taiwanese"] = "重型蠍殼護腿",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 19076,
@@ -3871,7 +3718,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Peto volcánico",
                 ["Taiwanese"] = "火山胸甲",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10658,
         },
         {
@@ -3892,7 +3738,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Peto de escamas de dragón azul",
                 ["Taiwanese"] = "藍龍鱗片胸甲",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10656,
         },
         {
@@ -3913,7 +3758,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Leotardos vivientes",
                 ["Taiwanese"] = "生命護腿",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10658,
         },
         {
@@ -3934,7 +3778,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Armadura velotormenta",
                 ["Taiwanese"] = "雷暴",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10658,
         },
         {
@@ -3955,7 +3798,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Ropa interior de oso de guerra",
                 ["Taiwanese"] = "戰熊熱褲",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10660,
         },
         {
@@ -3976,7 +3818,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Jubón quimérico",
                 ["Taiwanese"] = "奇美拉外衣",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10660,
         },
         {
@@ -3997,7 +3838,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Cinta de pelo de cuero rúnico",
                 ["Taiwanese"] = "符文皮甲頭環",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 19083,
@@ -4017,7 +3857,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Pantalones perversos de cuero",
                 ["Taiwanese"] = "邪惡皮甲短褲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 19084,
@@ -4037,7 +3876,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Guanteletes de devilsaurio",
                 ["Taiwanese"] = "魔暴龍皮手套",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10660,
         },
         {
@@ -4058,7 +3896,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Peto negro de escamas de dragón",
                 ["Taiwanese"] = "黑色龍鱗胸甲",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10656,
         },
         {
@@ -4079,7 +3916,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Peto Plumahierro",
                 ["Taiwanese"] = "鐵羽胸甲",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10660,
         },
         {
@@ -4100,7 +3936,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Guantes sable de hielo",
                 ["Taiwanese"] = "霜刃手套",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10660,
         },
         {
@@ -4121,7 +3956,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Yelmo escórpido pesado",
                 ["Taiwanese"] = "重型蠍殼頭盔",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 19089,
@@ -4141,7 +3975,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Hombreras de escamas de dragón azul",
                 ["Taiwanese"] = "藍龍鱗片護肩",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10656,
         },
         {
@@ -4162,7 +3995,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Hombreras velotormenta",
                 ["Taiwanese"] = "雷暴護肩",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10658,
         },
         {
@@ -4183,7 +4015,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Pantalones de cuero rúnico",
                 ["Taiwanese"] = "符文皮甲短褲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 19092,
@@ -4203,7 +4034,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Cinturón perverso de cuero",
                 ["Taiwanese"] = "邪惡皮甲腰帶",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 19093,
@@ -4220,7 +4050,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Capa de escamas de Onyxia",
                 ["Taiwanese"] = "奧妮克希亞鱗片披風",
             },
-            ["phase"] = 1,
             ["quests"] = {
                 7493,
                 7497,
@@ -4244,7 +4073,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Hombreras negras de escamas de dragón",
                 ["Taiwanese"] = "黑色龍鱗護肩",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10656,
         },
         {
@@ -4265,7 +4093,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Peto viviente",
                 ["Taiwanese"] = "生命胸甲",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10658,
         },
         {
@@ -4286,7 +4113,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Leotardos de devilsaurio",
                 ["Taiwanese"] = "魔暴龍皮護腿",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10660,
         },
         {
@@ -4307,7 +4133,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Armadura perversa de cuero",
                 ["Taiwanese"] = "邪惡皮甲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 19100,
@@ -4327,7 +4152,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Hombreras escórpidas pesadas",
                 ["Taiwanese"] = "重型蠍殼護肩",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 19101,
@@ -4347,7 +4171,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Hombreras volcánicas",
                 ["Taiwanese"] = "火山護肩",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10658,
         },
         {
@@ -4368,7 +4191,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Armadura de cuero rúnico",
                 ["Taiwanese"] = "符文皮甲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 19103,
@@ -4388,7 +4210,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Hombreras de cuero rúnico",
                 ["Taiwanese"] = "符文皮甲護肩",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 19104,
@@ -4408,7 +4229,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Túnica sable de hielo",
                 ["Taiwanese"] = "霜刃外套",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10660,
         },
         {
@@ -4429,7 +4249,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Leotardos negros de escamas de dragón",
                 ["Taiwanese"] = "黑色龍鱗護腿",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10656,
         },
         {
@@ -4447,7 +4266,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Cuero medio",
                 ["Taiwanese"] = "中皮",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 500,
                 ["sources"] = {
@@ -4483,7 +4301,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Cuero pesado",
                 ["Taiwanese"] = "重皮",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1000,
                 ["sources"] = {
@@ -4519,7 +4336,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Cuero grueso",
                 ["Taiwanese"] = "厚皮",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3600,
                 ["sources"] = {
@@ -4548,7 +4364,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Botas del Can del núcleo",
                 ["Taiwanese"] = "熔岩犬皮靴",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10660,
         },
         {
@@ -4569,7 +4384,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Yelmo de arrabio",
                 ["Taiwanese"] = "熔鑄頭盔",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10658,
         },
         {
@@ -4590,7 +4404,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Botas negras de escama de dragón",
                 ["Taiwanese"] = "黑色龍鱗戰靴",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10656,
         },
         {
@@ -4611,7 +4424,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Guantes del abuelo",
                 ["Taiwanese"] = "冬天爺爺的手套",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 22331,
@@ -4628,7 +4440,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Cuero basto",
                 ["Taiwanese"] = "硬甲皮",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 5000,
                 ["sources"] = {
@@ -4655,7 +4466,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Guantes sombradermos",
                 ["Taiwanese"] = "影皮手套",
             },
-            ["phase"] = 2,
         },
         {
             ["id"] = 22727,
@@ -4675,7 +4485,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Conjunto de armadura del núcleo",
                 ["Taiwanese"] = "熔火護甲片",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 22815,
@@ -4692,7 +4501,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Disfraz de ogro Gordok",
                 ["Taiwanese"] = "戈多克巨魔裝",
             },
-            ["phase"] = 1,
             ["quests"] = {
                 5518,
             },
@@ -4716,7 +4524,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Faja de perspicacia",
                 ["Taiwanese"] = "洞察腰帶",
             },
-            ["phase"] = 2,
         },
         {
             ["id"] = 22922,
@@ -4736,7 +4543,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Botas de mangosta",
                 ["Taiwanese"] = "貓鼬長靴",
             },
-            ["phase"] = 2,
         },
         {
             ["id"] = 22923,
@@ -4756,7 +4562,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Brazales voladores rápidos",
                 ["Taiwanese"] = "迅行護腕",
             },
-            ["phase"] = 2,
         },
         {
             ["id"] = 22926,
@@ -4776,7 +4581,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Capa cromática",
                 ["Taiwanese"] = "多彩披風",
             },
-            ["phase"] = 2,
             ["specialisation"] = 10656,
         },
         {
@@ -4797,7 +4601,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Pellejo de lo salvaje",
                 ["Taiwanese"] = "野性之皮",
             },
-            ["phase"] = 2,
             ["specialisation"] = 10660,
         },
         {
@@ -4818,7 +4621,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Capa cambiante",
                 ["Taiwanese"] = "移形披風",
             },
-            ["phase"] = 2,
             ["specialisation"] = 10658,
         },
         {
@@ -4839,7 +4641,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Bola de cuero pesado",
                 ["Taiwanese"] = "重皮球",
             },
-            ["phase"] = 2,
         },
         {
             ["id"] = 23399,
@@ -4859,7 +4660,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Brazales primitivos",
                 ["Taiwanese"] = "野人護腕",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 23703,
@@ -4879,7 +4679,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Poder de los Fauces de Madera",
                 ["Taiwanese"] = "木喉之力",
             },
-            ["phase"] = 3,
         },
         {
             ["id"] = 23704,
@@ -4899,7 +4698,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Camorrista Fauces de Madera",
                 ["Taiwanese"] = "木喉作戰手套",
             },
-            ["phase"] = 3,
         },
         {
             ["id"] = 23705,
@@ -4919,7 +4717,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Alpargatas del Alba",
                 ["Taiwanese"] = "黎明皮靴",
             },
-            ["phase"] = 3,
         },
         {
             ["id"] = 23706,
@@ -4939,7 +4736,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Manto dorado del Alba",
                 ["Taiwanese"] = "金色黎明襯肩",
             },
-            ["phase"] = 3,
         },
         {
             ["id"] = 23707,
@@ -4959,7 +4755,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Cinturón de lava",
                 ["Taiwanese"] = "熔岩腰帶",
             },
-            ["phase"] = 3,
         },
         {
             ["id"] = 23708,
@@ -4979,7 +4774,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Guanteletes cromáticos",
                 ["Taiwanese"] = "多彩護手",
             },
-            ["phase"] = 3,
             ["specialisation"] = 10656,
         },
         {
@@ -5000,7 +4794,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Cinturón del Can del núcleo",
                 ["Taiwanese"] = "熔火犬皮腰帶",
             },
-            ["phase"] = 3,
             ["specialisation"] = 10660,
         },
         {
@@ -5021,7 +4814,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Cinturón de arrabio",
                 ["Taiwanese"] = "熔火腰帶",
             },
-            ["phase"] = 3,
             ["specialisation"] = 10658,
         },
         {
@@ -5042,7 +4834,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Chaleco primigenio de piel de murciélago",
                 ["Taiwanese"] = "原始蝙蝠皮外套",
             },
-            ["phase"] = 4,
         },
         {
             ["id"] = 24122,
@@ -5062,7 +4853,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Guantes primigenios de piel de murciélago",
                 ["Taiwanese"] = "原始蝙蝠皮手套",
             },
-            ["phase"] = 4,
         },
         {
             ["id"] = 24123,
@@ -5082,7 +4872,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Brazales primigenios de piel de murciélago",
                 ["Taiwanese"] = "原始蝙蝠皮護腕",
             },
-            ["phase"] = 4,
         },
         {
             ["id"] = 24124,
@@ -5102,7 +4891,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Peto de tigre sangriento",
                 ["Taiwanese"] = "血虎胸甲",
             },
-            ["phase"] = 4,
         },
         {
             ["id"] = 24125,
@@ -5122,7 +4910,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Hombreras de tigre sangrientas",
                 ["Taiwanese"] = "血虎護肩",
             },
-            ["phase"] = 4,
         },
         {
             ["id"] = 24654,
@@ -5139,7 +4926,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Leotardos de escamas de dragón azul",
                 ["Taiwanese"] = "藍龍鱗片護腿",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10656,
             ["trainers"] = {
                 ["price"] = 45000,
@@ -5164,7 +4950,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Guanteletes de escamas de dragón verde",
                 ["Taiwanese"] = "綠色龍鱗護手",
             },
-            ["phase"] = 1,
             ["specialisation"] = 10656,
             ["trainers"] = {
                 ["price"] = 27000,
@@ -5192,7 +4977,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Peto de escamas del sueño",
                 ["Taiwanese"] = "夢幻龍鱗胸甲",
             },
-            ["phase"] = 5,
             ["specialisation"] = 10656,
         },
         {
@@ -5213,7 +4997,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Brazales escupefuego",
                 ["Taiwanese"] = "飛火護腕",
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 24847,
@@ -5233,7 +5016,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Guanteletes escupefuego",
                 ["Taiwanese"] = "飛火護手",
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 24848,
@@ -5253,7 +5035,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Peto escupefuego",
                 ["Taiwanese"] = "飛火胸甲",
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 24849,
@@ -5273,7 +5054,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Brazales acecharenas",
                 ["Taiwanese"] = "沙行者護腕",
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 24850,
@@ -5293,7 +5073,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Guanteletes acecharenas",
                 ["Taiwanese"] = "沙行者護手",
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 24851,
@@ -5313,7 +5092,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Peto acecharenas",
                 ["Taiwanese"] = "沙行者胸甲",
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 24940,
@@ -5333,7 +5111,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Túnica negra de cría",
                 ["Taiwanese"] = "黑色雛龍外衣",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 26279,
@@ -5353,7 +5130,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Guantes velotormenta",
                 ["Taiwanese"] = "雷暴手套",
             },
-            ["phase"] = 5,
             ["specialisation"] = 10658,
         },
         {
@@ -5371,7 +5147,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Túnica polar",
                 ["Taiwanese"] = "極地外套",
             },
-            ["phase"] = 6,
             ["quests"] = {
                 9233,
             },
@@ -5401,7 +5176,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Guantes polares",
                 ["Taiwanese"] = "極地手套",
             },
-            ["phase"] = 6,
             ["quests"] = {
                 9233,
             },
@@ -5431,7 +5205,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Brazales polares",
                 ["Taiwanese"] = "極地護腕",
             },
-            ["phase"] = 6,
             ["quests"] = {
                 9233,
             },
@@ -5461,7 +5234,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Peto de escamas gélidas",
                 ["Taiwanese"] = "冰鱗胸甲",
             },
-            ["phase"] = 6,
             ["quests"] = {
                 9233,
             },
@@ -5491,7 +5263,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Guanteletes de escamas gélidas",
                 ["Taiwanese"] = "冰鱗護手",
             },
-            ["phase"] = 6,
             ["quests"] = {
                 9233,
             },
@@ -5521,7 +5292,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Brazales de escamas gélidas",
                 ["Taiwanese"] = "冰鱗護腕",
             },
-            ["phase"] = 6,
             ["quests"] = {
                 9233,
             },
@@ -5554,7 +5324,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Yelmo boscarbusto",
                 ["Taiwanese"] = "木藤頭盔",
             },
-            ["phase"] = 6,
         },
         {
             ["id"] = 28473,
@@ -5574,7 +5343,6 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Botas boscarbusto",
                 ["Taiwanese"] = "木藤靴子",
             },
-            ["phase"] = 6,
         },
         {
             ["id"] = 28474,
@@ -5594,6 +5362,5 @@ TRADE_SKILLS_DATA["skills"]["Leatherworking"] =
                 ["Spanish"] = "Cinturón boscarbusto",
                 ["Taiwanese"] = "木藤腰帶",
             },
-            ["phase"] = 6,
         },
     }

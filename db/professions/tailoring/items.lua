@@ -20,7 +20,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: toga de lino rojo",
                 ["Taiwanese"] = "圖樣：紅色亞麻長袍",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -43,7 +42,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: toga de lana gris",
                 ["Taiwanese"] = "圖樣：灰色毛紡長袍",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -66,7 +64,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: bolsa de lana verde",
                 ["Taiwanese"] = "圖樣：綠色毛紡包",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -89,7 +86,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: botas de lana roja",
                 ["Taiwanese"] = "圖樣：紅色毛紡靴",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -112,7 +108,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: capa de lana pesada",
                 ["Taiwanese"] = "圖樣：高級毛紡披風",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -135,7 +130,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: hombreras de lana reforzada",
                 ["Taiwanese"] = "圖樣：強化毛紡護肩",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -158,7 +152,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: guantes Fénix",
                 ["Taiwanese"] = "圖樣：鳳凰手套",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -181,7 +174,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: pantalones Fénix",
                 ["Taiwanese"] = "圖樣：鳳凰短褲",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -204,7 +196,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: zapatillas de seda de araña",
                 ["Taiwanese"] = "圖樣：蛛絲便鞋",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -227,7 +218,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: caperuza de las Sombras",
                 ["Taiwanese"] = "圖樣：暗影頭巾",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -250,7 +240,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: botas del Encantador",
                 ["Taiwanese"] = "圖樣：附魔師長靴",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -273,7 +262,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: cinturón de araña",
                 ["Taiwanese"] = "圖樣：蜘蛛腰帶",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -296,7 +284,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: camisa de seda morada viva",
                 ["Taiwanese"] = "圖樣：紫色絲質襯衣",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -313,7 +300,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: capa helada",
                 ["Taiwanese"] = "圖樣：冰覆披風",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 1500,
@@ -343,7 +329,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: cinturón de estrella",
                 ["Taiwanese"] = "圖樣：星辰腰帶",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -367,7 +352,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: bolsa de lino rojo",
                 ["Taiwanese"] = "圖樣：紅色亞麻包",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 200,
@@ -399,7 +383,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: bolsa de lana roja",
                 ["Taiwanese"] = "圖樣：紅色毛紡包",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 500,
@@ -438,7 +421,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: togas de Arcana",
                 ["Taiwanese"] = "圖樣：祕法之袍",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -461,7 +443,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: talega de seda verde",
                 ["Taiwanese"] = "圖樣：綠色絲質包",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -485,7 +466,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: talega de seda negra",
                 ["Taiwanese"] = "圖樣：黑色絲質背包",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -502,7 +482,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: jubón de lino azul",
                 ["Taiwanese"] = "圖樣：藍色亞麻外衣",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 200,
@@ -535,7 +514,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: jubón de lino rojo",
                 ["Taiwanese"] = "圖樣：紅色亞麻外衣",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -552,7 +530,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: toga de lino azul",
                 ["Taiwanese"] = "圖樣：藍色亞麻長袍",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 300,
@@ -579,7 +556,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: mono azul",
                 ["Taiwanese"] = "圖樣：藍色罩衫",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 400,
@@ -606,7 +582,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: toga de fiel superior",
                 ["Taiwanese"] = "圖樣：大師長袍",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 800,
@@ -640,7 +615,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: camisa azul con estilo",
                 ["Taiwanese"] = "圖樣：漂亮的藍襯衣",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -663,7 +637,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: camisa verde con estilo",
                 ["Taiwanese"] = "圖樣：漂亮的綠襯衣",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -680,7 +653,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: camisa de seda oscura",
                 ["Taiwanese"] = "圖樣：黑絲襯衣",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 1100,
@@ -710,7 +682,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: hombreras de seda carmesí",
                 ["Taiwanese"] = "圖樣：深紅絲質護肩",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -733,7 +704,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: hombreras azur",
                 ["Taiwanese"] = "圖樣：碧藍護肩",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -756,7 +726,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: cinturón de seda terránea",
                 ["Taiwanese"] = "圖樣：土靈絲質腰帶",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -773,7 +742,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: capa de seda carmesí",
                 ["Taiwanese"] = "圖樣：深紅絲質披風",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 1200,
@@ -797,7 +765,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: toga de seda carmesí",
                 ["Taiwanese"] = "圖樣：深紅絲質長袍",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 5000,
@@ -820,7 +787,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: capa de seda azur",
                 ["Taiwanese"] = "圖樣：碧藍絲質披風",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 1500,
@@ -850,7 +816,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: armadura de seda verde",
                 ["Taiwanese"] = "圖樣：綠色絲甲",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -873,7 +838,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: guantes de fe verdadera",
                 ["Taiwanese"] = "圖樣：虔誠手套",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -896,7 +860,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: manos de Oscuridad",
                 ["Taiwanese"] = "圖樣：黑暗之手",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -913,7 +876,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: guantes de seda azur",
                 ["Taiwanese"] = "圖樣：碧藍絲質手套",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 1000,
@@ -943,7 +905,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: jubón de paño mágico rojo",
                 ["Taiwanese"] = "圖樣：紅色魔紋外衣",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -966,7 +927,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: máscara de bandido blanca",
                 ["Taiwanese"] = "圖樣：白色強盜面罩",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -989,7 +949,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: pantalones de paño mágico rojo",
                 ["Taiwanese"] = "圖樣：紅色魔紋短褲",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1006,7 +965,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: camisa marcial naranja",
                 ["Taiwanese"] = "圖樣：橙色軍用襯衣",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 3000,
@@ -1036,7 +994,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: guantes de paño mágico rojo",
                 ["Taiwanese"] = "圖樣：紅色魔紋手套",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1053,7 +1010,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: camisa de paño mágico lavanda",
                 ["Taiwanese"] = "圖樣：紫色魔紋襯衣",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 4000,
@@ -1083,7 +1039,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: hombreras de paño mágico rojo",
                 ["Taiwanese"] = "圖樣：紅色魔紋護肩",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1106,7 +1061,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: falda escocesa colorida",
                 ["Taiwanese"] = "圖樣：多彩褶裙",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1123,7 +1077,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: camisa de paño mágico rosa",
                 ["Taiwanese"] = "圖樣：粉色魔紋襯衣",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 4000,
@@ -1147,7 +1100,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: sombrero de almirante",
                 ["Taiwanese"] = "圖樣：將軍之帽",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 7000,
@@ -1176,7 +1128,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: cinta de paño mágico rojo",
                 ["Taiwanese"] = "圖樣：紅色魔紋頭帶",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1193,7 +1144,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: camisa de esmoquin",
                 ["Taiwanese"] = "圖樣：禮服襯衣",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 4500,
@@ -1217,7 +1167,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: pantalones de esmoquin",
                 ["Taiwanese"] = "圖樣：禮服短褲",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 4500,
@@ -1241,7 +1190,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: vestido de boda blanco",
                 ["Taiwanese"] = "圖樣：白色婚紗",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 10000,
@@ -1265,7 +1213,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: chaqueta de esmoquin",
                 ["Taiwanese"] = "圖樣：禮服夾克",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 5000,
@@ -1289,7 +1236,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: máscara de tejido de sombras",
                 ["Taiwanese"] = "圖樣：暗紋面罩",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 3402,
@@ -1309,7 +1255,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: camisa negra de aventurero",
                 ["Taiwanese"] = "圖樣：黑色冒險者襯衣",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 1500,
@@ -1338,7 +1283,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: túnica Tejescarcha",
                 ["Taiwanese"] = "圖樣：霜紋外套",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1361,7 +1305,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: toga Tejescarcha",
                 ["Taiwanese"] = "圖樣：霜紋長袍",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1378,7 +1321,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: bolsa de paño rúnico",
                 ["Taiwanese"] = "圖樣：符文布包",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 12000,
@@ -1401,7 +1343,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: toga de paño rúnico",
                 ["Taiwanese"] = "圖樣：符文布袍",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 12000,
@@ -1430,7 +1371,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: túnica de paño rúnico",
                 ["Taiwanese"] = "圖樣：符文布外套",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1452,7 +1392,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: jubón de paño ceniza",
                 ["Taiwanese"] = "圖樣：灰布外衣",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1469,7 +1408,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: capa de paño rúnico",
                 ["Taiwanese"] = "圖樣：符文布披風",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 12000,
@@ -1497,7 +1435,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: cinturón Telafantasma",
                 ["Taiwanese"] = "圖樣：鬼紋腰帶",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1520,7 +1457,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: guantes Tejescarcha",
                 ["Taiwanese"] = "圖樣：霜紋手套",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1542,7 +1478,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: guantes de paño ceniza",
                 ["Taiwanese"] = "圖樣：灰布手套",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1565,7 +1500,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: guantes Telafantasma",
                 ["Taiwanese"] = "圖樣：鬼紋手套",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1588,7 +1522,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: toga de paño brillante",
                 ["Taiwanese"] = "圖樣：亮布長袍",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1611,7 +1544,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: guantes de paño brillante",
                 ["Taiwanese"] = "圖樣：亮布手套",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1633,7 +1565,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: jubón Telafantasma",
                 ["Taiwanese"] = "圖樣：鬼紋外衣",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1650,7 +1581,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: guantes de paño rúnico",
                 ["Taiwanese"] = "圖樣：符文布手套",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 16000,
@@ -1678,7 +1608,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: capa de paño ceniza",
                 ["Taiwanese"] = "圖樣：灰布披風",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1695,7 +1624,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: pantalones de tela de inferi",
                 ["Taiwanese"] = "圖樣：惡魔布短褲",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 16000,
@@ -1724,7 +1652,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: capa de paño brillante",
                 ["Taiwanese"] = "圖樣：亮布披風",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1746,7 +1673,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: leotardos de tejido zahorí",
                 ["Taiwanese"] = "圖樣：巫紋護腿",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1768,7 +1694,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: capa de Fuego",
                 ["Taiwanese"] = "圖樣：火焰披風",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -1785,7 +1710,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: botas de paño rúnico",
                 ["Taiwanese"] = "圖樣：符文布靴",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 20000,
@@ -1814,7 +1738,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: pantalones Tejescarcha",
                 ["Taiwanese"] = "圖樣：霜紋短褲",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1836,7 +1759,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: pantalones de paño ceniza",
                 ["Taiwanese"] = "圖樣：灰布短褲",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1859,7 +1781,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: pantalones de paño rúnico",
                 ["Taiwanese"] = "圖樣：符文布短褲",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["reputation"] = {
                 ["faction_id"] = 576,
@@ -1886,7 +1807,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: botas de tela de inferi",
                 ["Taiwanese"] = "圖樣：惡魔布靴",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1908,7 +1828,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: toga de Noche invernal",
                 ["Taiwanese"] = "圖樣：冬夜法袍",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -1931,7 +1850,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: pantalones de paño brillante",
                 ["Taiwanese"] = "圖樣：亮布短褲",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1953,7 +1871,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: pantalones Telafantasma",
                 ["Taiwanese"] = "圖樣：鬼紋短褲",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1976,7 +1893,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: caperuza de tela de inferi",
                 ["Taiwanese"] = "圖樣：惡魔布帽",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1999,7 +1915,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: leotardos de tela lunar",
                 ["Taiwanese"] = "圖樣：月布護腿",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -2022,7 +1937,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: cinta de paño rúnico",
                 ["Taiwanese"] = "圖樣：符文布頭帶",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -2045,7 +1959,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: bolsa de tela lunar",
                 ["Taiwanese"] = "圖樣：月布包",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -2067,7 +1980,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: toga de tejido zahorí",
                 ["Taiwanese"] = "圖樣：巫紋長袍",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -2090,7 +2002,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: jubón de tela lunar",
                 ["Taiwanese"] = "圖樣：月布外衣",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -2113,7 +2024,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: hombreras de paño rúnico",
                 ["Taiwanese"] = "圖樣：符文布護肩",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -2135,7 +2045,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: turbante de tejido zahorí",
                 ["Taiwanese"] = "圖樣：巫紋頭巾",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -2158,7 +2067,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: toga de tela de inferi",
                 ["Taiwanese"] = "圖樣：惡魔布袍",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -2181,7 +2089,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: hombreras de tela lunar",
                 ["Taiwanese"] = "圖樣：月布護肩",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -2204,7 +2111,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: hombreras de tela de inferi",
                 ["Taiwanese"] = "圖樣：惡魔布護肩",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -2227,7 +2133,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: aro de tela lunar",
                 ["Taiwanese"] = "圖樣：月布頭飾",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -2250,7 +2155,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: bolsa sin fondo",
                 ["Taiwanese"] = "圖樣：無底之包",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -2273,7 +2177,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: guantes de maestría de hechizos",
                 ["Taiwanese"] = "圖樣：法術專精手套",
             },
-            ["phase"] = 1,
             ["quality"] = "epic",
         },
         {
@@ -2295,7 +2198,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: vestimentas de fe verdadera",
                 ["Taiwanese"] = "圖樣：虔誠外衣",
             },
-            ["phase"] = 1,
             ["quality"] = "epic",
         },
         {
@@ -2317,7 +2219,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: toga del Archimago",
                 ["Taiwanese"] = "圖樣：大法師之袍",
             },
-            ["phase"] = 1,
             ["quality"] = "epic",
         },
         {
@@ -2339,7 +2240,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: toga del Vacío",
                 ["Taiwanese"] = "圖樣：虛空法袍",
             },
-            ["phase"] = 1,
             ["quality"] = "epic",
         },
         {
@@ -2356,7 +2256,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: tela lunar",
                 ["Taiwanese"] = "圖樣：月布",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 20000,
@@ -2379,7 +2278,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: camisa amarillo brillante",
                 ["Taiwanese"] = "圖樣：淡黃色襯衣",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 800,
@@ -2402,7 +2300,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: capucha de encantador",
                 ["Taiwanese"] = "圖樣：巫術師兜帽",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 1000,
@@ -2425,7 +2322,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: manto Bengala del Núcleo",
                 ["Taiwanese"] = "圖樣：光芒襯肩",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 180000,
@@ -2448,7 +2344,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: guantes Bengala del Núcleo",
                 ["Taiwanese"] = "圖樣：光芒手套",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 80000,
@@ -2472,7 +2367,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: camisa de vacaciones verde",
                 ["Taiwanese"] = "圖樣：綠色節日襯衣",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["quests"] = {
                 8769,
@@ -2503,7 +2397,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: brazaletes Bengala del Núcleo",
                 ["Taiwanese"] = "圖樣：光芒護腕",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -2523,7 +2416,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
             ["objects"] = {
                 179501,
             },
-            ["phase"] = 2,
             ["quality"] = "epic",
         },
         {
@@ -2543,7 +2435,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
             ["objects"] = {
                 179501,
             },
-            ["phase"] = 2,
             ["quality"] = "rare",
         },
         {
@@ -2563,7 +2454,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
             ["objects"] = {
                 179501,
             },
-            ["phase"] = 2,
             ["quality"] = "rare",
         },
         {
@@ -2583,7 +2473,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
             ["objects"] = {
                 179501,
             },
-            ["phase"] = 2,
             ["quality"] = "rare",
         },
         {
@@ -2603,7 +2492,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
             ["objects"] = {
                 179501,
             },
-            ["phase"] = 2,
             ["quality"] = "rare",
         },
         {
@@ -2620,7 +2508,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: toga de tela lunar",
                 ["Taiwanese"] = "圖樣：月布長袍",
             },
-            ["phase"] = 2,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 40000,
@@ -2643,7 +2530,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: sabiduría de los Fauces de Madera",
                 ["Taiwanese"] = "圖樣：木喉之智",
             },
-            ["phase"] = 3,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 576,
@@ -2670,7 +2556,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: botas Argenta",
                 ["Taiwanese"] = "圖樣：銀色長靴",
             },
-            ["phase"] = 3,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 529,
@@ -2699,7 +2584,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: hombreras Argenta",
                 ["Taiwanese"] = "圖樣：銀色護肩",
             },
-            ["phase"] = 3,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 529,
@@ -2728,7 +2612,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: manto de los Fauces de Madera",
                 ["Taiwanese"] = "圖樣：木喉襯肩",
             },
-            ["phase"] = 3,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 576,
@@ -2755,7 +2638,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: toga Bengala del Núcleo",
                 ["Taiwanese"] = "圖樣：光芒長袍",
             },
-            ["phase"] = 3,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 60000,
@@ -2778,7 +2660,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: leotardos Bengala del Núcleo",
                 ["Taiwanese"] = "設計圖：光芒護腿",
             },
-            ["phase"] = 3,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 90000,
@@ -2801,7 +2682,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: jubón Vid de sangre",
                 ["Taiwanese"] = "圖樣：血藤外套",
             },
-            ["phase"] = 4,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -2828,7 +2708,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: leotardos Vid de sangre",
                 ["Taiwanese"] = "圖樣：血藤護腿",
             },
-            ["phase"] = 4,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -2855,7 +2734,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: botas Vid de sangre",
                 ["Taiwanese"] = "圖樣：血藤長靴",
             },
-            ["phase"] = 4,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -2882,7 +2760,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: leotardos estigios rúnicos",
                 ["Taiwanese"] = "圖樣：符文冥河護腿",
             },
-            ["phase"] = 5,
             ["quality"] = "rare",
             ["quests"] = {
                 8323,
@@ -2903,7 +2780,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: botas estigias rúnicas",
                 ["Taiwanese"] = "圖樣：符文冥河長靴",
             },
-            ["phase"] = 5,
             ["quality"] = "rare",
             ["quests"] = {
                 8323,
@@ -2924,7 +2800,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: cinturón estigio rúnico",
                 ["Taiwanese"] = "圖樣：符文冥河腰帶",
             },
-            ["phase"] = 5,
             ["quality"] = "rare",
             ["quests"] = {
                 8323,
@@ -2945,7 +2820,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: faltriquera de almas",
                 ["Taiwanese"] = "圖樣：靈魂袋",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 12000,
@@ -2979,7 +2853,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: bolsa de tela de inferi del Núcleo",
                 ["Taiwanese"] = "圖樣：熔火惡魔布包",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -2997,7 +2870,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: vestido de fiesta",
                 ["Taiwanese"] = "圖樣 : 節慶長裙",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 8878,
@@ -3018,7 +2890,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: traje de fiesta",
                 ["Taiwanese"] = "圖樣 : 節慶衣服",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 8878,
@@ -3038,7 +2909,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: faltriquera de paño mágico encantado",
                 ["Taiwanese"] = "圖樣：附魔魔紋包",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 6000,
@@ -3068,7 +2938,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: bolsa de paño rúnico encantado",
                 ["Taiwanese"] = "圖樣：附魔符文布包",
             },
-            ["phase"] = 5,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 20000,
@@ -3096,7 +2965,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: bolsa de encantamiento grande",
                 ["Taiwanese"] = "圖樣：附魔大背包",
             },
-            ["phase"] = 5,
             ["quality"] = "uncommon",
         },
         {
@@ -3113,7 +2981,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: bolsa de hierbas Cenarion",
                 ["Taiwanese"] = "圖樣：塞納里奧草藥包",
             },
-            ["phase"] = 5,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -3140,7 +3007,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: cartera de Cenario",
                 ["Taiwanese"] = "圖樣：塞納留斯的背包",
             },
-            ["phase"] = 5,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -3167,7 +3033,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: abrazo de Gaea",
                 ["Taiwanese"] = "圖樣：蓋亞之擁",
             },
-            ["phase"] = 5,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -3194,7 +3059,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: guantes glaciales",
                 ["Taiwanese"] = "圖樣：冰川護手",
             },
-            ["phase"] = 6,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 529,
@@ -3221,7 +3085,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: jubón glacial",
                 ["Taiwanese"] = "圖樣：冰川外衣",
             },
-            ["phase"] = 6,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 529,
@@ -3248,7 +3111,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: muñequeras glaciales",
                 ["Taiwanese"] = "圖樣：冰川護腕",
             },
-            ["phase"] = 6,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 529,
@@ -3275,7 +3137,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: hombreras nemorosas",
                 ["Taiwanese"] = "圖樣：森林襯肩",
             },
-            ["phase"] = 5,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -3302,7 +3163,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: corona nemorosa",
                 ["Taiwanese"] = "圖樣：森林環冠",
             },
-            ["phase"] = 5,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -3329,7 +3189,6 @@ TRADE_SKILLS_DATA["items"]["Tailoring"] =
                 ["Spanish"] = "Patrón: jubón nemoroso",
                 ["Taiwanese"] = "圖樣：森林外套",
             },
-            ["phase"] = 5,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,

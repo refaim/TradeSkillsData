@@ -17,7 +17,6 @@ TRADE_SKILLS_DATA["levels"]["Poisons"] =
                 ["Spanish"] = "Venenos",
                 ["Taiwanese"] = "毒藥",
             },
-            ["phase"] = 1,
             ["quests"] = {
                 2359,
                 2480,

@@ -20,7 +20,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: ardilla mecánica",
                 ["Taiwanese"] = "結構圖：機械松鼠",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -43,7 +42,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: carga de seforio pequeña",
                 ["Taiwanese"] = "結構圖：小型爆鹽炸彈",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -66,7 +64,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: gafas de las Sombras",
                 ["Taiwanese"] = "結構圖：暗影護目鏡",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -88,7 +85,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: deflector de llamas",
                 ["Taiwanese"] = "結構圖：火焰偏斜器",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -111,7 +107,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: rifle de vista lunar",
                 ["Taiwanese"] = "結構圖：夜視步槍",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -133,7 +128,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: rayo descombolulador",
                 ["Taiwanese"] = "結構圖：退化射線",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -156,7 +150,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: mortero de bronce portátil",
                 ["Taiwanese"] = "結構圖：可攜式青銅迫擊炮",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -179,7 +172,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: monóculo de artesano",
                 ["Taiwanese"] = "結構圖：工匠眼鏡",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -202,7 +194,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: mina terrestre goblin",
                 ["Taiwanese"] = "結構圖：哥布林暗雷",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -225,7 +216,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: carga de seforio grande",
                 ["Taiwanese"] = "結構圖：大型爆鹽炸彈",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -242,7 +232,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: bomba cegadora",
                 ["Taiwanese"] = "結構圖：閃光雷",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 1559,
@@ -268,7 +257,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: dinamita EZ-Thro",
                 ["Taiwanese"] = "結構圖：簡易投擲炸彈",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -290,7 +278,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: botas cohete goblin",
                 ["Taiwanese"] = "結構圖：哥布林火箭靴",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -307,7 +294,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: mando universal gnómico",
                 ["Taiwanese"] = "結構圖：地精通用遙控器",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 1200,
@@ -331,7 +317,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: pinzas de batería goblin",
                 ["Taiwanese"] = "結構圖：哥布林起搏器",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 2000,
@@ -362,7 +347,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: aparato de invisibilidad gnómico",
                 ["Taiwanese"] = "結構圖：地精隱形裝置",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 2400,
@@ -391,7 +375,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: gafas Ojo brillante",
                 ["Taiwanese"] = "結構圖：增亮護目鏡",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -408,7 +391,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: mira mortal",
                 ["Taiwanese"] = "結構圖：致命瞄準鏡",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 3000,
@@ -438,7 +420,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: ultragafas Ojo de gato",
                 ["Taiwanese"] = "結構圖：貓眼超級護目鏡",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -461,7 +442,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: rifle de gran calibre de mitril",
                 ["Taiwanese"] = "結構圖：大口徑祕銀步槍",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -484,7 +464,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: gafas extremas de hechizo de poder",
                 ["Taiwanese"] = "結構圖：法術能量護目鏡超級版",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -507,7 +486,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: capa de paracaidista",
                 ["Taiwanese"] = "結構圖：降落傘披風",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -524,7 +502,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: casco de inmersión",
                 ["Taiwanese"] = "結構圖：潛水頭盔",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 3600,
@@ -553,7 +530,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: mira de francotirador",
                 ["Taiwanese"] = "結構圖：狙擊瞄準鏡",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -570,7 +546,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: dragonizo mecánico de mitril",
                 ["Taiwanese"] = "結構圖：祕銀機械幼龍",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 4000,
@@ -593,7 +568,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: Lil' Humillo",
                 ["Taiwanese"] = "結構圖：發條娃娃",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 3645,
@@ -614,7 +588,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: bomba mascota",
                 ["Taiwanese"] = "結構圖：炸彈寵物",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 3644,
@@ -634,7 +607,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: deflector de hielo",
                 ["Taiwanese"] = "結構圖：寒冰偏斜器",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 1800,
@@ -657,7 +629,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: trabuco fabricado con amor",
                 ["Taiwanese"] = "結構圖：精緻手工火槍",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 1000,
@@ -681,7 +652,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: mira de precisión",
                 ["Taiwanese"] = "結構圖：精確瞄準鏡",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 2000,
@@ -705,7 +675,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: dragonizo mecánico",
                 ["Taiwanese"] = "結構圖：機械幼龍",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 10000,
@@ -728,7 +697,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: recombobulador menor",
                 ["Taiwanese"] = "結構圖：自動淨化裝置",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 1500,
@@ -752,7 +720,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: granada de torio",
                 ["Taiwanese"] = "結構圖：瑟銀手榴彈",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 12000,
@@ -776,7 +743,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: trastos wow de torio",
                 ["Taiwanese"] = "結構圖：瑟銀零件",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 12000,
@@ -806,7 +772,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: rifle de torio",
                 ["Taiwanese"] = "結構圖：瑟銀火槍",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -829,7 +794,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: sapo mecánico casi vivo",
                 ["Taiwanese"] = "結構圖：仿真機械蛙",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -851,7 +815,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: gafas extremas de hechizo de poder plus",
                 ["Taiwanese"] = "結構圖：法術能量護目鏡超級改良版",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -868,7 +831,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: muñeco-diana magistral",
                 ["Taiwanese"] = "結構圖：高級活動假人",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 16000,
@@ -891,7 +853,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: tubo de torio",
                 ["Taiwanese"] = "結構圖：瑟銀管",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 16000,
@@ -919,7 +880,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: rifle Hierro Negro",
                 ["Taiwanese"] = "結構圖：黑鐵步槍",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -941,7 +901,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: bomba Hierro Negro",
                 ["Taiwanese"] = "結構圖：黑鐵炸彈",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -958,7 +917,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: conversor de arcanita delicado",
                 ["Taiwanese"] = "結構圖：精密奧金轉換器",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 20000,
@@ -987,7 +945,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: proyectiles de torio",
                 ["Taiwanese"] = "結構圖：瑟銀彈",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1009,7 +966,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: modulador de amplificación de voz",
                 ["Taiwanese"] = "結構圖：語音增強模組",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1031,7 +987,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: gafas de maestro ingeniero",
                 ["Taiwanese"] = "結構圖：高級技師護目鏡",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1053,7 +1008,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: dragonizo de arcanita",
                 ["Taiwanese"] = "結構圖：奧金幼龍",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1076,7 +1030,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: bomba Arcana",
                 ["Taiwanese"] = "結構圖：祕法炸彈",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1098,7 +1051,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: rifle de arcanita impecable",
                 ["Taiwanese"] = "結構圖：完美的奧金步槍",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1116,7 +1068,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: señor de las nieves 9000",
                 ["Taiwanese"] = "結構圖：雪王9000型",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 8769,
@@ -1136,7 +1087,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: robot de reparación de campo 74A",
                 ["Taiwanese"] = "結構圖：修理機器人74A型",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["special_action"] = "schematic Argelmach",
         },
@@ -1165,7 +1115,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: Acurascopio de 247x128 Biznicks",
                 ["Taiwanese"] = "結構圖：比茲尼克247x128精確瞄準鏡",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -1193,7 +1142,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: disco reactivo de potencia",
                 ["Taiwanese"] = "結構圖：力回饋盾牌",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -1221,7 +1169,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: rifle de tirador del Núcleo",
                 ["Taiwanese"] = "結構圖：火核狙擊步槍",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -1238,7 +1185,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: fuego artificial rojo",
                 ["Taiwanese"] = "結構圖：紅色煙火",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 1800,
@@ -1261,7 +1207,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: fuego artificial verde",
                 ["Taiwanese"] = "結構圖：綠色煙火",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 1800,
@@ -1285,7 +1230,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: fuego artificial azul",
                 ["Taiwanese"] = "結構圖：藍色煙火",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 1800,
@@ -1309,7 +1253,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: dinamita EZ-Thro 2",
                 ["Taiwanese"] = "結構圖：簡易投擲炸彈 II",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 5000,
@@ -1332,7 +1275,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: transformador de veraplata",
                 ["Taiwanese"] = "結構圖：真銀變壓器",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 12000,
@@ -1355,7 +1297,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: refractor de hielo Girohielo",
                 ["Taiwanese"] = "結構圖：寒冰偏斜器",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 12000,
@@ -1383,7 +1324,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: pinzas de batería goblin XL",
                 ["Taiwanese"] = "結構圖：哥布林起搏器XL型",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1405,7 +1345,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: robot alarma gnómico",
                 ["Taiwanese"] = "結構圖：地精報警機器人",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1422,7 +1361,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: recombobulador sublime",
                 ["Taiwanese"] = "結構圖：強力淨化器",
             },
-            ["phase"] = 2,
             ["quality"] = "uncommon",
             ["special_action"] = "dm tribute run",
         },
@@ -1440,7 +1378,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: carga de seforio potente",
                 ["Taiwanese"] = "結構圖：強力爆鹽炸彈",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 16000,
@@ -1468,7 +1405,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: refractor de llamas hiperradiante",
                 ["Taiwanese"] = "結構圖：高輻射烈焰反射器",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1490,7 +1426,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: reflector de sombras ultra-flash",
                 ["Taiwanese"] = "結構圖：快速暗影反射器",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1512,7 +1447,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: amplificador de mundo",
                 ["Taiwanese"] = "結構圖：世界放大器",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1529,7 +1463,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: fuego artificial con forma de serpiente",
                 ["Taiwanese"] = "結構圖：長蛇煙火",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["special_action"] = "talk to npc after quest",
             ["vendors"] = {
@@ -1553,7 +1486,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: gafas Vid de sangre",
                 ["Taiwanese"] = "結構圖：血藤護目鏡",
             },
-            ["phase"] = 4,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -1580,7 +1512,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: lentes Vid de sangre",
                 ["Taiwanese"] = "結構圖：血藤透鏡",
             },
-            ["phase"] = 4,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -1608,7 +1539,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: cohete azul pequeño",
                 ["Taiwanese"] = "結構圖 : 小型藍色煙花",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 8876,
@@ -1629,7 +1559,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: cohete verde pequeño",
                 ["Taiwanese"] = "結構圖 : 小型綠色煙花",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 8876,
@@ -1650,7 +1579,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: cohete rojo pequeño",
                 ["Taiwanese"] = "結構圖 : 小型紅色煙花",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 8876,
@@ -1671,7 +1599,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: cohete azul grande",
                 ["Taiwanese"] = "結構圖 : 大型藍色煙花",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 8879,
@@ -1692,7 +1619,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: cohete verde grande",
                 ["Taiwanese"] = "結構圖 : 大型綠色煙花",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 8879,
@@ -1713,7 +1639,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: cohete rojo grande",
                 ["Taiwanese"] = "結構圖 : 大型紅色煙花",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 8879,
@@ -1734,7 +1659,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: ristra de cohetes azules",
                 ["Taiwanese"] = "結構圖 : 藍色煙花束",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 8880,
@@ -1755,7 +1679,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: ristra de cohetes verdes",
                 ["Taiwanese"] = "結構圖 : 綠色煙花束",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 8880,
@@ -1776,7 +1699,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: ristra de cohetes rojos",
                 ["Taiwanese"] = "結構圖 : 紅色煙花束",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 8880,
@@ -1797,7 +1719,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: ristra de cohetes azules grandes",
                 ["Taiwanese"] = "結構圖 : 大型藍色煙花束",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 8881,
@@ -1818,7 +1739,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: ristra de cohetes verdes grandes",
                 ["Taiwanese"] = "結構圖 : 大型綠色煙花束",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 8881,
@@ -1839,7 +1759,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: ristra de cohetes rojos grandes",
                 ["Taiwanese"] = "結構圖 : 大型紅色煙花束",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 8881,
@@ -1860,7 +1779,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: lanzacohetes",
                 ["Taiwanese"] = "結構圖 : 煙花束發射器",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 8882,
@@ -1881,7 +1799,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: lanzacohetes pirotécnico",
                 ["Taiwanese"] = "結構圖 : 煙火發射器",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 8877,
@@ -1902,7 +1819,6 @@ TRADE_SKILLS_DATA["items"]["Engineering"] =
                 ["Spanish"] = "Esquema: mando de tanque a vapor",
                 ["Taiwanese"] = "設計圖：蒸氣坦克控制器",
             },
-            ["phase"] = 6,
             ["quality"] = "common",
             ["quests"] = {
                 9249,

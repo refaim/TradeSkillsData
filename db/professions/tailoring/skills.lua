@@ -15,7 +15,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Jubón marrón de lino",
                 ["Taiwanese"] = "棕色亞麻外衣",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 50,
                 ["sources"] = {
@@ -60,7 +59,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Botas de lino",
                 ["Taiwanese"] = "亞麻靴",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 200,
                 ["sources"] = {
@@ -105,7 +103,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Capa de lino",
                 ["Taiwanese"] = "亞麻披風",
             },
-            ["phase"] = 1,
             ["special_action"] = "auto learned",
         },
         {
@@ -126,7 +123,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Toga roja de lino",
                 ["Taiwanese"] = "紅色亞麻長袍",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2392,
@@ -143,7 +139,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Camisa roja de lino",
                 ["Taiwanese"] = "紅色亞麻襯衣",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 50,
                 ["sources"] = {
@@ -188,7 +183,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Camisa blanca de lino",
                 ["Taiwanese"] = "白色亞麻襯衣",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 25,
                 ["sources"] = {
@@ -233,7 +227,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Camiseta azul de lino",
                 ["Taiwanese"] = "藍色亞麻襯衣",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 50,
                 ["sources"] = {
@@ -278,7 +271,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Jubón primitivo de lino",
                 ["Taiwanese"] = "野人亞麻外衣",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 300,
                 ["sources"] = {
@@ -323,7 +315,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Camisa verde de lino",
                 ["Taiwanese"] = "綠色亞麻襯衣",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 200,
                 ["sources"] = {
@@ -368,7 +359,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Manteo reforzado de lino",
                 ["Taiwanese"] = "強化亞麻斗篷",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 200,
                 ["sources"] = {
@@ -413,7 +403,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Jubón verde de lana",
                 ["Taiwanese"] = "綠色毛紡外衣",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 300,
                 ["sources"] = {
@@ -448,7 +437,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Botas de lana",
                 ["Taiwanese"] = "毛紡靴",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 300,
                 ["sources"] = {
@@ -483,7 +471,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Capa de lana",
                 ["Taiwanese"] = "毛紡斗篷",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 250,
                 ["sources"] = {
@@ -531,7 +518,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Toga gris de algodón",
                 ["Taiwanese"] = "灰色毛紡長袍",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2406,
@@ -548,7 +534,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Toga gris de algodón",
                 ["Taiwanese"] = "灰色毛紡襯衣",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 200,
                 ["sources"] = {
@@ -583,7 +568,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Madeja de paño de lino",
                 ["Taiwanese"] = "亞麻布卷",
             },
-            ["phase"] = 1,
             ["special_action"] = "auto learned",
         },
         {
@@ -601,7 +585,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Madeja de paño de algodón",
                 ["Taiwanese"] = "毛布卷",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 100,
                 ["sources"] = {
@@ -646,7 +629,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Bolsa de lino",
                 ["Taiwanese"] = "亞麻包",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 100,
                 ["sources"] = {
@@ -691,7 +673,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Bolsa de lana",
                 ["Taiwanese"] = "毛紡包",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 200,
                 ["sources"] = {
@@ -729,7 +710,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Bolsa verde de lana",
                 ["Taiwanese"] = "綠色毛紡包",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3813,
@@ -746,7 +726,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Talega pequeña de seda",
                 ["Taiwanese"] = "絲綢小包",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 800,
                 ["sources"] = {
@@ -781,7 +760,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Madeja de paño de seda",
                 ["Taiwanese"] = "絲綢卷",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 500,
                 ["sources"] = {
@@ -816,7 +794,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Guantes pesados de lino",
                 ["Taiwanese"] = "高級亞麻手套",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 100,
                 ["sources"] = {
@@ -861,7 +838,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Brazales verdes de lino",
                 ["Taiwanese"] = "綠色亞麻護腕",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 200,
                 ["sources"] = {
@@ -906,7 +882,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Bombachos de lino cosidos a mano",
                 ["Taiwanese"] = "手工亞麻褲",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 300,
                 ["sources"] = {
@@ -951,7 +926,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Guantes pesados de lana",
                 ["Taiwanese"] = "高級毛紡手套",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 400,
                 ["sources"] = {
@@ -989,7 +963,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Capa pesada de lana",
                 ["Taiwanese"] = "高級毛紡披風",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3845,
@@ -1006,7 +979,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Botas de lino de suela suave",
                 ["Taiwanese"] = "軟底亞麻靴",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 300,
                 ["sources"] = {
@@ -1044,7 +1016,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Botas rojas de lana",
                 ["Taiwanese"] = "紅色毛紡靴",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3848,
@@ -1061,7 +1032,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Hombreras de lana de costura doble",
                 ["Taiwanese"] = "雙線毛紡護肩",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 500,
                 ["sources"] = {
@@ -1099,7 +1069,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "hombreras reforzadas de lana",
                 ["Taiwanese"] = "強化毛紡護肩",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3850,
@@ -1116,7 +1085,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Pantalones pesados de lana",
                 ["Taiwanese"] = "高級毛紡短褲",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 500,
                 ["sources"] = {
@@ -1154,7 +1122,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Pantalones de fénix",
                 ["Taiwanese"] = "鳳凰短褲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3852,
@@ -1171,7 +1138,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Guantes de meditación",
                 ["Taiwanese"] = "冥想手套",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 750,
                 ["sources"] = {
@@ -1209,7 +1175,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Guantes de seda azur",
                 ["Taiwanese"] = "碧藍絲質手套",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3855,
@@ -1226,7 +1191,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Botas de sedarácnida",
                 ["Taiwanese"] = "蛛絲之靴",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 750,
                 ["sources"] = {
@@ -1264,7 +1228,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Zapatillas de seda de araña",
                 ["Taiwanese"] = "蛛絲便鞋",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3857,
@@ -1284,7 +1247,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Capucha del Encantador",
                 ["Taiwanese"] = "巫術師兜帽",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3858,
@@ -1304,7 +1266,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Caperuza de las Sombras",
                 ["Taiwanese"] = "暗影頭巾",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3859,
@@ -1321,7 +1282,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Jubón de seda azur",
                 ["Taiwanese"] = "碧藍絲質外衣",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 750,
                 ["sources"] = {
@@ -1359,7 +1319,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Botas del encantador",
                 ["Taiwanese"] = "附魔師長靴",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3861,
@@ -1376,7 +1335,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Capa larga de seda",
                 ["Taiwanese"] = "絲質長披風",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 900,
                 ["sources"] = {
@@ -1406,7 +1364,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Capa gélida",
                 ["Taiwanese"] = "冰覆披風",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3863,
@@ -1426,7 +1383,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Cinturón de araña",
                 ["Taiwanese"] = "蜘蛛腰帶",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3864,
@@ -1446,7 +1402,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Cinturón de estrella",
                 ["Taiwanese"] = "星辰腰帶",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3865,
@@ -1463,7 +1418,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Madeja de paño mágico",
                 ["Taiwanese"] = "魔紋布卷",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 900,
                 ["sources"] = {
@@ -1490,7 +1444,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Camisa roja estilosa",
                 ["Taiwanese"] = "漂亮的紅襯衣",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 250,
                 ["sources"] = {
@@ -1528,7 +1481,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Guantes de fénix",
                 ["Taiwanese"] = "鳳凰手套",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3869,
@@ -1548,7 +1500,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Camiseta amarilla brillante",
                 ["Taiwanese"] = "淡黃色襯衣",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3870,
@@ -1568,7 +1519,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Camisa negra de seda",
                 ["Taiwanese"] = "黑絲襯衣",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3871,
@@ -1585,7 +1535,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Camisa blanca formal",
                 ["Taiwanese"] = "體面的白襯衣",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 450,
                 ["sources"] = {
@@ -1615,7 +1564,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Camisa morada de seda enriquecida",
                 ["Taiwanese"] = "紫色絲質襯衣",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3873,
@@ -1635,7 +1583,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Camiseta negra de aventurero",
                 ["Taiwanese"] = "黑色冒險者襯衣",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3914,
@@ -1652,7 +1599,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Pantalones marrones de lino",
                 ["Taiwanese"] = "棕色亞麻短褲",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 50,
                 ["sources"] = {
@@ -1697,7 +1643,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Camiseta marrón de lino",
                 ["Taiwanese"] = "棕色亞麻襯衣",
             },
-            ["phase"] = 1,
             ["special_action"] = "auto learned",
         },
         {
@@ -1715,7 +1660,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Capa con remaches de perla",
                 ["Taiwanese"] = "珍珠披風",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 400,
                 ["sources"] = {
@@ -1753,7 +1697,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Bolsa roja de lino",
                 ["Taiwanese"] = "紅色亞麻包",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 6688,
@@ -1773,7 +1716,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Bolsa roja de lana",
                 ["Taiwanese"] = "紅色毛紡包",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 6690,
@@ -1790,7 +1732,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Toga inferior de zahorí",
                 ["Taiwanese"] = "次級巫師袍",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1000,
                 ["sources"] = {
@@ -1828,7 +1769,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Togas de Arcana",
                 ["Taiwanese"] = "祕法之袍",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 6693,
@@ -1848,7 +1788,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Conjunto verde de seda",
                 ["Taiwanese"] = "綠色絲質包",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 6695,
@@ -1868,7 +1807,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Mochila negra de seda",
                 ["Taiwanese"] = "黑色絲質背包",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7623,
@@ -1885,7 +1823,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Toga marrón de lino",
                 ["Taiwanese"] = "棕色亞麻長袍",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 50,
                 ["sources"] = {
@@ -1930,7 +1867,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Toga blanca de lino",
                 ["Taiwanese"] = "白色亞麻長袍",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 50,
                 ["sources"] = {
@@ -1978,7 +1914,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Jubón rojo de lino",
                 ["Taiwanese"] = "紅色亞麻外衣",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7630,
@@ -1998,7 +1933,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Jubón azul de lino",
                 ["Taiwanese"] = "藍色亞麻外衣",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7633,
@@ -2018,7 +1952,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Toga azul de lino",
                 ["Taiwanese"] = "藍色亞麻長袍",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7639,
@@ -2038,7 +1971,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Bata azul",
                 ["Taiwanese"] = "藍色罩衫",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7643,
@@ -2058,7 +1990,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Toga superior de adepto",
                 ["Taiwanese"] = "大師長袍",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7892,
@@ -2078,7 +2009,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Camisa azul estilosa",
                 ["Taiwanese"] = "漂亮的藍襯衣",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7893,
@@ -2098,7 +2028,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Camisa verde estilosa",
                 ["Taiwanese"] = "漂亮的綠襯衣",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 8465,
@@ -2115,7 +2044,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Vestido sencillo",
                 ["Taiwanese"] = "簡易的裙子",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 50,
                 ["sources"] = {
@@ -2160,7 +2088,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Vestido blanco de lana",
                 ["Taiwanese"] = "白色毛絨裙",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 250,
                 ["sources"] = {
@@ -2195,7 +2122,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Camisa blanca de aventurero",
                 ["Taiwanese"] = "白色冒險者襯衣",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 450,
                 ["sources"] = {
@@ -2222,7 +2148,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Camisa roja de aventurero",
                 ["Taiwanese"] = "紅色冒險者襯衣",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 675,
                 ["sources"] = {
@@ -2249,7 +2174,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Pantalones de seda azur",
                 ["Taiwanese"] = "碧藍絲質短褲",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 600,
                 ["sources"] = {
@@ -2284,7 +2208,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Capucha de seda azur",
                 ["Taiwanese"] = "碧藍絲質頭巾",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 600,
                 ["sources"] = {
@@ -2319,7 +2242,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Cinta de pelo de seda",
                 ["Taiwanese"] = "絲質頭帶",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 675,
                 ["sources"] = {
@@ -2346,7 +2268,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Jubón terráneo",
                 ["Taiwanese"] = "土靈外衣",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 900,
                 ["sources"] = {
@@ -2373,7 +2294,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Cinturón de seda azur",
                 ["Taiwanese"] = "碧藍絲質腰帶",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 900,
                 ["sources"] = {
@@ -2400,7 +2320,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Toga de poder",
                 ["Taiwanese"] = "力量法袍",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 900,
                 ["sources"] = {
@@ -2427,7 +2346,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Cinturón carmesí de seda",
                 ["Taiwanese"] = "深紅絲質腰帶",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 900,
                 ["sources"] = {
@@ -2454,7 +2372,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Hombreras verdes de seda",
                 ["Taiwanese"] = "綠色絲質護肩",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 900,
                 ["sources"] = {
@@ -2481,7 +2398,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Cinturón de lino",
                 ["Taiwanese"] = "亞麻腰帶",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 50,
                 ["sources"] = {
@@ -2529,7 +2445,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Mano de la oscuridad",
                 ["Taiwanese"] = "黑暗之手",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 8782,
@@ -2549,7 +2464,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Guantes de la fe verdadera",
                 ["Taiwanese"] = "虔誠手套",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 8784,
@@ -2569,7 +2483,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Armadura verde de seda",
                 ["Taiwanese"] = "綠色絲甲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 8786,
@@ -2589,7 +2502,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Capa de seda azur",
                 ["Taiwanese"] = "碧藍絲質披風",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 8789,
@@ -2609,7 +2521,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Capa carmesí de seda",
                 ["Taiwanese"] = "深紅絲質披風",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 8791,
@@ -2626,7 +2537,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Jubón carmesí de seda",
                 ["Taiwanese"] = "深紅絲質外衣",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 2250,
                 ["sources"] = {
@@ -2656,7 +2566,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Hombreras carmesí de seda",
                 ["Taiwanese"] = "深紅絲質護肩",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 8795,
@@ -2676,7 +2585,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Hombreras azur",
                 ["Taiwanese"] = "碧藍護肩",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 8797,
@@ -2696,7 +2604,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Cinturón terráneo de seda",
                 ["Taiwanese"] = "土靈絲質腰帶",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 8799,
@@ -2713,7 +2620,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Pantalones carmesí de seda",
                 ["Taiwanese"] = "深紅絲質馬褲",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 2700,
                 ["sources"] = {
@@ -2743,7 +2649,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Toga carmesí de seda",
                 ["Taiwanese"] = "深紅絲質長袍",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 8804,
@@ -2760,7 +2665,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Guantes carmesí de seda",
                 ["Taiwanese"] = "深紅絲質手套",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 4500,
                 ["sources"] = {
@@ -2787,7 +2691,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Pantalones de lino sencillos",
                 ["Taiwanese"] = "簡易亞麻短褲",
             },
-            ["phase"] = 1,
             ["special_action"] = "auto learned",
         },
         {
@@ -2805,7 +2708,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Botas de lino sencillas",
                 ["Taiwanese"] = "簡易的亞麻靴",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 50,
                 ["sources"] = {
@@ -2850,7 +2752,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Kilt sencillo",
                 ["Taiwanese"] = "簡易的褶裙",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 300,
                 ["sources"] = {
@@ -2898,7 +2799,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Kilt colorido",
                 ["Taiwanese"] = "多彩褶裙",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 12048,
@@ -2915,7 +2815,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Jubón negro de paño mágico",
                 ["Taiwanese"] = "黑色魔紋外衣",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3600,
                 ["sources"] = {
@@ -2942,7 +2841,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Leotardos negros de paño mágico",
                 ["Taiwanese"] = "黑色魔紋短褲",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3600,
                 ["sources"] = {
@@ -2969,7 +2867,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Toga negra de paño mágico",
                 ["Taiwanese"] = "黑色魔紋長袍",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3600,
                 ["sources"] = {
@@ -2996,7 +2893,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Pantalones de tejido de sombra",
                 ["Taiwanese"] = "暗紋短褲",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 4500,
                 ["sources"] = {
@@ -3020,7 +2916,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Guantes negros de paño mágico",
                 ["Taiwanese"] = "黑色魔紋手套",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 4500,
                 ["sources"] = {
@@ -3047,7 +2942,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Toga de tejido de sombra",
                 ["Taiwanese"] = "暗紋長袍",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 4950,
                 ["sources"] = {
@@ -3074,7 +2968,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Jubón rojo de tejemagia",
                 ["Taiwanese"] = "紅色魔紋外衣",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 12059,
@@ -3094,7 +2987,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Máscara blanca de bandido",
                 ["Taiwanese"] = "白色強盜面罩",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 12060,
@@ -3114,7 +3006,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Pantalones rojos de tejemagia",
                 ["Taiwanese"] = "紅色魔紋短褲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 12061,
@@ -3131,7 +3022,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Camisa naranja de tejemagia",
                 ["Taiwanese"] = "橙色魔紋襯衣",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 2250,
                 ["sources"] = {
@@ -3161,7 +3051,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Camisa naranja marcial",
                 ["Taiwanese"] = "橙色軍用襯衣",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 12065,
@@ -3178,7 +3067,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Bolsa de tejido mágico",
                 ["Taiwanese"] = "魔紋包",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 4500,
                 ["sources"] = {
@@ -3208,7 +3096,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Guantes rojos de tejemagia",
                 ["Taiwanese"] = "紅色魔紋手套",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 12067,
@@ -3225,7 +3112,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Guantes Tejesueños",
                 ["Taiwanese"] = "夢紋手套",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 4500,
                 ["sources"] = {
@@ -3252,7 +3138,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Toga de paño cenizo",
                 ["Taiwanese"] = "灰布長袍",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 4500,
                 ["sources"] = {
@@ -3279,7 +3164,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Jubón Tejesueños",
                 ["Taiwanese"] = "夢紋外衣",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 4500,
                 ["sources"] = {
@@ -3306,7 +3190,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Guantes de tejido de sombra",
                 ["Taiwanese"] = "暗紋手套",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 5400,
                 ["sources"] = {
@@ -3330,7 +3213,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Cinta de pelo de paño mágico",
                 ["Taiwanese"] = "黑色魔紋頭帶",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 6000,
                 ["sources"] = {
@@ -3355,7 +3237,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Botas negras de paño mágico",
                 ["Taiwanese"] = "黑色魔紋之靴",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 6000,
                 ["sources"] = {
@@ -3380,7 +3261,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Hombreras negras de paño mágico",
                 ["Taiwanese"] = "黑色魔紋護肩",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 6000,
                 ["sources"] = {
@@ -3408,7 +3288,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Camisa lavanda de paño mágico",
                 ["Taiwanese"] = "紫色魔紋襯衣",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 12076,
@@ -3425,7 +3304,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Hombreras de tejido de sombra",
                 ["Taiwanese"] = "暗紋護肩",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 5850,
                 ["sources"] = {
@@ -3449,7 +3327,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Vestido negro sencillo",
                 ["Taiwanese"] = "簡易的黑裙子",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 5000,
                 ["sources"] = {
@@ -3477,7 +3354,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Hombreras rojas de tejemagia",
                 ["Taiwanese"] = "紅色魔紋護肩",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 12079,
@@ -3494,7 +3370,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Bolsa roja de tejemagia",
                 ["Taiwanese"] = "紅色魔紋包",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 6500,
                 ["sources"] = {
@@ -3522,7 +3397,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Camisa rosa de tejemagia",
                 ["Taiwanese"] = "粉色魔紋襯衣",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 12081,
@@ -3542,7 +3416,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Sombrero del almirante",
                 ["Taiwanese"] = "將軍之帽",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 12082,
@@ -3559,7 +3432,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Botas de tejido de sombra",
                 ["Taiwanese"] = "暗紋之靴",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 6300,
                 ["sources"] = {
@@ -3586,7 +3458,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Cinta de pelo roja de tejemagia",
                 ["Taiwanese"] = "紅色魔紋頭帶",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 12085,
@@ -3606,7 +3477,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Camisa de smoquin",
                 ["Taiwanese"] = "禮服襯衣",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 12086,
@@ -3626,7 +3496,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Máscara de tejido de sombra",
                 ["Taiwanese"] = "暗紋面罩",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 12088,
@@ -3643,7 +3512,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Botas de paño cenizo",
                 ["Taiwanese"] = "灰布長靴",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 7500,
                 ["sources"] = {
@@ -3671,7 +3539,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Pantalones de esmoquin",
                 ["Taiwanese"] = "禮服短褲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 12091,
@@ -3691,7 +3558,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Vestido de boda blanco",
                 ["Taiwanese"] = "白色婚紗",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 12092,
@@ -3708,7 +3574,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Aro Tejesueños",
                 ["Taiwanese"] = "夢紋頭飾",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 7500,
                 ["sources"] = {
@@ -3736,7 +3601,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Chaqueta der esmoquin",
                 ["Taiwanese"] = "禮服夾克",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18401,
@@ -3753,7 +3617,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Madeja de paño rúnico",
                 ["Taiwanese"] = "符文布卷",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 10000,
                 ["sources"] = {
@@ -3778,7 +3641,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Cinturón de paño rúnico",
                 ["Taiwanese"] = "符文布腰帶",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 10000,
                 ["sources"] = {
@@ -3806,7 +3668,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Túnica tejescarcha",
                 ["Taiwanese"] = "霜紋外套",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18404,
@@ -3826,7 +3687,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Toga tejescarcha",
                 ["Taiwanese"] = "霜紋長袍",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18405,
@@ -3846,7 +3706,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Bolsa de paño rúnico",
                 ["Taiwanese"] = "符文布背包",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18406,
@@ -3866,7 +3725,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Toga de paño rúnico",
                 ["Taiwanese"] = "符文布袍",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18407,
@@ -3886,7 +3744,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Túnica de paño rúnico",
                 ["Taiwanese"] = "符文布外套",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18408,
@@ -3906,7 +3763,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Jubón de paño cenizo",
                 ["Taiwanese"] = "灰布外衣",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18409,
@@ -3926,7 +3782,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Capa de paño rúnico",
                 ["Taiwanese"] = "符文布披風",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18410,
@@ -3946,7 +3801,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Cinturón telafantasma",
                 ["Taiwanese"] = "鬼紋腰帶",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18411,
@@ -3966,7 +3820,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Guantes tejescarcha",
                 ["Taiwanese"] = "霜紋手套",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18412,
@@ -3986,7 +3839,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Guantes de paño cenizo",
                 ["Taiwanese"] = "灰布手套",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18413,
@@ -4006,7 +3858,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Guantes telafantasma",
                 ["Taiwanese"] = "鬼紋手套",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18414,
@@ -4026,7 +3877,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Toga de paño brillante",
                 ["Taiwanese"] = "亮布長袍",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18415,
@@ -4046,7 +3896,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Guantes de paño brillante",
                 ["Taiwanese"] = "亮布手套",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18416,
@@ -4066,7 +3915,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Jubón telafantasma",
                 ["Taiwanese"] = "鬼紋外衣",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18417,
@@ -4086,7 +3934,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Guantes de paño rúnico",
                 ["Taiwanese"] = "符文布手套",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18418,
@@ -4106,7 +3953,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Capa de paño cenizo",
                 ["Taiwanese"] = "灰布披風",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18419,
@@ -4126,7 +3972,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Pantalones de tela de inferi",
                 ["Taiwanese"] = "惡魔布短褲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18420,
@@ -4146,7 +3991,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Capa de paño brillante",
                 ["Taiwanese"] = "亮布披風",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18421,
@@ -4166,7 +4010,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Leotardos de tejido zahorí",
                 ["Taiwanese"] = "巫紋護腿",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18422,
@@ -4186,7 +4029,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Capa de Fuego",
                 ["Taiwanese"] = "火焰披風",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18423,
@@ -4206,7 +4048,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Botas de paño rúnico",
                 ["Taiwanese"] = "符文布靴",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18424,
@@ -4226,7 +4067,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Pantalones tejescarcha",
                 ["Taiwanese"] = "霜紋短褲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18434,
@@ -4246,7 +4086,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Pantalones de paño cenizo",
                 ["Taiwanese"] = "灰布短褲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18436,
@@ -4266,7 +4105,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Toga de la noche Invernal",
                 ["Taiwanese"] = "冬夜法袍",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18437,
@@ -4286,7 +4124,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Botas de tela de inferi",
                 ["Taiwanese"] = "惡魔布靴",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18438,
@@ -4306,7 +4143,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Pantalones de paño rúnico",
                 ["Taiwanese"] = "符文布短褲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18439,
@@ -4326,7 +4162,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Pantalones de paño brillante",
                 ["Taiwanese"] = "亮布短褲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18440,
@@ -4346,7 +4181,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Leotardos de tela lunar",
                 ["Taiwanese"] = "月布護腿",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18441,
@@ -4366,7 +4200,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Pantalones telafantasma",
                 ["Taiwanese"] = "鬼紋短褲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18442,
@@ -4386,7 +4219,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Capucha de tela de inferi",
                 ["Taiwanese"] = "惡魔布帽",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18444,
@@ -4406,7 +4238,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Cinta de pelo de paño rúnico",
                 ["Taiwanese"] = "符文布頭帶",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18445,
@@ -4426,7 +4257,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Bolsa de tela lunar",
                 ["Taiwanese"] = "月布包",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18446,
@@ -4446,7 +4276,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Toga de tejido zahorí",
                 ["Taiwanese"] = "巫紋長袍",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18447,
@@ -4466,7 +4295,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Jubón de tela lunar",
                 ["Taiwanese"] = "月布外衣",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18448,
@@ -4486,7 +4314,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Hombreras de tela lunar",
                 ["Taiwanese"] = "月布護肩",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18449,
@@ -4506,7 +4333,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Hombreras de paño rúnico",
                 ["Taiwanese"] = "符文布護肩",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18450,
@@ -4526,7 +4352,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Turbante de tejido zahorí",
                 ["Taiwanese"] = "巫紋頭巾",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18451,
@@ -4546,7 +4371,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Toga de tela de inferi",
                 ["Taiwanese"] = "惡魔布袍",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18452,
@@ -4566,7 +4390,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Aro de tela lunar",
                 ["Taiwanese"] = "月布頭飾",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18453,
@@ -4586,7 +4409,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Hombreras de tela de inferi",
                 ["Taiwanese"] = "惡魔布護肩",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18454,
@@ -4606,7 +4428,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Guantes de maestría en hechizos",
                 ["Taiwanese"] = "法術專精手套",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18455,
@@ -4626,7 +4447,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Bolsa sin fondo",
                 ["Taiwanese"] = "無底包",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18456,
@@ -4646,7 +4466,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Vestimentas de la fe verdadera",
                 ["Taiwanese"] = "虔誠外衣",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18457,
@@ -4666,7 +4485,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Toga del archimago",
                 ["Taiwanese"] = "大法師之袍",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18458,
@@ -4686,7 +4504,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Toga del vacío",
                 ["Taiwanese"] = "虛空法袍",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18560,
@@ -4706,7 +4523,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Tela lunar",
                 ["Taiwanese"] = "月布",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 19435,
@@ -4723,7 +4539,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Botas de tela lunar",
                 ["Taiwanese"] = "月布長靴",
             },
-            ["phase"] = 1,
             ["quests"] = {
                 6032,
             },
@@ -4746,7 +4561,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Manto Nucleobengala",
                 ["Taiwanese"] = "光芒襯肩",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 20849,
@@ -4766,7 +4580,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Guantes Nucleobengala",
                 ["Taiwanese"] = "光芒手套",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 21945,
@@ -4786,7 +4599,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Camisa festiva verde",
                 ["Taiwanese"] = "綠色節日襯衣",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 22759,
@@ -4806,7 +4618,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Brazaletes Nucleobengala",
                 ["Taiwanese"] = "光芒護腕",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 22813,
@@ -4823,7 +4634,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Disfraz de ogro Gordok",
                 ["Taiwanese"] = "戈多克巨魔裝",
             },
-            ["phase"] = 2,
             ["quests"] = {
                 5519,
             },
@@ -4847,7 +4657,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Cinturón del archimago",
                 ["Taiwanese"] = "大法師腰帶",
             },
-            ["phase"] = 2,
         },
         {
             ["id"] = 22867,
@@ -4867,7 +4676,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Guatnes de tela de inferi",
                 ["Taiwanese"] = "惡魔布手套",
             },
-            ["phase"] = 2,
         },
         {
             ["id"] = 22868,
@@ -4887,7 +4695,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Guantes inferno",
                 ["Taiwanese"] = "地獄火手套",
             },
-            ["phase"] = 2,
         },
         {
             ["id"] = 22869,
@@ -4907,7 +4714,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Guantes de tela lunar",
                 ["Taiwanese"] = "月布手套",
             },
-            ["phase"] = 2,
         },
         {
             ["id"] = 22870,
@@ -4927,7 +4733,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Capa de custodia",
                 ["Taiwanese"] = "護衛披風",
             },
-            ["phase"] = 2,
         },
         {
             ["id"] = 22902,
@@ -4947,7 +4752,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Toga de tela lunar",
                 ["Taiwanese"] = "月布長袍",
             },
-            ["phase"] = 2,
         },
         {
             ["id"] = 23662,
@@ -4967,7 +4771,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Sabiduría de los Fauces de Madera",
                 ["Taiwanese"] = "木喉之智",
             },
-            ["phase"] = 3,
         },
         {
             ["id"] = 23663,
@@ -4987,7 +4790,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Manto de Fauces de Madera",
                 ["Taiwanese"] = "木喉襯肩",
             },
-            ["phase"] = 3,
         },
         {
             ["id"] = 23664,
@@ -5007,7 +4809,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Botas Argenta",
                 ["Taiwanese"] = "銀色長靴",
             },
-            ["phase"] = 3,
         },
         {
             ["id"] = 23665,
@@ -5027,7 +4828,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Hombreras Argenta",
                 ["Taiwanese"] = "銀色護肩",
             },
-            ["phase"] = 3,
         },
         {
             ["id"] = 23666,
@@ -5047,7 +4847,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Toga Nucleobengala",
                 ["Taiwanese"] = "光芒長袍",
             },
-            ["phase"] = 3,
         },
         {
             ["id"] = 23667,
@@ -5067,7 +4866,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Leotardos Nucleobengala",
                 ["Taiwanese"] = "光芒護腿",
             },
-            ["phase"] = 3,
         },
         {
             ["id"] = 24091,
@@ -5087,7 +4885,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Jubón vid de sangre",
                 ["Taiwanese"] = "血藤外套",
             },
-            ["phase"] = 4,
         },
         {
             ["id"] = 24092,
@@ -5107,7 +4904,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Leotardos vid de sangre",
                 ["Taiwanese"] = "血藤護腿",
             },
-            ["phase"] = 4,
         },
         {
             ["id"] = 24093,
@@ -5127,7 +4923,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Botas vid de sangre",
                 ["Taiwanese"] = "血藤長靴",
             },
-            ["phase"] = 4,
         },
         {
             ["id"] = 24901,
@@ -5147,7 +4942,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Leotardos rúnicos estigios",
                 ["Taiwanese"] = "符文冥河護腿",
             },
-            ["phase"] = 4,
         },
         {
             ["id"] = 24902,
@@ -5167,7 +4961,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Cinturón rúnico estigio",
                 ["Taiwanese"] = "符文冥河腰帶",
             },
-            ["phase"] = 4,
         },
         {
             ["id"] = 24903,
@@ -5187,7 +4980,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Botas rúnicas estigias",
                 ["Taiwanese"] = "符文冥河長靴",
             },
-            ["phase"] = 4,
         },
         {
             ["id"] = 26085,
@@ -5207,7 +4999,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Faltriquera de alma",
                 ["Taiwanese"] = "靈魂袋",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 26086,
@@ -5227,7 +5018,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
             ["objects"] = {
                 180794,
             },
-            ["phase"] = 1,
             ["special_action"] = "book Jandice Barov",
         },
         {
@@ -5248,7 +5038,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Bolsa de tela de inferi del núcleo",
                 ["Taiwanese"] = "精髓惡魔布包",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 26403,
@@ -5268,7 +5057,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Vestido rojo del Festival",
                 ["Taiwanese"] = "紅色節慶長裙",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 26407,
@@ -5288,7 +5076,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Pantalones rojos de traje del Festival",
                 ["Taiwanese"] = "紅色節慶褲裝",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 27658,
@@ -5308,7 +5095,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Faltriquera encantada de paño mágico",
                 ["Taiwanese"] = "附魔魔紋包",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 27659,
@@ -5328,7 +5114,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Bolsa encantada de paño rúnico",
                 ["Taiwanese"] = "附魔符文布包",
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 27660,
@@ -5348,7 +5133,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Bolsa grande de encantamiento",
                 ["Taiwanese"] = "附魔大背包",
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 27724,
@@ -5368,7 +5152,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Bolsa de hierbas Cenarion",
                 ["Taiwanese"] = "塞納里奧草藥包",
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 27725,
@@ -5388,7 +5171,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Cartera de Cenarius",
                 ["Taiwanese"] = "塞納留斯的背包",
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 28205,
@@ -5405,7 +5187,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Guantes glaciales",
                 ["Taiwanese"] = "冰川護手",
             },
-            ["phase"] = 6,
             ["quests"] = {
                 9233,
             },
@@ -5435,7 +5216,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Jubón glacial",
                 ["Taiwanese"] = "冰川外衣",
             },
-            ["phase"] = 6,
             ["quests"] = {
                 9233,
             },
@@ -5465,7 +5245,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Capa glacial",
                 ["Taiwanese"] = "冰川披風",
             },
-            ["phase"] = 6,
             ["quests"] = {
                 9233,
             },
@@ -5495,7 +5274,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Puño glacial",
                 ["Taiwanese"] = "冰川護腕",
             },
-            ["phase"] = 6,
             ["quests"] = {
                 9233,
             },
@@ -5528,7 +5306,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Abrazo de Gaea",
                 ["Taiwanese"] = "蓋亞之擁",
             },
-            ["phase"] = 6,
         },
         {
             ["id"] = 28480,
@@ -5548,7 +5325,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Jubón nemoroso",
                 ["Taiwanese"] = "森林外套",
             },
-            ["phase"] = 6,
         },
         {
             ["id"] = 28481,
@@ -5568,7 +5344,6 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Corona nemorosa",
                 ["Taiwanese"] = "森林環冠",
             },
-            ["phase"] = 6,
         },
         {
             ["id"] = 28482,
@@ -5588,6 +5363,5 @@ TRADE_SKILLS_DATA["skills"]["Tailoring"] =
                 ["Spanish"] = "Hombreras nemorosas",
                 ["Taiwanese"] = "森林襯肩",
             },
-            ["phase"] = 6,
         },
     }

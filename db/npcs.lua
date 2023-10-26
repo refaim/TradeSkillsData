@@ -18,7 +18,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Tharynn Bouden",
                 ["Taiwanese"] = "薩瑞恩·博丁",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -45,7 +44,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Dan Golthas",
                 ["Taiwanese"] = "丹·戈薩斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -72,7 +70,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Salma Saldean",
                 ["Taiwanese"] = "薩爾瑪·薩丁",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -99,7 +96,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Chef Grual",
                 ["Taiwanese"] = "廚師格魯奧",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -126,7 +122,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Maestro Mathias Shaw",
                 ["Taiwanese"] = "馬迪亞斯·肖爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -153,7 +148,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Kendor Kabonka",
                 ["Taiwanese"] = "肯多爾·卡邦卡",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -180,7 +174,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Chef Breanna",
                 ["Taiwanese"] = "廚師布雷納",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -207,7 +200,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Maestro de embarcadero Baren",
                 ["Taiwanese"] = "碼頭管理員巴倫",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -234,7 +226,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Manáfago",
                 ["Taiwanese"] = "地獄獵犬",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -261,7 +252,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Alfa de Crestagrana",
                 ["Taiwanese"] = "赤脊山突擊隊員",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -288,7 +278,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Mago renegado Defias",
                 ["Taiwanese"] = "迪菲亞叛節法師",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -315,7 +304,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Herrero Argus",
                 ["Taiwanese"] = "鐵匠阿古斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -342,7 +330,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Despojador Defias",
                 ["Taiwanese"] = "迪菲亞強奪者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -365,7 +352,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Pirata Defias",
                 ["Taiwanese"] = "迪菲亞海盜",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -392,7 +378,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Cantero de Ventura y Cía.",
                 ["Taiwanese"] = "風險投資公司露天礦工",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -419,7 +404,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Cabo Bluth",
                 ["Taiwanese"] = "布魯斯下士",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -446,7 +430,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Caminalodo",
                 ["Taiwanese"] = "沼澤漫步者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -473,7 +456,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Viejo caminalodo",
                 ["Taiwanese"] = "沼澤漫步者長老",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -500,7 +482,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Horror enredado",
                 ["Taiwanese"] = "糾纏恐獸",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -527,7 +508,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Amy Davenport",
                 ["Taiwanese"] = "艾米·達文波特",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -554,7 +534,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Alma Jainrose",
                 ["Taiwanese"] = "奧瑪·詹洛斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -581,7 +560,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Gina MacGregor",
                 ["Taiwanese"] = "吉娜·馬克葛瑞格",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -608,7 +586,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Flora Ventargento",
                 ["Taiwanese"] = "弗洛拉·希沃溫德",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -635,7 +612,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Encantador Defias",
                 ["Taiwanese"] = "迪菲亞附魔師",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -662,7 +638,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Keryn Sylvius",
                 ["Taiwanese"] = "科瑞恩·塞爾留斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -689,7 +664,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Osborne",
                 ["Taiwanese"] = "夜行者奧斯伯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -716,7 +690,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Comando Kurzen",
                 ["Taiwanese"] = "庫爾森特種兵",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -743,7 +716,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Dane Lindgren",
                 ["Taiwanese"] = "丹恩·林德雷",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -770,7 +742,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Banalash",
                 ["Taiwanese"] = "巴納拉什",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -797,7 +768,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Enano Hierro Negro",
                 ["Taiwanese"] = "黑鐵矮人",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -824,7 +794,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Saboteador Hierro Negro",
                 ["Taiwanese"] = "黑鐵破壞者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -851,7 +820,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Tunelador Hierro Negro",
                 ["Taiwanese"] = "黑鐵隧道工",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -878,7 +846,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Demoledor Hierro Negro",
                 ["Taiwanese"] = "黑鐵爆破手",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -905,7 +872,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Ormer Trenzaferro",
                 ["Taiwanese"] = "奧莫爾·鐵衣",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -932,7 +898,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Señor del Lodo",
                 ["Taiwanese"] = "泥沼之王",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -959,7 +924,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Eldrin",
                 ["Taiwanese"] = "艾爾丁",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -986,7 +950,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Vharr",
                 ["Taiwanese"] = "維哈爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1013,7 +976,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Nerrist",
                 ["Taiwanese"] = "耐裏斯特",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1040,7 +1002,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Uthok",
                 ["Taiwanese"] = "尤索克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1067,7 +1028,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Marek Coracero",
                 ["Taiwanese"] = "馬雷克·鐵心",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1094,7 +1054,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Alquimista Mallory",
                 ["Taiwanese"] = "煉金師瑪洛瑞",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1121,7 +1080,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Herborista Pomarrosa",
                 ["Taiwanese"] = "草藥師博米洛伊",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1148,7 +1106,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Hogral Bakkan",
                 ["Taiwanese"] = "霍格拉爾·巴坎",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1175,7 +1132,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Tognus Fuegosílex",
                 ["Taiwanese"] = "托格努斯·燧火",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1202,7 +1158,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Vosur Brakthel",
                 ["Taiwanese"] = "沃薩·布拉克塞爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1229,7 +1184,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Draco Lindgren",
                 ["Taiwanese"] = "德拉克·林格雷",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1256,7 +1210,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Ragnar Cebatruenos",
                 ["Taiwanese"] = "拉格納·雷酒",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1283,7 +1236,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Maris Granger",
                 ["Taiwanese"] = "馬瑞斯·格蘭治",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1310,7 +1262,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Lawrence Schneider",
                 ["Taiwanese"] = "勞倫斯·瑟尼德",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1337,7 +1288,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Darian Singh",
                 ["Taiwanese"] = "達利安·辛格",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1364,7 +1314,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Maria Lumere",
                 ["Taiwanese"] = "瑪麗亞·盧米爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1391,7 +1340,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Lucan Cordell",
                 ["Taiwanese"] = "魯坎·考迪爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1418,7 +1366,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Jessara Cordell",
                 ["Taiwanese"] = "傑薩拉·考迪爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1445,7 +1392,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Georgio Bolero",
                 ["Taiwanese"] = "喬吉奧·波利羅",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1472,7 +1418,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Alexandra Bolero",
                 ["Taiwanese"] = "亞曆山德拉·波利羅",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1499,7 +1444,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Cocinero Ghilm",
                 ["Taiwanese"] = "廚師格瑞姆",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1526,7 +1470,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Balgaras el Hediondo",
                 ["Taiwanese"] = "邪惡的巴爾加拉斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -1553,7 +1496,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Mudduk",
                 ["Taiwanese"] = "瑪杜克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1580,7 +1522,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Gruños",
                 ["Taiwanese"] = "斯納爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1607,7 +1548,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Mole",
                 ["Taiwanese"] = "布勞恩",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1634,7 +1574,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Rogvar",
                 ["Taiwanese"] = "羅格瓦爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1661,7 +1600,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Ian Strom",
                 ["Taiwanese"] = "伊安·斯托姆",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1688,7 +1626,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Tomas",
                 ["Taiwanese"] = "廚師托馬斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1715,7 +1652,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Jennabink Powerseam",
                 ["Taiwanese"] = "吉娜比克·鐵線",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1742,7 +1678,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Telurinon Sombraluna",
                 ["Taiwanese"] = "泰倫瑞諾·月影",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1769,7 +1704,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Drac Corteseco",
                 ["Taiwanese"] = "德拉克·卷刃",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1796,7 +1730,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Gretta Bueneje",
                 ["Taiwanese"] = "格雷塔",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1823,7 +1756,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Ghak Sanadón",
                 ["Taiwanese"] = "加克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1850,7 +1782,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Jannos Dolocerado",
                 ["Taiwanese"] = "加諾斯·鐵心",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1877,7 +1808,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Kali Sanatoque",
                 ["Taiwanese"] = "卡利",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1904,7 +1834,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Rann Flamejes",
                 ["Taiwanese"] = "拉恩·火翼",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1932,7 +1861,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Asaltante Velasangre",
                 ["Taiwanese"] = "血帆襲擊者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1959,7 +1887,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Adele Fielder",
                 ["Taiwanese"] = "艾德勒·費歐德",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -1986,7 +1913,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Lee Brown",
                 ["Taiwanese"] = "李·布朗",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -2013,7 +1939,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Especulador Defias",
                 ["Taiwanese"] = "迪菲亞奸商",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -2040,7 +1965,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Finbus Rompegranajes",
                 ["Taiwanese"] = "芬布斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -2067,7 +1991,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Matías Arero",
                 ["Taiwanese"] = "馬修·胡柏",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -2094,7 +2017,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Brock Buscapiedras",
                 ["Taiwanese"] = "布洛克·尋石者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -2121,7 +2043,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Warg Aguahonda",
                 ["Taiwanese"] = "瓦格·深水",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -2148,7 +2069,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Khara Aguahonda",
                 ["Taiwanese"] = "卡拉·深水",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -2175,7 +2095,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Xandar Bonbarba",
                 ["Taiwanese"] = "山達·細須",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -2202,7 +2121,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Gremlock Pilsnor",
                 ["Taiwanese"] = "格雷姆羅克·匹斯諾爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -2229,7 +2147,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Paxton Ganter",
                 ["Taiwanese"] = "帕克斯頓·岡特爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -2256,7 +2173,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Dank Cortefiel",
                 ["Taiwanese"] = "丹克·利刃",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -2283,7 +2199,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Bronk Comengranaje",
                 ["Taiwanese"] = "布隆克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -2310,7 +2225,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Uthrar Threx",
                 ["Taiwanese"] = "阿斯拉·瑞克斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -2333,7 +2247,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Formarrasca Defias",
                 ["Taiwanese"] = "迪菲亞塑風師",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -2360,7 +2273,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Despellejador esquelético",
                 ["Taiwanese"] = "骷髅剝皮者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -2387,7 +2299,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Necrófago esclavizante",
                 ["Taiwanese"] = "被奴役的食屍鬼",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -2414,7 +2325,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Behemoth en podredumbre",
                 ["Taiwanese"] = "腐爛的巨獸",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -2441,7 +2351,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Horror putrefacto",
                 ["Taiwanese"] = "枯萎的恐獸",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -2468,7 +2377,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Hidalgo Escarlata",
                 ["Taiwanese"] = "血色騎兵",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -2495,7 +2403,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Supervisor Marcrid",
                 ["Taiwanese"] = "工頭瑪希瑞德",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -2522,7 +2429,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Maestro oscuro Gandling",
                 ["Taiwanese"] = "黑暗院長加丁",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -2549,7 +2455,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Herrero Escarlata",
                 ["Taiwanese"] = "血色鐵匠",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -2576,7 +2481,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Rane Yorick",
                 ["Taiwanese"] = "蘭妮·尤瑞克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -2603,7 +2507,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Vidra Hogartufa",
                 ["Taiwanese"] = "維德拉·壁爐",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -2630,7 +2533,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "James Halloran",
                 ["Taiwanese"] = "詹姆斯·哈洛蘭",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -2657,7 +2559,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Faruza",
                 ["Taiwanese"] = "法魯薩",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -2684,7 +2585,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Abigail Shiel",
                 ["Taiwanese"] = "阿比蓋爾·沙伊爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -2711,7 +2611,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Marion Call",
                 ["Taiwanese"] = "馬裏恩·考爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -2738,7 +2637,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Carolai Anís",
                 ["Taiwanese"] = "卡羅萊·安尼斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -2765,7 +2663,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Boticario Lydon",
                 ["Taiwanese"] = "藥劑師林度恩",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -2792,7 +2689,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Krusk",
                 ["Taiwanese"] = "克魯斯克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -2820,7 +2716,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Espía de la Hermandad",
                 ["Taiwanese"] = "辛迪加間諜",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -2848,7 +2743,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Asesino de la Hermandad",
                 ["Taiwanese"] = "辛迪加刺客",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -2875,7 +2769,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Sastre de Trabalomas",
                 ["Taiwanese"] = "希爾斯布萊德裁縫",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -2902,7 +2795,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Thamner Pol",
                 ["Taiwanese"] = "薩姆諾·普爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -2929,7 +2821,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Shaina Fuller",
                 ["Taiwanese"] = "珊娜·弗勒",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -2956,7 +2847,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Michelle Belle",
                 ["Taiwanese"] = "米歇爾·貝利",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -2983,7 +2873,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Llamacío de la Facción Oscura",
                 ["Taiwanese"] = "暗灘喚魔師",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -3010,7 +2899,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Donald Rabonne",
                 ["Taiwanese"] = "唐納德·拉波尼",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -3037,7 +2925,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Habitabosta Rompeanca",
                 ["Taiwanese"] = "碎鳍泥漿魚人",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -3064,7 +2951,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Correcostas Rompeanca",
                 ["Taiwanese"] = "碎鳍灘行魚人",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -3091,7 +2977,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Oráculo Rompeanca",
                 ["Taiwanese"] = "碎鳍智者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -3118,7 +3003,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Cazamareas Rompeanca",
                 ["Taiwanese"] = "碎鳍潮行魚人",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -3145,7 +3029,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Nandar Branson",
                 ["Taiwanese"] = "南達·布拉森",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -3172,7 +3055,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Micha Yance",
                 ["Taiwanese"] = "米莎·楊斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -3199,7 +3081,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Darren Malavista",
                 ["Taiwanese"] = "達倫·瑪爾維",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -3226,7 +3107,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Lindea Rabonne",
                 ["Taiwanese"] = "林迪·拉波尼",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -3253,7 +3133,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Aranae Sangreveneno",
                 ["Taiwanese"] = "阿蘭奈·維諾布拉德",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -3280,7 +3159,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Serge Hinott",
                 ["Taiwanese"] = "瑟爾格·希諾特",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -3307,7 +3185,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Christoph Jeffcoat",
                 ["Taiwanese"] = "克裏斯托弗·傑弗寇特",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -3334,7 +3211,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Mallen Swain",
                 ["Taiwanese"] = "瑪林·斯萬",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -3361,7 +3237,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Derak Ocaso",
                 ["Taiwanese"] = "德拉克·奈特弗",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -3388,7 +3263,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Daryl Stack",
                 ["Taiwanese"] = "達瑞爾·斯塔克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -3415,7 +3289,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Chef Jessen",
                 ["Taiwanese"] = "廚師傑森",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -3442,7 +3315,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Asesino enigmático",
                 ["Taiwanese"] = "暗影刺客",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -3469,7 +3341,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Bro'kin",
                 ["Taiwanese"] = "布洛金",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -3496,7 +3367,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Bliztik",
                 ["Taiwanese"] = "布裏茲提克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -3523,7 +3393,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Zarena Cromvento",
                 ["Taiwanese"] = "薩瑞娜·克羅姆溫德",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -3550,7 +3419,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Jaquilina Dramet",
                 ["Taiwanese"] = "加奎琳娜·德拉米特",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -3577,7 +3445,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Rebanacabezas Secacorteza",
                 ["Taiwanese"] = "枯木獵頭者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -3604,7 +3471,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Cazador de las Sombras Secacorteza",
                 ["Taiwanese"] = "枯木暗影獵手",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -3631,7 +3497,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Rabioso Secacorteza",
                 ["Taiwanese"] = "枯木狂戰士",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -3658,7 +3523,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Nimar el Destripador",
                 ["Taiwanese"] = "屠戮者尼瑪爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["special_action"] = "any troll around lake",
             ["xp_level"] = {
@@ -3686,7 +3550,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Viejo Heming",
                 ["Taiwanese"] = "老人海明威",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -3713,7 +3576,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Grarnik Cortefino",
                 ["Taiwanese"] = "格拉尼克·古斯提",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -3740,7 +3602,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Marinero de cubierta Aguasnegras",
                 ["Taiwanese"] = "黑水船工",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -3767,7 +3628,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Taumaturgo umbrío Vilrama",
                 ["Taiwanese"] = "邪枝暗影法師",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -3794,7 +3654,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Desollador Vilrama",
                 ["Taiwanese"] = "邪枝剝皮者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -3821,7 +3680,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Narkk",
                 ["Taiwanese"] = "納爾克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -3848,7 +3706,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Kelsey Yance",
                 ["Taiwanese"] = "凱爾希·楊斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -3875,7 +3732,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Danielle Puntillas",
                 ["Taiwanese"] = "丹尼勒·希普斯迪",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -3902,7 +3758,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Sheri Puntagueta",
                 ["Taiwanese"] = "舍瑞·希普斯迪",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -3929,7 +3784,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Xizk Cortefino",
                 ["Taiwanese"] = "希茲克·古斯提",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -3956,7 +3810,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Blandengue Crosby",
                 ["Taiwanese"] = "怯懦的克羅斯比",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -3983,7 +3836,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Wenna Barbasedosa",
                 ["Taiwanese"] = "溫納·銀須",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4010,7 +3862,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Fradd Cambioveloz",
                 ["Taiwanese"] = "弗拉德",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4037,7 +3888,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Namdo Silvabín",
                 ["Taiwanese"] = "納姆杜",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4064,7 +3914,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Rizz Tornillosuelto",
                 ["Taiwanese"] = "裏茲·飛矢",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4091,7 +3940,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Mazk Tirocertero",
                 ["Taiwanese"] = "瑪茲克·斯奈普沙特",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4118,7 +3966,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Gnaz Flamerrada",
                 ["Taiwanese"] = "格納茲·槍焰",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4145,7 +3992,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Rupo Retramuelle",
                 ["Taiwanese"] = "魯普·火油",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4172,7 +4018,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Clyde Ranthal",
                 ["Taiwanese"] = "克萊德·蘭薩爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4199,7 +4044,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "George Candarte",
                 ["Taiwanese"] = "喬治·坎達特",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4226,7 +4070,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Rikqiz",
                 ["Taiwanese"] = "雷克奇茲",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4253,7 +4096,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Pand Amarrapiedra",
                 ["Taiwanese"] = "潘德·縛石",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4280,7 +4122,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Malygen",
                 ["Taiwanese"] = "瑪裏甘",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4307,7 +4148,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Deneb Camino",
                 ["Taiwanese"] = "德尼布·沃克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4334,7 +4174,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Fardo",
                 ["Taiwanese"] = "拜爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4361,7 +4200,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Hammon Karwn",
                 ["Taiwanese"] = "哈蒙·卡文",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4388,7 +4226,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Drovanar Brevaforte",
                 ["Taiwanese"] = "德魯納·烈酒",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4415,7 +4252,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Narj Tajofondo",
                 ["Taiwanese"] = "納爾基·長刀",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4442,7 +4278,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Androd Fadran",
                 ["Taiwanese"] = "安多德·法德蘭",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4469,7 +4304,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Aparejez",
                 ["Taiwanese"] = "裏格弗茲",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4496,7 +4330,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Tunkk",
                 ["Taiwanese"] = "吞克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4523,7 +4356,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Keena",
                 ["Taiwanese"] = "基納",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4550,7 +4382,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Myizz Buenapieza",
                 ["Taiwanese"] = "麥依茲·拉齊卡",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4577,7 +4408,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Brikk Finoficio",
                 ["Taiwanese"] = "布裏克·基克拉夫",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4604,7 +4434,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Jaxin Chong",
                 ["Taiwanese"] = "加克森",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4631,7 +4460,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Craz Chispaz",
                 ["Taiwanese"] = "克拉賽·斯巴克斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4658,7 +4486,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Jutak",
                 ["Taiwanese"] = "祖塔克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4685,7 +4512,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Blixrez Cortefino",
                 ["Taiwanese"] = "布裏克雷茲·古斯提",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4712,7 +4538,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Glyx Buenamezcla",
                 ["Taiwanese"] = "格裏克斯·布魯維特",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4739,7 +4564,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Snang",
                 ["Taiwanese"] = "斯諾恩",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4766,7 +4590,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Angrun",
                 ["Taiwanese"] = "安格倫",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4793,7 +4616,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Thund",
                 ["Taiwanese"] = "桑德",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4820,7 +4642,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Lucien Borlallave",
                 ["Taiwanese"] = "盧希恩·槍穗",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4847,7 +4668,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Karn Pezuñapétrea",
                 ["Taiwanese"] = "卡恩·石蹄",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4874,7 +4694,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Brek Pezuñapétrea",
                 ["Taiwanese"] = "布瑞克·石蹄",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4901,7 +4720,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Tepa",
                 ["Taiwanese"] = "坦帕",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4928,7 +4746,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Mahu",
                 ["Taiwanese"] = "曼胡",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4955,7 +4772,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Una",
                 ["Taiwanese"] = "猶納",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -4982,7 +4798,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Mak",
                 ["Taiwanese"] = "馬克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5009,7 +4824,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Bena Pezuña Invernal",
                 ["Taiwanese"] = "本娜·冰蹄",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5036,7 +4850,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Teg Caminalba",
                 ["Taiwanese"] = "泰戈·黎明行者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5063,7 +4876,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Nata Caminalba",
                 ["Taiwanese"] = "納塔·黎明行者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5090,7 +4902,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Komin Pezuña Invernal",
                 ["Taiwanese"] = "克米恩·冰蹄",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5117,7 +4928,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Aska Correbruma",
                 ["Taiwanese"] = "阿絲卡·迷霧行者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5144,7 +4954,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Naal Correbruma",
                 ["Taiwanese"] = "納爾·迷霧行者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5171,7 +4980,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Kah Correbruma",
                 ["Taiwanese"] = "卡爾·迷霧行者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5198,7 +5006,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Seua Correbruma",
                 ["Taiwanese"] = "蘇瓦·迷霧行者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5225,7 +5032,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Veren Zancaalta",
                 ["Taiwanese"] = "維爾倫·陸行者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5252,7 +5058,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Pyall Trancosilencio",
                 ["Taiwanese"] = "派爾·沈默行者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5279,7 +5084,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Chaw Pellejofuerte",
                 ["Taiwanese"] = "查爾·硬皮",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5306,7 +5110,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Wunna Crinoscura",
                 ["Taiwanese"] = "溫納·黑鬃",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5333,7 +5136,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Gloria Femmel",
                 ["Taiwanese"] = "格勞瑞亞·菲米爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5360,7 +5162,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Ramacho de cristal",
                 ["Taiwanese"] = "克裏斯托·鮑曼",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5387,7 +5188,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Kzixx",
                 ["Taiwanese"] = "卡茲克斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5414,7 +5214,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Clarise Nudárbol",
                 ["Taiwanese"] = "克拉莉斯·納爾特裏",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5441,7 +5240,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Matt Johnson",
                 ["Taiwanese"] = "瑪特·約翰森",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5468,7 +5266,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Kaplak",
                 ["Taiwanese"] = "卡普拉克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5495,7 +5292,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Dwukk",
                 ["Taiwanese"] = "杜克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5522,7 +5318,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Krunn",
                 ["Taiwanese"] = "克魯恩",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5549,7 +5344,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Stuart Fleming",
                 ["Taiwanese"] = "斯圖亞特·弗雷明",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5576,7 +5370,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Harold Riggs",
                 ["Taiwanese"] = "哈洛德·李格斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5603,7 +5396,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Fremal Tornichup",
                 ["Taiwanese"] = "弗雷瑪爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5630,7 +5422,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Miao'zan",
                 ["Taiwanese"] = "米奧贊",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5657,7 +5448,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Mishiki",
                 ["Taiwanese"] = "米什基",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5684,7 +5474,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Deek Malnegocio",
                 ["Taiwanese"] = "迪克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5711,7 +5500,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Gest",
                 ["Taiwanese"] = "蓋斯特",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5738,7 +5526,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Ormok",
                 ["Taiwanese"] = "奧莫克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5765,7 +5552,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Lumak",
                 ["Taiwanese"] = "魯瑪克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5792,7 +5578,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Shankys",
                 ["Taiwanese"] = "山吉斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5819,7 +5604,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Hagrus",
                 ["Taiwanese"] = "哈格魯斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5846,7 +5630,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Godan",
                 ["Taiwanese"] = "古丹",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5873,7 +5656,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Kithas",
                 ["Taiwanese"] = "基薩斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5900,7 +5682,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Yelmak",
                 ["Taiwanese"] = "耶爾瑪克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5927,7 +5708,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Kor'geld",
                 ["Taiwanese"] = "考吉爾德",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5954,7 +5734,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Saru Furiacerada",
                 ["Taiwanese"] = "薩魯·鋼怒",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -5981,7 +5760,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Sumi",
                 ["Taiwanese"] = "蘇米",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -6008,7 +5786,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Makaru",
                 ["Taiwanese"] = "馬卡魯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -6035,7 +5812,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Magar",
                 ["Taiwanese"] = "瑪加爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -6062,7 +5838,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Borya",
                 ["Taiwanese"] = "博亞",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -6089,7 +5864,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Karolek",
                 ["Taiwanese"] = "卡洛雷克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -6116,7 +5890,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Tamar",
                 ["Taiwanese"] = "達瑪爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -6143,7 +5916,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Arnok",
                 ["Taiwanese"] = "阿諾克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -6170,7 +5942,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Marino de Theramore",
                 ["Taiwanese"] = "塞拉摩水兵",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -6197,7 +5968,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Presertor de Theramonte",
                 ["Taiwanese"] = "塞拉摩醫師",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -6224,7 +5994,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Zamja",
                 ["Taiwanese"] = "紮姆沙",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -6251,7 +6020,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Xen'to",
                 ["Taiwanese"] = "克森圖",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -6278,7 +6046,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Shenthul",
                 ["Taiwanese"] = "申蘇爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -6305,7 +6072,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Jandi",
                 ["Taiwanese"] = "加迪",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -6332,7 +6098,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Nogg",
                 ["Taiwanese"] = "諾格",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -6359,7 +6124,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Sovik",
                 ["Taiwanese"] = "索維克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -6386,7 +6150,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Larva",
                 ["Taiwanese"] = "格拉布",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -6413,7 +6176,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Traugh",
                 ["Taiwanese"] = "特勞弗",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -6440,7 +6202,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Tari'qa",
                 ["Taiwanese"] = "塔裏查",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -6467,7 +6228,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Kil'hala",
                 ["Taiwanese"] = "基爾哈拉",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -6494,7 +6254,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Wrahk",
                 ["Taiwanese"] = "瓦爾克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -6521,7 +6280,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Zargh",
                 ["Taiwanese"] = "紮爾夫",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -6548,7 +6306,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Hula'mahi",
                 ["Taiwanese"] = "哈拉瑪",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -6575,7 +6332,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Manitas de Oro",
                 ["Taiwanese"] = "廷克維斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -6602,7 +6358,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Dentolio",
                 ["Taiwanese"] = "加格斯普吉特",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -6629,7 +6384,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Kilxx",
                 ["Taiwanese"] = "基爾克斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -6656,7 +6410,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Ranik",
                 ["Taiwanese"] = "拉尼克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -6683,7 +6436,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Constanza Brisboise",
                 ["Taiwanese"] = "康斯坦茨·布裏斯博埃斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -6710,7 +6462,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Bowen Bribuesa",
                 ["Taiwanese"] = "博文·布裏斯博埃斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -6737,7 +6488,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Sastre Piroleño",
                 ["Taiwanese"] = "焚木村裁縫",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -6764,7 +6514,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Sastre Furia Lunar",
                 ["Taiwanese"] = "月怒裁縫",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -6791,7 +6540,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Zixil",
                 ["Taiwanese"] = "吉克希爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -6818,7 +6566,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Shelene Rhobart",
                 ["Taiwanese"] = "舍倫尼·洛巴爾特",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -6845,7 +6592,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Martine Tramblay",
                 ["Taiwanese"] = "馬丁·塔布雷",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -6872,7 +6618,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Johan Focht",
                 ["Taiwanese"] = "喬漢·弗徹",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -6899,7 +6644,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Andrew Hilbert",
                 ["Taiwanese"] = "安德魯·希爾伯特",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -6926,7 +6670,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Guillaume Sorouy",
                 ["Taiwanese"] = "古拉摩·索洛伊",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -6953,7 +6696,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Jannok Brisón",
                 ["Taiwanese"] = "詹諾克·柔歌",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -6980,7 +6722,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Cyndra Suavesurro",
                 ["Taiwanese"] = "塞恩德拉·細語者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -7007,7 +6748,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Malorne Filohoja",
                 ["Taiwanese"] = "瑪洛尼·刃葉",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -7034,7 +6774,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Nadyia Tejecrín",
                 ["Taiwanese"] = "納迪娅·織發",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -7061,7 +6800,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Alanna Cuervojo",
                 ["Taiwanese"] = "奧蘭納·鴉眼",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -7088,7 +6826,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Androl Manorroble",
                 ["Taiwanese"] = "安多爾·橡木之手",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -7115,7 +6852,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Kiknikle",
                 ["Taiwanese"] = "吉克尼庫",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -7142,7 +6878,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Alanndarian Arrullanoche",
                 ["Taiwanese"] = "奧蘭達利亞·夜歌",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -7169,7 +6904,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Krulmoo Lunallena",
                 ["Taiwanese"] = "克魯姆·滿月",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -7196,7 +6930,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Mahani",
                 ["Taiwanese"] = "馬哈尼",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -7223,7 +6956,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Anciano enloquecido",
                 ["Taiwanese"] = "瘋狂的古樹",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -7250,7 +6982,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Grimtak",
                 ["Taiwanese"] = "格瑞姆塔克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -7277,7 +7008,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Anciano marchito",
                 ["Taiwanese"] = "幹枯的古樹",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -7304,7 +7034,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Dalria",
                 ["Taiwanese"] = "達利亞",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -7331,7 +7060,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Shandrina",
                 ["Taiwanese"] = "珊蒂瑞亞",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -7358,7 +7086,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Harklan Arboluna",
                 ["Taiwanese"] = "哈克蘭·月林",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -7385,7 +7112,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Lardan",
                 ["Taiwanese"] = "拉爾丹",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -7412,7 +7138,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Ulthaan",
                 ["Taiwanese"] = "尤薩恩",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -7439,7 +7164,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Kylanna",
                 ["Taiwanese"] = "凱蘭娜",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -7466,7 +7190,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Acecharaíces Cilania",
                 ["Taiwanese"] = "塞蘭妮娅·伏根",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -7493,7 +7216,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Aayndia Vientofloral",
                 ["Taiwanese"] = "艾蒂安·花叢之風",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -7520,7 +7242,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Anciano carbonizado",
                 ["Taiwanese"] = "燒焦的樹人",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -7547,7 +7268,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Anciano ennegrecido",
                 ["Taiwanese"] = "黑色古樹",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -7574,7 +7294,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Anciano vengativo",
                 ["Taiwanese"] = "狂怒的樹人",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -7601,7 +7320,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Jeeda",
                 ["Taiwanese"] = "基達",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -7628,7 +7346,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Veenix",
                 ["Taiwanese"] = "維尼克斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -7655,7 +7372,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Astaia",
                 ["Taiwanese"] = "阿斯坦娅",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -7682,7 +7398,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Me'lynn",
                 ["Taiwanese"] = "邁裏恩",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -7709,7 +7424,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Ainethil",
                 ["Taiwanese"] = "安尼希爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -7736,7 +7450,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Syurna",
                 ["Taiwanese"] = "塞尤娜",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -7763,7 +7476,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Elynna",
                 ["Taiwanese"] = "艾琳娜",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -7790,7 +7502,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Mavralyn",
                 ["Taiwanese"] = "馬弗拉林",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -7817,7 +7528,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Valdaron",
                 ["Taiwanese"] = "瓦爾達隆",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -7844,7 +7554,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Grondal Brisaluna",
                 ["Taiwanese"] = "格隆達爾·月風",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -7871,7 +7580,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Laird",
                 ["Taiwanese"] = "萊爾德",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -7898,7 +7606,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Firodren Llamaluna",
                 ["Taiwanese"] = "菲羅迪恩·喚月",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -7925,7 +7632,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Alegorn",
                 ["Taiwanese"] = "阿雷貢",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -7952,7 +7658,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Dannelor",
                 ["Taiwanese"] = "丹納羅爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -7979,7 +7684,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Telonis",
                 ["Taiwanese"] = "泰龍尼斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -8006,7 +7710,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Taladan",
                 ["Taiwanese"] = "塔蘭丹",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -8033,7 +7736,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Erion Sombrusurro",
                 ["Taiwanese"] = "艾瑞安·影語",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -8060,7 +7762,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Anishar",
                 ["Taiwanese"] = "安尼沙爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -8087,7 +7788,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Fyldan",
                 ["Taiwanese"] = "菲爾丹",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -8114,7 +7814,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Saenorion",
                 ["Taiwanese"] = "塞諾裏奧",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -8141,7 +7840,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Ulthir",
                 ["Taiwanese"] = "尤希爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -8168,7 +7866,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Vaean",
                 ["Taiwanese"] = "維安",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -8195,7 +7892,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Mythrin'dir",
                 ["Taiwanese"] = "邁斯林迪爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -8222,7 +7918,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Geofram Dedorroca",
                 ["Taiwanese"] = "吉爾弗拉姆·石趾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -8249,7 +7944,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Bengus Forjahonda",
                 ["Taiwanese"] = "本古斯·深爐",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -8276,7 +7970,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Nyoma",
                 ["Taiwanese"] = "奈歐瑪",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -8303,7 +7996,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Evocador Escarlata",
                 ["Taiwanese"] = "血色招魂師",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -8330,7 +8022,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Myrmidón Escarlata",
                 ["Taiwanese"] = "血色仆從",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -8357,7 +8048,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Kriggon Talsone",
                 ["Taiwanese"] = "克雷貢·塔爾松",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -8384,7 +8074,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Heldan Vendasón",
                 ["Taiwanese"] = "海爾丹·風歌",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -8411,7 +8100,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Guerrero Strashaz",
                 ["Taiwanese"] = "斯塔莎茲戰士",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -8438,7 +8126,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Guardia serpiente Strashaz",
                 ["Taiwanese"] = "斯塔莎茲毒蛇守衛",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -8465,7 +8152,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Mirmidón Strashaz",
                 ["Taiwanese"] = "斯塔莎茲侍從",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -8492,7 +8178,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Vinculahechizos escarlata",
                 ["Taiwanese"] = "血色縛法者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -8519,7 +8204,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Eunice Burch",
                 ["Taiwanese"] = "尤奈斯·伯奇",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -8546,7 +8230,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Ronald Burch",
                 ["Taiwanese"] = "羅納德·伯奇",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -8573,7 +8256,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Daniel Bartlett",
                 ["Taiwanese"] = "丹尼爾·巴特萊特",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -8600,7 +8282,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Armand Cromwell",
                 ["Taiwanese"] = "阿曼德·克倫威爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -8627,7 +8308,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Lizbeth Cromwell",
                 ["Taiwanese"] = "莉茲白·克倫威爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -8654,7 +8334,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Josef Gregorian",
                 ["Taiwanese"] = "喬瑟夫·格裏高利",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -8681,7 +8360,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Millie Gregorian",
                 ["Taiwanese"] = "米利爾·格裏高利",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -8708,7 +8386,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Josephine Lister",
                 ["Taiwanese"] = "約瑟芬·李斯特",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -8735,7 +8412,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Carolyn Salar",
                 ["Taiwanese"] = "卡羅琳·瓦德",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -8762,7 +8438,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Miles Dexter",
                 ["Taiwanese"] = "邁爾斯·迪克斯特",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -8789,7 +8464,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Gregory Charles",
                 ["Taiwanese"] = "格雷戈·查爾斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -8816,7 +8490,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Ezekiel Tumbas",
                 ["Taiwanese"] = "艾澤基爾·格瑞烏斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -8843,7 +8516,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Graham Van Talen",
                 ["Taiwanese"] = "格拉哈姆·範·塔倫",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -8870,7 +8542,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Arthur Moore",
                 ["Taiwanese"] = "亞瑟·摩爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -8897,7 +8568,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Joseph Moore",
                 ["Taiwanese"] = "約瑟夫·摩爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -8924,7 +8594,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Mary Edras",
                 ["Taiwanese"] = "瑪麗·艾塔斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -8951,7 +8620,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "James Van Brunt",
                 ["Taiwanese"] = "詹姆斯·範·布朗特",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -8978,7 +8646,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Brom Killian",
                 ["Taiwanese"] = "布羅姆·基裏安",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -9005,7 +8672,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Basil Frye",
                 ["Taiwanese"] = "巴茲爾·弗萊伊",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -9032,7 +8698,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Doctor Marsh",
                 ["Taiwanese"] = "馬爾什醫生",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -9059,7 +8724,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Algernon",
                 ["Taiwanese"] = "奧格諾恩",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -9086,7 +8750,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Doctor Herbert Halsey",
                 ["Taiwanese"] = "赫伯特·哈爾希醫生",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -9113,7 +8776,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Martha Alliestar",
                 ["Taiwanese"] = "馬爾薩·奧列斯塔",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -9140,7 +8802,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Lavinia Crowe",
                 ["Taiwanese"] = "拉文尼亞·克洛文",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -9167,7 +8828,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Thaddeus Webb",
                 ["Taiwanese"] = "薩德烏斯·韋伯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -9194,7 +8854,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Truk Barbaje",
                 ["Taiwanese"] = "特魯克·蠻鬃",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -9221,7 +8880,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Infiltrador de Theramore",
                 ["Taiwanese"] = "塞拉摩間諜",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -9248,7 +8906,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Jandia",
                 ["Taiwanese"] = "詹迪亞",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -9275,7 +8932,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Montarr",
                 ["Taiwanese"] = "莫塔爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -9302,7 +8958,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Ogg'marr",
                 ["Taiwanese"] = "奧克瑪爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -9329,7 +8984,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Helenia Olden",
                 ["Taiwanese"] = "海倫妮亞·奧德恩",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -9356,7 +9010,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Brant Brotojaspe",
                 ["Taiwanese"] = "布蘭特·加斯布魯姆",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -9383,7 +9036,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Alquimista Narett",
                 ["Taiwanese"] = "煉金師納瑞特",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -9410,7 +9062,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Fimble Bueneje",
                 ["Taiwanese"] = "費布·鋼軸",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -9437,7 +9088,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Bombus Bueneje",
                 ["Taiwanese"] = "伯布斯·鋼軸",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -9464,7 +9114,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Reyna Ramapiedra",
                 ["Taiwanese"] = "雷納·石枝",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -9491,7 +9140,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Nissa Pirorroca",
                 ["Taiwanese"] = "尼莎·火石",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -9518,7 +9166,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Jormund Petrocejas",
                 ["Taiwanese"] = "約莫德·石眉",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -9545,7 +9192,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Gimble Cardopelusa",
                 ["Taiwanese"] = "吉布·草須",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -9572,7 +9218,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Tilli Cardopelusa",
                 ["Taiwanese"] = "提爾利·草須",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -9599,7 +9244,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Daryl Riknussun",
                 ["Taiwanese"] = "達瑞爾·瑞克努索",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -9626,7 +9270,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Emrul Riknussun",
                 ["Taiwanese"] = "埃姆魯爾·裏克努斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -9653,7 +9296,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Grimnur Marcapedra",
                 ["Taiwanese"] = "格瑞諾爾·石印",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -9680,7 +9322,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Tansy Burbajea",
                 ["Taiwanese"] = "坦斯·泥泡",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -9707,7 +9348,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Grumnus Forjacero",
                 ["Taiwanese"] = "格魯努斯·削鋼",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -9734,7 +9374,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Hulfdan Barbanegra",
                 ["Taiwanese"] = "霍夫丹·黑須",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -9761,7 +9400,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Ormyr Ojílex",
                 ["Taiwanese"] = "奧米爾·火眼",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -9788,7 +9426,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Fenthwick",
                 ["Taiwanese"] = "芬斯維克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -9815,7 +9452,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Muello Saltarín",
                 ["Taiwanese"] = "賓斯匹德",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -9842,7 +9478,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Cortallave Volopiñón",
                 ["Taiwanese"] = "考格斯賓",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -9869,7 +9504,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Tally Burbubaya",
                 ["Taiwanese"] = "塔雷·漿泡",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -9896,7 +9530,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Soolie Burbubaya",
                 ["Taiwanese"] = "蘇雷·漿泡",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -9923,7 +9556,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Gusano de la oscuridad",
                 ["Taiwanese"] = "黑暗蟲",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -9950,7 +9582,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Médico brujo Atal'ai",
                 ["Taiwanese"] = "阿塔萊巫醫",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -9977,7 +9608,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Yarr Martillal",
                 ["Taiwanese"] = "亞爾·錘石",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -10004,7 +9634,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Krinkle Buenacero",
                 ["Taiwanese"] = "克林科·古德斯迪爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -10031,7 +9660,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Stephen Lomocenteno",
                 ["Taiwanese"] = "斯蒂芬·雷百克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -10058,7 +9686,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Erika Tate",
                 ["Taiwanese"] = "艾瑞卡·塔特",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -10085,7 +9712,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Arnold Leland",
                 ["Taiwanese"] = "阿諾德·利蘭",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -10112,7 +9738,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Catherine Leland",
                 ["Taiwanese"] = "凱瑟琳·利蘭",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -10139,7 +9764,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Lilyssia Brisa Nocturna",
                 ["Taiwanese"] = "莉琳希亞·夜風",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -10166,7 +9790,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Tel'Athir",
                 ["Taiwanese"] = "泰蘭希爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -10193,7 +9816,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Shylamiir",
                 ["Taiwanese"] = "莎拉米爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -10220,7 +9842,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Therum Forjahonda",
                 ["Taiwanese"] = "瑟魯姆·深爐",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -10247,7 +9868,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Kaita Forjahonda",
                 ["Taiwanese"] = "凱塔·深爐",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -10274,7 +9894,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Gelman Petramano",
                 ["Taiwanese"] = "吉爾曼·石手",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -10301,7 +9920,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Lilliam Chispeje",
                 ["Taiwanese"] = "利廉姆·火軸",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -10328,7 +9946,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Simon Peletero",
                 ["Taiwanese"] = "西蒙·坦納爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -10355,7 +9972,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Tannysa",
                 ["Taiwanese"] = "塔尼莎",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -10382,7 +9998,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Sellandus",
                 ["Taiwanese"] = "塞拉多斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -10409,7 +10024,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Alquimista Morterozugg",
                 ["Taiwanese"] = "煉金師匹斯特蘇格",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -10436,7 +10050,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Pícaro Vagayermo",
                 ["Taiwanese"] = "廢土遊蕩者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -10463,7 +10076,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Ladrón Deambulador",
                 ["Taiwanese"] = "廢土竊賊",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -10490,7 +10102,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Mago oscuro Vagayermo",
                 ["Taiwanese"] = "廢土暗法師",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -10517,7 +10128,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Bandido Deambulador",
                 ["Taiwanese"] = "廢土強盜",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -10544,7 +10154,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Asesino Vagayermo",
                 ["Taiwanese"] = "廢土刺客",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -10571,7 +10180,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Clyde Kellen",
                 ["Taiwanese"] = "克萊德·凱林",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -10598,7 +10206,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Vance Bajopenumbra",
                 ["Taiwanese"] = "範斯·安德格魯姆",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -10625,7 +10232,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Killian Sanatha",
                 ["Taiwanese"] = "基利恩·薩納森",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -10652,7 +10258,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Lilly",
                 ["Taiwanese"] = "莉蕾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -10679,7 +10284,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Leo Sarn",
                 ["Taiwanese"] = "雷歐·薩恩",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -10706,7 +10310,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Enfermera Neela",
                 ["Taiwanese"] = "妮拉",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -10733,7 +10336,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Ebru",
                 ["Taiwanese"] = "厄布魯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -10760,7 +10362,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Kalldan Lunavil",
                 ["Taiwanese"] = "卡爾丹·暗月",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -10787,7 +10388,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Waldor",
                 ["Taiwanese"] = "瓦多爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -10814,7 +10414,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Kamari",
                 ["Taiwanese"] = "卡瑪瑞",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -10841,7 +10440,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Esclavista Hierro Negro",
                 ["Taiwanese"] = "黑鐵奴隸販子",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -10868,7 +10466,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Capataz Hierro Negro",
                 ["Taiwanese"] = "黑鐵工頭",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -10895,7 +10492,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Guardia de Fuego Crepuscular",
                 ["Taiwanese"] = "暮光火焰衛士",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -10922,7 +10518,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Uthan Aguasmansas",
                 ["Taiwanese"] = "尤薩恩·靜水",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -10949,7 +10544,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Vira Jovenpezuña",
                 ["Taiwanese"] = "維爾拉·幼蹄",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -10976,7 +10570,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Harn Tiralejo",
                 ["Taiwanese"] = "哈恩·長線",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -11003,7 +10596,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Lau'Tiki",
                 ["Taiwanese"] = "勞迪克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -11030,7 +10622,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Zansoa",
                 ["Taiwanese"] = "詹蘇爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -11057,7 +10648,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Rawrk",
                 ["Taiwanese"] = "拉烏克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -11084,7 +10674,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Yonada",
                 ["Taiwanese"] = "猶納達",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -11111,7 +10700,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Buscador de portales",
                 ["Taiwanese"] = "傳送門搜尋者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -11138,7 +10726,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Tormus Forjahonda",
                 ["Taiwanese"] = "托姆斯·深爐",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -11165,7 +10752,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Lotherias",
                 ["Taiwanese"] = "洛瑟裏亞斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -11192,7 +10778,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Byancie",
                 ["Taiwanese"] = "拜恩希",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -11219,7 +10804,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Oráculo Arkkoran",
                 ["Taiwanese"] = "亞考蘭智者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -11246,7 +10830,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Hijo de Arkkoroc",
                 ["Taiwanese"] = "亞考羅克之子",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -11273,7 +10856,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Rompedor del risco",
                 ["Taiwanese"] = "峭壁擊碎者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -11300,7 +10882,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Sirena Látigo de Ira",
                 ["Taiwanese"] = "惡鞭海妖",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -11327,7 +10908,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Pícaro Legashi",
                 ["Taiwanese"] = "雷加斯潛行者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -11354,7 +10934,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Zarrin",
                 ["Taiwanese"] = "紮瑞恩",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -11381,7 +10960,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Radnaal Tejecrín",
                 ["Taiwanese"] = "拉德納爾·織發",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -11408,7 +10986,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Jayla",
                 ["Taiwanese"] = "傑拉",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -11435,7 +11012,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Rand Rhobart",
                 ["Taiwanese"] = "蘭德·洛巴爾特",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -11462,7 +11038,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Yonn Llagaprofunda",
                 ["Taiwanese"] = "姚恩·深刺",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -11489,7 +11064,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Balthus Cazarrocas",
                 ["Taiwanese"] = "巴爾薩斯·裂石",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -11516,7 +11090,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Eladriel",
                 ["Taiwanese"] = "艾拉迪爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -11543,7 +11116,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Wilma Ranthal",
                 ["Taiwanese"] = "[Wilma Ranthal]",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -11570,7 +11142,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Kurdram Rocamartillo",
                 ["Taiwanese"] = "庫德拉姆·石錘",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -11597,7 +11168,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Delfrum Flintbeard",
                 ["Taiwanese"] = "迪爾弗拉姆·火須",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -11624,7 +11194,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Helene Desollapelambres",
                 ["Taiwanese"] = "海倫尼·派特斯金納",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -11651,7 +11220,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Dranh",
                 ["Taiwanese"] = "德拉恩",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -11678,7 +11246,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Moco muculento",
                 ["Taiwanese"] = "膠質軟泥怪",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -11705,7 +11272,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Moco primigenio",
                 ["Taiwanese"] = "原生軟泥怪",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -11732,7 +11298,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Moco glutinoso",
                 ["Taiwanese"] = "粘稠的軟泥怪",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -11759,7 +11324,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Ghok'kah",
                 ["Taiwanese"] = "格魯克卡恩",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -11786,7 +11350,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Vizzklick",
                 ["Taiwanese"] = "維茲格裏克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -11813,7 +11376,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Jun'ha",
                 ["Taiwanese"] = "祖恩哈",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -11840,7 +11402,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Brienna Brillastrella",
                 ["Taiwanese"] = "布琳娜·星光",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -11867,7 +11428,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Fahrad",
                 ["Taiwanese"] = "法拉德",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -11894,7 +11454,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Jinky Arreglatodo",
                 ["Taiwanese"] = "金克·鐵鈎",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -11921,7 +11480,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Harlown Tejeoscuro",
                 ["Taiwanese"] = "哈魯恩·暗紋",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -11948,7 +11506,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Zan Chafadento",
                 ["Taiwanese"] = "薩恩·刀鏈",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -11975,7 +11532,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Borrón Truenedera",
                 ["Taiwanese"] = "斯穆德·雷木",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -12002,7 +11558,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Jarkal Musgofusión",
                 ["Taiwanese"] = "加卡爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -12029,7 +11584,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Agente Kearnen",
                 ["Taiwanese"] = "密探吉爾妮",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -12056,7 +11610,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Soldado Roca Negra",
                 ["Taiwanese"] = "黑石士兵",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -12083,7 +11636,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Destripador Roca Negra",
                 ["Taiwanese"] = "黑石殺戮者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -12110,7 +11662,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Maestro de batalla Roca Negra",
                 ["Taiwanese"] = "黑石軍官",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -12137,7 +11688,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Tosco Pirontraña",
                 ["Taiwanese"] = "火腹蠻兵",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -12164,7 +11714,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Caminafuego Thaurissan",
                 ["Taiwanese"] = "索瑞森馭火者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -12191,7 +11740,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Killian Hagey",
                 ["Taiwanese"] = "基裏安·哈根",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -12218,7 +11766,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Thuwd",
                 ["Taiwanese"] = "蘇爾德",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -12245,7 +11792,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Mooranta",
                 ["Taiwanese"] = "莫蘭塔",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -12272,7 +11818,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Pícaro Fuego de Jade",
                 ["Taiwanese"] = "碧火潛行者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -12299,7 +11844,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Tramposo Fuego de Jade",
                 ["Taiwanese"] = "碧火欺詐者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -12326,7 +11870,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Fiel Jaedenar",
                 ["Taiwanese"] = "加德納爾祭司",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -12353,7 +11896,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Vigilante del cubil Muertobosque",
                 ["Taiwanese"] = "死木守衛",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -12380,7 +11922,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Chamán Muertobosque",
                 ["Taiwanese"] = "死木薩滿祭司",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -12407,7 +11948,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Shayis Furiacerada",
                 ["Taiwanese"] = "莎伊斯·鋼怒",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -12434,7 +11974,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Kelgruk Hacha de Sangre",
                 ["Taiwanese"] = "克爾格魯克·血斧",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -12461,7 +12000,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Borgus Mano de Acero",
                 ["Taiwanese"] = "博古斯·鋼拳",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -12488,7 +12026,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Capataz Burbujita",
                 ["Taiwanese"] = "工頭費蘇勒",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -12515,7 +12052,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Brujo Vientomuerto",
                 ["Taiwanese"] = "逆風術士",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -12542,7 +12078,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Oglethorpe Obnoticus",
                 ["Taiwanese"] = "奧格索普·奧布諾提斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -12569,7 +12104,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Gigante Machacahielo",
                 ["Taiwanese"] = "霜槌巨人",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -12596,7 +12130,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Tejemagia de cobalto",
                 ["Taiwanese"] = "深藍龍人法師",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -12623,7 +12156,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Ursa Nevada",
                 ["Taiwanese"] = "冬泉巨熊怪",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -12650,7 +12182,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Vigía del cubil Nevada",
                 ["Taiwanese"] = "冬泉巢穴守衛",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -12677,7 +12208,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Totémico Nevada",
                 ["Taiwanese"] = "冬泉圖騰師",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -12704,7 +12234,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Altonato angustiada",
                 ["Taiwanese"] = "痛苦的上層精靈",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -12731,7 +12260,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Tabernero Fizzgrimble",
                 ["Taiwanese"] = "旅店老板菲茲格瑞博",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -12758,7 +12286,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Orokk Omosh",
                 ["Taiwanese"] = "奧羅克·沃姆什",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -12785,7 +12312,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Aturk el Yunque",
                 ["Taiwanese"] = "鐵砧阿圖爾克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -12812,7 +12338,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Hank el Martillo",
                 ["Taiwanese"] = "巨錘漢克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -12839,7 +12364,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Mekigeniero Termochufe",
                 ["Taiwanese"] = "麥克尼爾·瑟瑪普拉格",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -12866,7 +12390,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Galvan el Antiguo",
                 ["Taiwanese"] = "加爾文",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -12893,7 +12416,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Trenton Mazaligera",
                 ["Taiwanese"] = "特倫頓·輕錘",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -12920,7 +12442,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Revuelvebasura Deambulador",
                 ["Taiwanese"] = "廢土暴徒",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["special_action"] = "spawn robot chicken quest",
             ["xp_level"] = {
@@ -12948,7 +12469,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Pratt McGrubben",
                 ["Taiwanese"] = "普拉特·馬克格魯比",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -12975,7 +12495,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Jangdor Zanco Veloz",
                 ["Taiwanese"] = "杉多爾·迅蹄",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13002,7 +12521,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Filibustero del Mar del Sur",
                 ["Taiwanese"] = "南海劫掠者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13029,7 +12547,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Altonato persistente",
                 ["Taiwanese"] = "徘徊的上層精靈",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13056,7 +12573,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Peter Galen",
                 ["Taiwanese"] = "彼得·加林",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13083,7 +12599,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Thorkaf Dragonojo",
                 ["Taiwanese"] = "索卡夫·龍眼",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13110,7 +12625,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Sarah Peletero",
                 ["Taiwanese"] = "薩拉·坦尼",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13137,7 +12651,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Brumm Pezuña Invernal",
                 ["Taiwanese"] = "布魯姆·白蹄",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13164,7 +12677,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Caryssia Cazaluna",
                 ["Taiwanese"] = "凱雷希亞·獵月",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13191,7 +12703,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Se'Jib",
                 ["Taiwanese"] = "瑟伊布",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13218,7 +12729,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Andre Barbafuego",
                 ["Taiwanese"] = "安德雷·費爾比德",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13245,7 +12755,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Darnall",
                 ["Taiwanese"] = "旅店老板達納爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13272,7 +12781,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Maestro manitas Sobrechispa",
                 ["Taiwanese"] = "工匠大師歐沃斯巴克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13299,7 +12807,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Brannock",
                 ["Taiwanese"] = "布拉諾克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13326,7 +12833,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Vivianna",
                 ["Taiwanese"] = "薇薇安娜",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13353,7 +12859,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Kylanna Vientosusurro",
                 ["Taiwanese"] = "凱蘭娜·風語",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13380,7 +12885,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Xylinnia Brillestelar",
                 ["Taiwanese"] = "辛琳妮亞·星光",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13407,7 +12911,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Dirge Hojágil",
                 ["Taiwanese"] = "迪爾格·奎克裏弗",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13434,7 +12937,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Nixx Muellepiñón",
                 ["Taiwanese"] = "尼克斯·斯普克斯賓",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13461,7 +12963,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Pikkle",
                 ["Taiwanese"] = "皮庫爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13488,7 +12989,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Blizrik Machobala",
                 ["Taiwanese"] = "布雷茲裏克·巴克舒特",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13515,7 +13015,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Gikkix",
                 ["Taiwanese"] = "吉科希斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13542,7 +13041,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Jabbey",
                 ["Taiwanese"] = "加貝",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13569,7 +13067,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Kulleg Cuernopiedra",
                 ["Taiwanese"] = "庫雷格·石角",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13596,7 +13093,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Sheendra Pastoalto",
                 ["Taiwanese"] = "希恩德拉·深草",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13623,7 +13119,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Ruw",
                 ["Taiwanese"] = "拉烏",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13650,7 +13145,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Janet Hommers",
                 ["Taiwanese"] = "詹奈特·霍莫斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13677,7 +13171,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Narv Curtepieles",
                 ["Taiwanese"] = "納夫",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13704,7 +13197,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Logannas",
                 ["Taiwanese"] = "洛加納斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13731,7 +13223,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Bronk",
                 ["Taiwanese"] = "布隆克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13758,7 +13249,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Nioma",
                 ["Taiwanese"] = "尼奧瑪",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13785,7 +13275,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Harggan",
                 ["Taiwanese"] = "哈爾甘",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13812,7 +13301,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Gharash",
                 ["Taiwanese"] = "卡爾拉什",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13839,7 +13327,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Rartar",
                 ["Taiwanese"] = "拉爾塔",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13866,7 +13353,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Nina Burbuluz",
                 ["Taiwanese"] = "妮娜·萊特布魯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13893,7 +13379,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Duhng",
                 ["Taiwanese"] = "杜恩格",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13920,7 +13405,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Tarban Granogar",
                 ["Taiwanese"] = "塔班·熟麥",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13947,7 +13431,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Nilith Lokrav",
                 ["Taiwanese"] = "尼莉絲·洛克拉夫",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -13974,7 +13457,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Gretta Ganter",
                 ["Taiwanese"] = "格雷塔·甘特",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -14001,7 +13483,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Taumaturgo oscuro",
                 ["Taiwanese"] = "黑暗法師",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -14028,7 +13509,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Sirviente oculto",
                 ["Taiwanese"] = "無影仆從",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -14055,7 +13535,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Adepto oscuro",
                 ["Taiwanese"] = "黑暗教徒",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -14082,7 +13561,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Mago oscuro",
                 ["Taiwanese"] = "暗影法師",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -14109,7 +13587,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Invocador oscuro",
                 ["Taiwanese"] = "黑暗召喚師",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -14136,7 +13613,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Cazasombras Fustamusgo",
                 ["Taiwanese"] = "爛苔暗影獵手",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -14163,7 +13639,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Can de peste demenciado",
                 ["Taiwanese"] = "狂怒的瘟疫犬",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -14190,7 +13665,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Vigilante Hierro Negro",
                 ["Taiwanese"] = "黑鐵巡邏兵",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -14217,7 +13691,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Jubie Cacharretio",
                 ["Taiwanese"] = "朱比",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -14244,7 +13717,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Knaz Flamerrada",
                 ["Taiwanese"] = "克納茲·槍焰",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -14271,7 +13743,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Confecciones Eric",
                 ["Taiwanese"] = "埃瑞克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -14298,7 +13769,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Henry Stern",
                 ["Taiwanese"] = "亨利·斯特恩",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -14325,7 +13795,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Buzzek Giracorchete",
                 ["Taiwanese"] = "巴茲克·布拉斯溫",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -14352,7 +13821,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Vazario Grasenlace",
                 ["Taiwanese"] = "瓦薩裏奧·林克格雷斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -14379,7 +13847,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Muuran",
                 ["Taiwanese"] = "穆爾蘭",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -14402,7 +13869,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Artesano de la Forja Maldita",
                 ["Taiwanese"] = "厄爐工匠",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -14425,7 +13891,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Alguacil Yunque Colérico",
                 ["Taiwanese"] = "鐵怒隊長",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -14448,7 +13913,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Herrero arcano de la Forja Maldita",
                 ["Taiwanese"] = "厄爐魔匠",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -14471,7 +13935,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Capitán Yunque Colérico",
                 ["Taiwanese"] = "鐵怒上尉",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -14494,7 +13957,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Técnico de armas",
                 ["Taiwanese"] = "武器技師",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -14517,7 +13979,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Piromántico Cultugrano",
                 ["Taiwanese"] = "控火師羅格雷恩",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -14540,7 +14001,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Lord Roccor",
                 ["Taiwanese"] = "洛考爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -14567,7 +14027,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Maestro Supremo Pyron",
                 ["Taiwanese"] = "征服者派隆",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -14594,7 +14053,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Grisez",
                 ["Taiwanese"] = "格裏茲爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["special_action"] = "boss arena",
             ["xp_level"] = {
@@ -14622,7 +14080,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Jazzrik",
                 ["Taiwanese"] = "加茲裏克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -14649,7 +14106,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Místico Cumbrerroca",
                 ["Taiwanese"] = "尖石秘法師",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -14676,7 +14132,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Señor de la guerra Cumbrerroca",
                 ["Taiwanese"] = "尖石軍閥",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -14703,7 +14158,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Bruto Pirotigma",
                 ["Taiwanese"] = "火印步兵",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -14730,7 +14184,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Legionario Pirotigma",
                 ["Taiwanese"] = "火印軍團戰士",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -14757,7 +14210,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Convocador Pirotigma",
                 ["Taiwanese"] = "火印祈求者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -14784,7 +14236,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Piromántico Pirotigma",
                 ["Taiwanese"] = "火印炎術師",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -14811,7 +14262,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Dadanga",
                 ["Taiwanese"] = "達丹加",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -14838,7 +14288,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Depositario Escarlata",
                 ["Taiwanese"] = "血色典獄官",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -14865,7 +14314,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Clérigo Escarlata",
                 ["Taiwanese"] = "血色宣教士",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -14892,7 +14340,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Coadjutor Escarlata",
                 ["Taiwanese"] = "血色助理牧師",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -14919,7 +14366,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Archimago Escarlata",
                 ["Taiwanese"] = "血色大法師",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -14946,7 +14392,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Encantador Escarlata",
                 ["Taiwanese"] = "血色巫術師",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -14973,7 +14418,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Moco clonado",
                 ["Taiwanese"] = "克隆軟泥怪",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -14996,7 +14440,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Plugger Aropatoso",
                 ["Taiwanese"] = "普拉格",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -15019,7 +14462,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Ribbly Llavenrosca",
                 ["Taiwanese"] = "雷布裏·斯庫比格特",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -15046,7 +14488,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Yuka Llavenrosca",
                 ["Taiwanese"] = "尤卡·斯庫比格特",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -15069,7 +14510,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Parroquiano beodo",
                 ["Taiwanese"] = "持鐵錘的顧客",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -15096,7 +14536,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Jalane Ayrole",
                 ["Taiwanese"] = "嘉萊恩·艾羅",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -15123,7 +14562,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Bannok Hacha Macabra",
                 ["Taiwanese"] = "班諾克·巨斧",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -15150,7 +14588,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Kireena",
                 ["Taiwanese"] = "基瑞娜",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -15177,7 +14614,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Intendente Zigris",
                 ["Taiwanese"] = "軍需官茲格雷斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -15200,7 +14636,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Compinche de Ribbly",
                 ["Taiwanese"] = "雷布裏的親信",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -15227,7 +14662,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Nessa Cantosombrío",
                 ["Taiwanese"] = "尼莎·影歌",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -15254,7 +14688,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Volchan",
                 ["Taiwanese"] = "沃爾查",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -15281,7 +14714,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Solakar Corona de Fuego",
                 ["Taiwanese"] = "索拉卡·火冠",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["special_action"] = "needs father flame",
             ["xp_level"] = {
@@ -15309,7 +14741,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Ug'thok",
                 ["Taiwanese"] = "烏格索克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -15336,7 +14767,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Rotgath Barbapétrea",
                 ["Taiwanese"] = "洛特加斯·石須",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -15363,7 +14793,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Groum Barbapétrea",
                 ["Taiwanese"] = "格魯姆·石須",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -15390,7 +14819,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Thrag Pezuñapétrea",
                 ["Taiwanese"] = "瑟拉格·石蹄",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -15417,7 +14845,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Umi Risitas",
                 ["Taiwanese"] = "烏米",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -15444,7 +14871,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Élite Puño Negro",
                 ["Taiwanese"] = "黑手精英",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -15471,7 +14897,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Gyth",
                 ["Taiwanese"] = "蓋斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -15498,7 +14923,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "General Drakkisath",
                 ["Taiwanese"] = "達基薩斯將軍",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -15525,7 +14949,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Ciudadano espectral",
                 ["Taiwanese"] = "鬼魂市民",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -15552,7 +14975,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Nigromante Thuzadin",
                 ["Taiwanese"] = "圖薩丁暗影法師",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -15579,7 +15001,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Cuervoso necrófago",
                 ["Taiwanese"] = "食屍搶奪者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -15606,7 +15027,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Hechicero Carmesí",
                 ["Taiwanese"] = "紅衣法術師",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -15633,7 +15053,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Mago de batalla Carmesí",
                 ["Taiwanese"] = "紅衣戰鬥法師",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -15660,7 +15079,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Inquisidor Carmesí",
                 ["Taiwanese"] = "紅衣審查者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -15687,7 +15105,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Maleki el Pálido",
                 ["Taiwanese"] = "蒼白的瑪勒基",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -15714,7 +15131,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Adepto de Scholomance",
                 ["Taiwanese"] = "通靈學院專家",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -15741,7 +15157,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Investigador espectral",
                 ["Taiwanese"] = "鬼靈研究員",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -15768,7 +15183,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Ras Murmuhielo",
                 ["Taiwanese"] = "萊斯·霜語",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -15795,7 +15209,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Malyfous Martilloscuro",
                 ["Taiwanese"] = "瑪雷弗斯·暗錘",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -15822,7 +15235,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Balnazzar",
                 ["Taiwanese"] = "巴納紮爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -15849,7 +15261,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Intendente Argenta Hasana",
                 ["Taiwanese"] = "銀色黎明軍需官哈薩娜",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -15876,7 +15287,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Intendente Argenta Destelllo de Luz",
                 ["Taiwanese"] = "銀色黎明軍需官萊斯巴克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -15903,7 +15313,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Goraluk Yunquegrieta",
                 ["Taiwanese"] = "古拉魯克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -15930,7 +15339,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Lorax",
                 ["Taiwanese"] = "羅拉克斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -15957,7 +15365,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Tuizgüik Muelodentado",
                 ["Taiwanese"] = "圖茲維克·斯普格林",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -15984,7 +15391,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Cañonero Jefe Willey",
                 ["Taiwanese"] = "炮手威利",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -16011,7 +15417,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Roxxik",
                 ["Taiwanese"] = "羅克希克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -16038,7 +15443,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Mukdrak",
                 ["Taiwanese"] = "穆德拉克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -16065,7 +15469,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Duendy Ruedadentada",
                 ["Taiwanese"] = "斯普萊特",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -16092,7 +15495,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Jemma Cambioveloz",
                 ["Taiwanese"] = "耶瑪",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -16119,7 +15521,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Trixie Cambioyá",
                 ["Taiwanese"] = "特裏克希",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -16146,7 +15547,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Franklin Lloyd",
                 ["Taiwanese"] = "弗蘭克林·洛伊德",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -16173,7 +15573,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Jenna Lemkenilli",
                 ["Taiwanese"] = "潔娜·雷姆尼利",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -16200,7 +15599,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Milla Fairancora",
                 ["Taiwanese"] = "米拉·法拉科納",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -16227,7 +15625,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Sylvanna Bosqueluna",
                 ["Taiwanese"] = "希爾瓦娜·林月",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -16254,7 +15651,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Doctor Martin Felben",
                 ["Taiwanese"] = "馬丁·費爾本",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -16281,7 +15677,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Whuut",
                 ["Taiwanese"] = "伍特",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -16308,7 +15703,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Kray",
                 ["Taiwanese"] = "克瑞",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -16335,7 +15729,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Víctor Tutor",
                 ["Taiwanese"] = "維克多·瓦德",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -16362,7 +15755,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Rhiannon Davis",
                 ["Taiwanese"] = "雷安諾·戴維斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -16389,7 +15781,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Trianna",
                 ["Taiwanese"] = "蒂安娜",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -16416,7 +15807,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Vhan",
                 ["Taiwanese"] = "範恩",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -16443,7 +15833,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Timoteo Valión",
                 ["Taiwanese"] = "提莫斯·沃森特",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -16470,7 +15859,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Thonys Piedrapilar",
                 ["Taiwanese"] = "索恩斯·火石",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -16497,7 +15885,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Jhag",
                 ["Taiwanese"] = "夏格",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -16524,7 +15911,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Malcomb Wynn",
                 ["Taiwanese"] = "瑪考布·維恩",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -16551,7 +15937,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Betty Quin",
                 ["Taiwanese"] = "貝蒂·奎恩",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -16578,7 +15963,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Lalina Luna de Verano",
                 ["Taiwanese"] = "拉琳娜·夏月",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -16605,7 +15989,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Mot Caminalba",
                 ["Taiwanese"] = "莫特·晨行者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -16632,7 +16015,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Kitta Vientofuego",
                 ["Taiwanese"] = "基塔·費溫德",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -16659,7 +16041,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Annora",
                 ["Taiwanese"] = "安諾拉",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -16686,7 +16067,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Hgarth",
                 ["Taiwanese"] = "赫加斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -16713,7 +16093,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Faldron",
                 ["Taiwanese"] = "法多恩",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -16740,7 +16119,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Darianna",
                 ["Taiwanese"] = "達麗亞娜",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -16767,7 +16145,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Tarn",
                 ["Taiwanese"] = "塔恩",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -16794,7 +16171,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Randal Valor",
                 ["Taiwanese"] = "蘭達爾·沃斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -16821,7 +16197,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Drakk Petramano",
                 ["Taiwanese"] = "德拉克·石拳",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -16848,7 +16223,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Hahrana Pielférrea",
                 ["Taiwanese"] = "哈拉納·鐵皮",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -16875,7 +16249,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Ironus Acero Frío",
                 ["Taiwanese"] = "埃隆努斯·冷鋼",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -16902,7 +16275,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Okothos Ferrofurecedor",
                 ["Taiwanese"] = "奧克索斯·鐵怒",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -16929,7 +16301,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Borgosh Ramagma",
                 ["Taiwanese"] = "伯古什",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -16956,7 +16327,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Xizzer Raybuja",
                 ["Taiwanese"] = "希茲爾·菲茲波特",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -16983,7 +16353,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Himmik",
                 ["Taiwanese"] = "西米克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -17010,7 +16379,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Evie Brebegira",
                 ["Taiwanese"] = "埃文·維布魯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -17037,7 +16405,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Qia",
                 ["Taiwanese"] = "琦亞",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -17064,7 +16431,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Lilith la Ágil",
                 ["Taiwanese"] = "輕盈的莉莉絲",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -17091,7 +16457,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Kilram",
                 ["Taiwanese"] = "基爾拉姆",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -17118,7 +16483,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Seril Finiquiplaga",
                 ["Taiwanese"] = "亡靈殺手瑟裏爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -17145,7 +16509,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Magnus Vespescarcha",
                 ["Taiwanese"] = "瑪格努斯·霜鳴",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["special_action"] = "spectral essence",
             ["xp_level"] = {
@@ -17173,7 +16536,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Brujo Gordok",
                 ["Taiwanese"] = "戈多克術士",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -17200,7 +16562,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Atracador Gordok",
                 ["Taiwanese"] = "戈多克掠奪者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -17227,7 +16588,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Magister Kalendris",
                 ["Taiwanese"] = "卡雷迪斯鎮長",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -17254,7 +16614,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Ragnaros",
                 ["Taiwanese"] = "拉格納羅斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -17281,7 +16640,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Intendente Miranda Cerrobrecha",
                 ["Taiwanese"] = "軍需官米蘭達·布利洛克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -17309,7 +16667,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Meilosh",
                 ["Taiwanese"] = "梅羅什",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -17336,7 +16693,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Invocador Oscuro de Scholomance",
                 ["Taiwanese"] = "通靈學院黑暗召喚師",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -17363,7 +16719,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Sanador despiertallamas",
                 ["Taiwanese"] = "烈焰行者醫師",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -17390,7 +16745,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Masat T'andr",
                 ["Taiwanese"] = "馬薩特·坦德",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -17417,7 +16771,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Geoseñor Crepuscular",
                 ["Taiwanese"] = "暮光地王",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -17444,7 +16797,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Magmadar",
                 ["Taiwanese"] = "瑪格曼達",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -17471,7 +16823,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Golemagg el Incinerador",
                 ["Taiwanese"] = "焚化者古雷曼格",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -17498,7 +16849,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Mayordomo Executus",
                 ["Taiwanese"] = "管理者埃克索圖斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -17525,7 +16875,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Lorelae Cantinvernal",
                 ["Taiwanese"] = "羅萊爾·冬歌",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -17552,7 +16901,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Malvor",
                 ["Taiwanese"] = "瑪沃爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -17579,7 +16927,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Malux",
                 ["Taiwanese"] = "馬魯克斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -17606,7 +16953,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Lui'Mala",
                 ["Taiwanese"] = "魯伊馬拉",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -17633,7 +16979,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Wulan",
                 ["Taiwanese"] = "烏蘭",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -17660,7 +17005,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Kulwia",
                 ["Taiwanese"] = "庫爾維亞",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -17687,7 +17031,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Barón Geddon",
                 ["Taiwanese"] = "迦頓男爵",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -17714,7 +17057,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Garr",
                 ["Taiwanese"] = "加爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -17741,7 +17083,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Sulfuron Presagista",
                 ["Taiwanese"] = "薩弗隆先驅者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -17768,7 +17109,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Lucifron",
                 ["Taiwanese"] = "魯西弗隆",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -17795,7 +17135,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Vende-Tron 1000",
                 ["Taiwanese"] = "貿易機器人1000型",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -17822,7 +17161,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Supervendedor 680",
                 ["Taiwanese"] = "超級商人680型",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -17849,7 +17187,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Gehennas",
                 ["Taiwanese"] = "基赫納斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -17876,7 +17213,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Shazzrah",
                 ["Taiwanese"] = "沙斯拉爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -17903,7 +17239,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Lord Kazzak",
                 ["Taiwanese"] = "卡紮克",
             },
-            ["phase"] = 2,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -17930,7 +17265,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Nat Pagle",
                 ["Taiwanese"] = "納特·帕格",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -17957,7 +17291,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Doctor Gregory Victor",
                 ["Taiwanese"] = "格裏高利·維克托醫生",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -17984,7 +17317,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Doctor Gustaf VanHowzen",
                 ["Taiwanese"] = "古斯塔夫·範沃森醫生",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -18011,7 +17343,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Jase Farlane",
                 ["Taiwanese"] = "賈斯·法拉恩",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -18038,7 +17369,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Leonard Porter",
                 ["Taiwanese"] = "萊納德·波特",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -18065,7 +17395,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Werg Filo Grueso",
                 ["Taiwanese"] = "維爾格·厚刃",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -18088,7 +17417,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Lokhtos Tratoscuro",
                 ["Taiwanese"] = "羅克圖斯·暗契",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -18115,7 +17443,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Zannok Perforapieles",
                 ["Taiwanese"] = "紮諾克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -18142,7 +17469,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Blimo Cacharretio",
                 ["Taiwanese"] = "布裏莫",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -18169,7 +17495,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Gigget Retramuelle",
                 ["Taiwanese"] = "吉蓋特·火油",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -18196,7 +17521,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Nergal",
                 ["Taiwanese"] = "奈爾加",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -18223,7 +17547,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Kil'Hiwana",
                 ["Taiwanese"] = "基爾希瓦納",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -18250,7 +17573,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Wik'Tar",
                 ["Taiwanese"] = "維克塔",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -18277,7 +17599,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Triturador Alabeo",
                 ["Taiwanese"] = "扭木摧毀者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -18304,7 +17625,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Lord Tony Romano",
                 ["Taiwanese"] = "托尼·羅曼諾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -18331,7 +17651,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Penney Cobrellizco",
                 ["Taiwanese"] = "本尼·考伯賓奇",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -18358,7 +17677,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Nardstrum Cobrellizco",
                 ["Taiwanese"] = "納斯塔姆·卡布彬",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -18385,7 +17703,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Seersa Cobrellizco",
                 ["Taiwanese"] = "希爾薩",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -18412,7 +17729,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Wulmort Calderilla",
                 ["Taiwanese"] = "烏莫爾特",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -18439,7 +17755,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Khole Calderilla",
                 ["Taiwanese"] = "霍勒",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -18466,7 +17781,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Balai Lok'Wein",
                 ["Taiwanese"] = "巴萊·洛克維",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -18493,7 +17807,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Rasgabranquia",
                 ["Taiwanese"] = "斯卡基爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -18520,7 +17833,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Knot Llavededo",
                 ["Taiwanese"] = "諾特·希姆加克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -18547,7 +17859,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Arbusloco Gordok",
                 ["Taiwanese"] = "高多克·布斯瓦克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -18574,7 +17885,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Pusillín",
                 ["Taiwanese"] = "普希林",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -18601,7 +17911,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Proveedor Shen'dralar",
                 ["Taiwanese"] = "辛德拉聖職者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -18628,7 +17937,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Señor supremo Runthak",
                 ["Taiwanese"] = "倫薩克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -18655,7 +17963,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Mayor Mattingly",
                 ["Taiwanese"] = "瑪丁雷少校",
             },
-            ["phase"] = 1,
             ["reacts"] = "Alliance",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -18682,7 +17989,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Maestro de los elementos Formacio Krixix",
                 ["Taiwanese"] = "大元素師克裏希克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -18709,7 +18015,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Fundespino",
                 ["Taiwanese"] = "摩塔索恩",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -18736,7 +18041,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "El Atracavientos",
                 ["Taiwanese"] = "烈風掠奪者",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -18763,7 +18067,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Princesa Tempestria",
                 ["Taiwanese"] = "泰比斯蒂亞公主",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -18790,7 +18093,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Derotain Sorbelodo",
                 ["Taiwanese"] = "德羅泰恩",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -18817,7 +18119,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Zorbin Hipnoviento",
                 ["Taiwanese"] = "索爾賓·範達瑟",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -18844,7 +18145,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Otho Moji'ko",
                 ["Taiwanese"] = "奧索·莫吉克",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -18871,7 +18171,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Katoom el Pescador",
                 ["Taiwanese"] = "釣魚者卡圖姆",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -18898,7 +18197,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Zap Lanzalejos",
                 ["Taiwanese"] = "紮普·法弗林",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -18926,7 +18224,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Gelvas Roñas",
                 ["Taiwanese"] = "吉瓦斯·格裏加特",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -18954,7 +18251,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Gelvas Roñas",
                 ["Taiwanese"] = "吉瓦斯·格裏加特",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -18981,7 +18277,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Rin'wosho el Comerciante",
                 ["Taiwanese"] = "商人林沃斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -19008,7 +18303,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Inquisidor Escarlata",
                 ["Taiwanese"] = "血色審查官",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -19035,7 +18329,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Vargus",
                 ["Taiwanese"] = "瓦古斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -19062,7 +18355,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Mishta",
                 ["Taiwanese"] = "米什塔",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -19089,7 +18381,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Ermitaño Ortell",
                 ["Taiwanese"] = "隱士奧泰爾",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -19116,7 +18407,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "El profeta Skeram",
                 ["Taiwanese"] = "預言者斯克拉姆",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -19143,7 +18433,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Emperador Vek'nilash",
                 ["Taiwanese"] = "維克尼拉斯大帝",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -19170,7 +18459,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Emperador Vek'lor",
                 ["Taiwanese"] = "維克洛爾大帝",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -19197,7 +18485,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Aendel Lanzavento",
                 ["Taiwanese"] = "安迪爾·風矛",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -19224,7 +18511,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Viscidus",
                 ["Taiwanese"] = "維希度斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -19251,7 +18537,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Osirio el Sinmarcas",
                 ["Taiwanese"] = "無疤者奧斯裏安",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -19278,7 +18563,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Moam",
                 ["Taiwanese"] = "莫阿姆",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -19305,7 +18589,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "General Rajaxx",
                 ["Taiwanese"] = "拉賈克斯將軍",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -19332,7 +18615,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Kurinnaxx",
                 ["Taiwanese"] = "庫林納克斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -19359,7 +18641,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Ayamiss el Cazador",
                 ["Taiwanese"] = "狩獵者阿亞米斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -19386,7 +18667,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Buru el Manducador",
                 ["Taiwanese"] = "吞咽者布魯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -19413,7 +18693,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Kania",
                 ["Taiwanese"] = "卡妮亞",
             },
-            ["phase"] = 5,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -19440,7 +18719,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Teniente general Andorov",
                 ["Taiwanese"] = "安多洛夫中將",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -19467,7 +18745,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Princesa Huhuran",
                 ["Taiwanese"] = "哈霍蘭公主",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -19494,7 +18771,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Fankriss el Implacable",
                 ["Taiwanese"] = "頑強的範克瑞斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -19521,7 +18797,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Lord Kri",
                 ["Taiwanese"] = "克裏勳爵",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -19548,7 +18823,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Guardia de batalla Sartura",
                 ["Taiwanese"] = "沙爾圖拉",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -19575,7 +18849,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Ouro",
                 ["Taiwanese"] = "奧羅",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -19602,7 +18875,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Princesa Yauj",
                 ["Taiwanese"] = "亞爾基公主",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -19629,7 +18901,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Vem",
                 ["Taiwanese"] = "維姆",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -19656,7 +18927,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "C'Thun",
                 ["Taiwanese"] = "克蘇恩",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -19683,7 +18953,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Fariel Cantoestelar",
                 ["Taiwanese"] = "法蕾爾·星歌",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -19710,7 +18979,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Señor de las Mareas Rrurgaz",
                 ["Taiwanese"] = "海潮之王魯爾加斯",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -19737,7 +19005,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Maestro artesano Omarion",
                 ["Taiwanese"] = "大工匠奧瑪裏恩",
             },
-            ["phase"] = 6,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -19764,7 +19031,6 @@ TRADE_SKILLS_DATA["npcs"] =
                 ["Spanish"] = "Artesano Wilhelm",
                 ["Taiwanese"] = "工匠威爾海姆",
             },
-            ["phase"] = 1,
             ["reacts"] = "Neutral",
             ["xp_level"] = {
                 ["is_elite"] = 0,
@@ -19778,7 +19044,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Crimson Guardsman",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -19792,7 +19057,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Crimson Conjuror",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -19806,7 +19070,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Crimson Initiate",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -19820,7 +19083,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Crimson Defender",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -19834,7 +19096,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Crimson Priest",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -19848,7 +19109,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Crimson Gallant",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -19862,7 +19122,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Baron Rivendare",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -19876,7 +19135,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Baroness Anastari",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -19890,7 +19148,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Nerub'enkan",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -19904,7 +19161,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Ramstein the Gorger",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -19918,7 +19174,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Scholomance Neophyte",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -19932,7 +19187,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Scholomance Acolyte",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -19946,7 +19200,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Scholomance Occultist",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -19960,7 +19213,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Scholomance Necrolyte",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -19974,7 +19226,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Scholomance Necromancer",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -19988,7 +19239,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Risen Guard",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -20002,7 +19252,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Jandice Barov",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -20016,7 +19265,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Timmy the Cruel",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -20030,7 +19278,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Archivist Galford",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -20044,7 +19291,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Grand Crusader Dathrohan",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -20058,7 +19304,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Malor the Zealous",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -20072,7 +19317,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Scholomance Handler",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -20086,7 +19330,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Rattlegore",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -20100,7 +19343,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Atal'ai Warrior",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -20114,7 +19356,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Unliving Atal'ai",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -20128,7 +19369,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Atal'ai Corpse Eater",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -20142,7 +19382,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Atal'ai High Priest",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -20156,7 +19395,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Nightmare Scalebane",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -20170,7 +19408,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Nightmare Wyrmkin",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -20184,7 +19421,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Shade of Eranikus",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -20198,7 +19434,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Jammal'an the Prophet",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -20212,7 +19447,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Nightmare Suppressor",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -20226,7 +19460,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Anvilrage Overseer",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -20240,7 +19473,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Anvilrage Warden",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -20254,7 +19486,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Anvilrage Guardsman",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -20268,7 +19499,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Anvilrage Soldier",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -20282,7 +19512,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Anvilrage Officer",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -20296,7 +19525,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Doomforge Dragoon",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -20310,7 +19538,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Golem Lord Argelmach",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -20324,7 +19551,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Emperor Dagran Thaurissan",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -20338,7 +19564,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "General Angerforge",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -20352,7 +19577,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Fineous Darkvire",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -20366,7 +19590,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Houndmaster Grebmar",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -20380,7 +19603,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Phalanx",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -20394,7 +19616,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Hurley Blackbreath",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -20408,7 +19629,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Blackbreath Crony",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -20422,7 +19642,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Magmus",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -20436,7 +19655,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Red Dragonspawn",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -20450,7 +19668,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Red Wyrmkin",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -20464,7 +19681,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Red Scalebane",
             },
-            ["phase"] = 1,
             ["reacts"] = "Hostile",
             ["xp_level"] = {
                 ["is_elite"] = 1,
@@ -20482,7 +19698,6 @@ TRADE_SKILLS_DATA["npcs"] =
             ["name"] = {
                 ["English"] = "Krak",
             },
-            ["phase"] = 1,
             ["reacts"] = "Horde",
             ["xp_level"] = {
                 ["is_elite"] = 0,

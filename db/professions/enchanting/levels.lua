@@ -17,7 +17,6 @@ TRADE_SKILLS_DATA["levels"]["Enchanting"] =
                 ["Spanish"] = "Encantamiento (Aprendiz)",
                 ["Taiwanese"] = "附魔 (學徒)",
             },
-            ["phase"] = 1,
             ["rank"] = 1,
             ["trainers"] = {
                 ["price"] = 10,
@@ -50,7 +49,6 @@ TRADE_SKILLS_DATA["levels"]["Enchanting"] =
                 ["Spanish"] = "Encantamiento (Oficial)",
                 ["Taiwanese"] = "附魔 (熟練工)",
             },
-            ["phase"] = 1,
             ["rank"] = 2,
             ["trainers"] = {
                 ["price"] = 500,
@@ -82,7 +80,6 @@ TRADE_SKILLS_DATA["levels"]["Enchanting"] =
                 ["Spanish"] = "Encantamiento (Experto)",
                 ["Taiwanese"] = "附魔 (專家)",
             },
-            ["phase"] = 1,
             ["rank"] = 3,
             ["trainers"] = {
                 ["price"] = 5000,
@@ -109,7 +106,6 @@ TRADE_SKILLS_DATA["levels"]["Enchanting"] =
                 ["Spanish"] = "Encantamiento (Artesano)",
                 ["Taiwanese"] = "附魔 (大工匠)",
             },
-            ["phase"] = 1,
             ["rank"] = 4,
             ["trainers"] = {
                 ["price"] = 50000,

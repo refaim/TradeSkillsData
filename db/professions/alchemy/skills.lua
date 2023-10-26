@@ -15,7 +15,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Elixir de fuerza de león",
                 ["Taiwanese"] = "獅王之力藥劑",
             },
-            ["phase"] = 1,
             ["special_action"] = "auto learned",
         },
         {
@@ -33,7 +32,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción menor de curación",
                 ["Taiwanese"] = "初級治療藥水",
             },
-            ["phase"] = 1,
             ["special_action"] = "auto learned",
         },
         {
@@ -51,7 +49,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción menor de maná",
                 ["Taiwanese"] = "初級法力藥水",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 100,
                 ["sources"] = {
@@ -97,7 +94,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción menor de rejuvenecimiento",
                 ["Taiwanese"] = "初級活力藥水",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 150,
                 ["sources"] = {
@@ -146,7 +142,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Elixir de agilidad inferior",
                 ["Taiwanese"] = "次級敏捷藥劑",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2334,
@@ -163,7 +158,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Elixir de entereza menor",
                 ["Taiwanese"] = "初級堅韌藥劑",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 250,
                 ["sources"] = {
@@ -212,7 +206,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción de rapidez",
                 ["Taiwanese"] = "迅捷藥水",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2337,
@@ -229,7 +222,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción inferior de curación",
                 ["Taiwanese"] = "次級治療藥水",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1000,
                 ["sources"] = {
@@ -272,7 +264,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción débil de sangre de trol",
                 ["Taiwanese"] = "弱效食人妖之血藥水",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 50,
                 ["sources"] = {
@@ -318,7 +309,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Elixir de sabiduría",
                 ["Taiwanese"] = "智慧藥劑",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 500,
                 ["sources"] = {
@@ -357,7 +347,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción menor de resistencia a la magia",
                 ["Taiwanese"] = "初級抗魔藥水",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3173,
@@ -374,7 +363,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción inferior de maná",
                 ["Taiwanese"] = "次級法力藥水",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 150,
                 ["sources"] = {
@@ -413,7 +401,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Elixir de resistencia al veneno",
                 ["Taiwanese"] = "抗毒藥劑",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3175,
@@ -433,7 +420,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción limitada de invulnerabilidad",
                 ["Taiwanese"] = "有限無敵藥水",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3176,
@@ -450,7 +436,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción fuerte de sangre de trol",
                 ["Taiwanese"] = "強力食人妖之血藥水",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1500,
                 ["sources"] = {
@@ -486,7 +471,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Elixir de defensa",
                 ["Taiwanese"] = "防禦藥劑",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 2000,
                 ["sources"] = {
@@ -525,7 +509,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Elixir de fuerza de ogro",
                 ["Taiwanese"] = "巨魔力量藥劑",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3230,
@@ -545,7 +528,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Elixir de agilidad menor",
                 ["Taiwanese"] = "初級敏捷藥劑",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3447,
@@ -562,7 +544,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción de curación",
                 ["Taiwanese"] = "治療藥水",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 4000,
                 ["sources"] = {
@@ -598,7 +579,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción inferior de invisibilidad",
                 ["Taiwanese"] = "次級隱形藥水",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 4500,
                 ["sources"] = {
@@ -627,7 +607,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Aceite de las Sombras",
                 ["Taiwanese"] = "暗影之油",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3450,
@@ -647,7 +626,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Elixir de la entereza",
                 ["Taiwanese"] = "堅韌藥劑",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 5400,
                 ["sources"] = {
@@ -676,7 +654,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción de sangre de trol poderoso",
                 ["Taiwanese"] = "超強食人妖之血藥水",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3452,
@@ -693,7 +670,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción de maná",
                 ["Taiwanese"] = "法力藥水",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 4500,
                 ["sources"] = {
@@ -722,7 +698,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Elixir de detección de invisibilidad inferior",
                 ["Taiwanese"] = "偵測次級隱形藥劑",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3454,
@@ -742,7 +717,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Aceite de Escarcha",
                 ["Taiwanese"] = "冰霜之油",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 4508,
@@ -762,7 +736,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción descolorida de curación",
                 ["Taiwanese"] = "透明治療藥水",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 4942,
@@ -782,7 +755,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción inferior de petrescudo",
                 ["Taiwanese"] = "次級石盾藥水",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 6617,
@@ -802,7 +774,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción de cólera",
                 ["Taiwanese"] = "怒氣藥水",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 6618,
@@ -822,7 +793,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción de gran furia",
                 ["Taiwanese"] = "暴怒藥水",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 6624,
@@ -842,7 +812,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción de acción libre",
                 ["Taiwanese"] = "自由行動藥劑",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7179,
@@ -859,7 +828,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Elixir de respiración acuática",
                 ["Taiwanese"] = "水下呼吸藥劑",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 450,
                 ["sources"] = {
@@ -895,7 +863,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción superior de curación",
                 ["Taiwanese"] = "強效治療藥水",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 4500,
                 ["sources"] = {
@@ -921,7 +888,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Elixir de defensa menor",
                 ["Taiwanese"] = "初級防禦藥劑",
             },
-            ["phase"] = 1,
             ["special_action"] = "auto learned",
         },
         {
@@ -942,7 +908,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción de protección Sagrada",
                 ["Taiwanese"] = "神聖防護藥水",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7256,
@@ -962,7 +927,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción de protección de las Sombras",
                 ["Taiwanese"] = "暗影防護藥水",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7257,
@@ -982,7 +946,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción de Protección al Fuego",
                 ["Taiwanese"] = "火焰防護藥水",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7258,
@@ -1002,7 +965,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción de Protección a la Escarcha",
                 ["Taiwanese"] = "冰霜防護藥水",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7259,
@@ -1022,7 +984,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción de protección de la naturaleza",
                 ["Taiwanese"] = "自然防護藥水",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7836,
@@ -1039,7 +1000,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Aceite de bocanegra",
                 ["Taiwanese"] = "黑口魚油",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 250,
                 ["sources"] = {
@@ -1075,7 +1035,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Aceite de Fuego",
                 ["Taiwanese"] = "火焰之油",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1000,
                 ["sources"] = {
@@ -1111,7 +1070,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción de velocidad de nado",
                 ["Taiwanese"] = "速遊藥水",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1000,
                 ["sources"] = {
@@ -1147,7 +1105,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Elixir de poder de Fuego",
                 ["Taiwanese"] = "火力藥劑",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3000,
                 ["sources"] = {
@@ -1186,7 +1143,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Elixir de crecimiento gigante",
                 ["Taiwanese"] = "增長藥劑",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 11448,
@@ -1203,7 +1159,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción superior de maná",
                 ["Taiwanese"] = "強效法力藥水",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 8100,
                 ["sources"] = {
@@ -1229,7 +1184,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Elixir de agilidad",
                 ["Taiwanese"] = "敏捷藥劑",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 5850,
                 ["sources"] = {
@@ -1255,7 +1209,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Elixir de defensa superior",
                 ["Taiwanese"] = "強效防禦藥劑",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 6750,
                 ["sources"] = {
@@ -1281,7 +1234,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Aceite de inmolación",
                 ["Taiwanese"] = "獻祭之油",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 7200,
                 ["sources"] = {
@@ -1307,7 +1259,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción restauradora",
                 ["Taiwanese"] = "滋補藥水",
             },
-            ["phase"] = 1,
             ["quests"] = {
                 2203,
                 2501,
@@ -1331,7 +1282,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción de resistencia a la magia",
                 ["Taiwanese"] = "抗魔藥水",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 11456,
@@ -1351,7 +1301,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Gasolina de cohete goblin",
                 ["Taiwanese"] = "哥布林火箭燃油",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 11457,
@@ -1368,7 +1317,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción excelente de curación",
                 ["Taiwanese"] = "超強治療藥水",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 9000,
                 ["sources"] = {
@@ -1397,7 +1345,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción de atriplex salvaje",
                 ["Taiwanese"] = "野葡萄藥水",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 11459,
@@ -1417,7 +1364,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Piedra del filósofo",
                 ["Taiwanese"] = "點金石",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 11460,
@@ -1434,7 +1380,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Elixir de detección de no-muertos",
                 ["Taiwanese"] = "偵測不死生物藥劑",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 4500,
                 ["sources"] = {
@@ -1458,7 +1403,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Elixir Arcano",
                 ["Taiwanese"] = "祕法藥劑",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 9000,
                 ["sources"] = {
@@ -1485,7 +1429,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción de invisibilidad",
                 ["Taiwanese"] = "隱形藥水",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 11465,
@@ -1502,7 +1445,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Elixir de intelecto superior",
                 ["Taiwanese"] = "強效聰穎藥劑",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 10800,
                 ["sources"] = {
@@ -1529,7 +1471,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Regalo de Arthas",
                 ["Taiwanese"] = "阿薩斯的賜福",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 11467,
@@ -1546,7 +1487,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Elixir de agilidad superior",
                 ["Taiwanese"] = "強效敏捷藥劑",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 10800,
                 ["sources"] = {
@@ -1573,7 +1513,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Elixir de visión onírica",
                 ["Taiwanese"] = "夢境藥劑",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 11472,
@@ -1593,7 +1532,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Elixir de gigantes",
                 ["Taiwanese"] = "巨人藥劑",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 11473,
@@ -1613,7 +1551,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Tintura fantasmal",
                 ["Taiwanese"] = "幻象染料",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 11476,
@@ -1633,7 +1570,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Elixir de poder de las sombras",
                 ["Taiwanese"] = "暗影之力藥劑",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 11477,
@@ -1653,7 +1589,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Elixir de matanza de demonios",
                 ["Taiwanese"] = "屠魔藥劑",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 11478,
@@ -1670,7 +1605,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Elixir de detección de demonios",
                 ["Taiwanese"] = "偵測惡魔藥劑",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 12600,
                 ["sources"] = {
@@ -1697,7 +1631,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Transmutar: hierro a oro",
                 ["Taiwanese"] = "點鐵成金",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 11480,
@@ -1717,7 +1650,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Transmutar: mitril a veraplata",
                 ["Taiwanese"] = "轉化秘銀",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 12609,
@@ -1734,7 +1666,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Elixir Ojodegato",
                 ["Taiwanese"] = "貓眼藥劑",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 7200,
                 ["sources"] = {
@@ -1760,7 +1691,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción de letargo sin sueños",
                 ["Taiwanese"] = "昏睡藥水",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 9000,
                 ["sources"] = {
@@ -1787,7 +1717,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Transmutar: arcanita",
                 ["Taiwanese"] = "轉化：奧金",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 17551,
@@ -1804,7 +1733,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Aceite de escamas de piedra",
                 ["Taiwanese"] = "石鱗魚油",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 13500,
                 ["sources"] = {
@@ -1831,7 +1759,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción de furia poderosa",
                 ["Taiwanese"] = "強效怒氣藥水",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 17553,
@@ -1851,7 +1778,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción excelente de maná",
                 ["Taiwanese"] = "超強法力藥水",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 17554,
@@ -1871,7 +1797,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Elixir de defensa superior",
                 ["Taiwanese"] = "超強防禦藥劑",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 17555,
@@ -1891,7 +1816,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Elixir de los sabios",
                 ["Taiwanese"] = "先知藥劑",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 17556,
@@ -1911,7 +1835,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "poción sublime de curación",
                 ["Taiwanese"] = "極效治療藥水",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 17557,
@@ -1931,7 +1854,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Elixir de fuerza bruta",
                 ["Taiwanese"] = "蠻力藥劑",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 17559,
@@ -1951,7 +1873,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Transmutar: aire en fuego",
                 ["Taiwanese"] = "轉化：點氣成火",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 17560,
@@ -1971,7 +1892,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Transmutar: fuego a tierra",
                 ["Taiwanese"] = "轉化：點火成土",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 17561,
@@ -1991,7 +1911,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Transmutar: tierra a agua",
                 ["Taiwanese"] = "轉化：轉土成水",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 17562,
@@ -2011,7 +1930,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Transmutar: agua a aire",
                 ["Taiwanese"] = "轉化：點水成氣",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 17563,
@@ -2031,7 +1949,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Transmutar: no-muerte a agua",
                 ["Taiwanese"] = "轉化：死靈化水",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 17564,
@@ -2051,7 +1968,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Transmutar: agua a no-muerte",
                 ["Taiwanese"] = "轉化：水轉死靈",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 17565,
@@ -2071,7 +1987,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Transmutar: vida a tierra",
                 ["Taiwanese"] = "轉化：生命歸土",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 17566,
@@ -2091,7 +2006,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Transmutar: tierra a vida",
                 ["Taiwanese"] = "轉化：土轉生命",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 17570,
@@ -2111,7 +2025,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción petrescudo superior",
                 ["Taiwanese"] = "強效石盾藥水",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 17571,
@@ -2131,7 +2044,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Elixir de la mangosta",
                 ["Taiwanese"] = "貓鼬藥劑",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 17572,
@@ -2151,7 +2063,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción de purificación",
                 ["Taiwanese"] = "淨化藥水",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 17573,
@@ -2171,7 +2082,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Elixir superior Arcano",
                 ["Taiwanese"] = "強效祕法藥劑",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 17574,
@@ -2191,7 +2101,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción superior de protección de Fuego",
                 ["Taiwanese"] = "強效火焰防護藥水",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 17575,
@@ -2211,7 +2120,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción superior de protección a la Escarcha",
                 ["Taiwanese"] = "強效冰霜防護藥水",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 17576,
@@ -2231,7 +2139,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción superior de protección a la Naturaleza",
                 ["Taiwanese"] = "強效自然防護藥水",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 17577,
@@ -2251,7 +2158,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción superior de protección Arcana",
                 ["Taiwanese"] = "強效祕法防護藥水",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 17578,
@@ -2271,7 +2177,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción superior de protección a las Sombras",
                 ["Taiwanese"] = "強效暗影防護藥水",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 17580,
@@ -2291,7 +2196,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "poción sublime de maná",
                 ["Taiwanese"] = "極效法力藥水",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 17634,
@@ -2311,7 +2215,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Frasco de petrificación",
                 ["Taiwanese"] = "石化精煉藥水",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 17635,
@@ -2331,7 +2234,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Frasco de los titanes",
                 ["Taiwanese"] = "泰坦精煉藥水",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 17636,
@@ -2351,7 +2253,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Frasco de sabiduría destilada",
                 ["Taiwanese"] = "智慧精煉藥水",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 17637,
@@ -2371,7 +2272,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Frasco de poder supremo",
                 ["Taiwanese"] = "超級能量精煉藥水",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 17638,
@@ -2391,7 +2291,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Frasco de resistencia cromática",
                 ["Taiwanese"] = "多重抗性精煉藥水",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 21923,
@@ -2411,7 +2310,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Elixir de poder de Escarcha",
                 ["Taiwanese"] = "冰霜之力藥劑",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 22732,
@@ -2431,7 +2329,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción sublime de rejuvenecimiento",
                 ["Taiwanese"] = "極效活力藥水",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 22808,
@@ -2448,7 +2345,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Elixir de respiración acuática superior",
                 ["Taiwanese"] = "強效水下呼吸藥劑",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 9000,
                 ["sources"] = {
@@ -2477,7 +2373,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
             ["objects"] = {
                 180368,
             },
-            ["phase"] = 4,
             ["special_action"] = "inspect tablet madness",
         },
         {
@@ -2498,7 +2393,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción de sangre de mago",
                 ["Taiwanese"] = "魔血藥水",
             },
-            ["phase"] = 4,
         },
         {
             ["id"] = 24366,
@@ -2518,7 +2412,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción superior de letargo sin sueños",
                 ["Taiwanese"] = "強效昏睡藥水",
             },
-            ["phase"] = 4,
         },
         {
             ["id"] = 24367,
@@ -2538,7 +2431,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción de acción viviente",
                 ["Taiwanese"] = "活力行動藥水",
             },
-            ["phase"] = 4,
         },
         {
             ["id"] = 24368,
@@ -2558,7 +2450,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Poción sublime de sangre de trol",
                 ["Taiwanese"] = "極效食人妖之血藥水",
             },
-            ["phase"] = 4,
         },
         {
             ["id"] = 25146,
@@ -2578,7 +2469,6 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Transmutar: fuego elemental",
                 ["Taiwanese"] = "轉化：元素火焰",
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 26277,
@@ -2598,6 +2488,5 @@ TRADE_SKILLS_DATA["skills"]["Alchemy"] =
                 ["Spanish"] = "Elixir de poder de Fuego superior",
                 ["Taiwanese"] = "強效火力藥劑",
             },
-            ["phase"] = 5,
         },
     }

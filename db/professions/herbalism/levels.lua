@@ -17,7 +17,6 @@ TRADE_SKILLS_DATA["levels"]["Herbalism"] =
                 ["Spanish"] = "Botánica (Aprendiz)",
                 ["Taiwanese"] = "草藥學 (學徒)",
             },
-            ["phase"] = 1,
             ["rank"] = 1,
             ["trainers"] = {
                 ["price"] = 10,
@@ -63,7 +62,6 @@ TRADE_SKILLS_DATA["levels"]["Herbalism"] =
                 ["Spanish"] = "Botánica (Oficial)",
                 ["Taiwanese"] = "草藥學 (熟練工)",
             },
-            ["phase"] = 1,
             ["rank"] = 2,
             ["trainers"] = {
                 ["price"] = 500,
@@ -109,7 +107,6 @@ TRADE_SKILLS_DATA["levels"]["Herbalism"] =
                 ["Spanish"] = "Botánica (Experto)",
                 ["Taiwanese"] = "草藥學 (專家)",
             },
-            ["phase"] = 1,
             ["rank"] = 3,
             ["trainers"] = {
                 ["price"] = 5000,
@@ -155,7 +152,6 @@ TRADE_SKILLS_DATA["levels"]["Herbalism"] =
                 ["Spanish"] = "Botánica (Artesano)",
                 ["Taiwanese"] = "草藥學 (大工匠)",
             },
-            ["phase"] = 1,
             ["rank"] = 4,
             ["trainers"] = {
                 ["price"] = 50000,

@@ -18,7 +18,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 235,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 38,
@@ -38,7 +37,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 235,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 90,
@@ -58,7 +56,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 272,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 92,
@@ -78,7 +75,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 343,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 93,
@@ -98,7 +94,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 272,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 127,
@@ -118,7 +113,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 381,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 296,
@@ -138,7 +132,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 1078,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 384,
@@ -158,7 +151,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 1267,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 385,
@@ -178,7 +170,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 1154,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 418,
@@ -198,7 +189,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 1963,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 429,
@@ -218,7 +208,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 1950,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 471,
@@ -238,7 +227,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 2094,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 498,
@@ -258,7 +246,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 2229,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 501,
@@ -278,7 +265,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 2216,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 555,
@@ -298,7 +284,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 2430,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 564,
@@ -318,7 +303,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 2382,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 703,
@@ -338,7 +322,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 2817,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 715,
@@ -358,7 +341,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 2920,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 769,
@@ -378,7 +360,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 3050,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 862,
@@ -398,7 +379,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 3443,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 1487,
@@ -418,7 +398,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 5768,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 1559,
@@ -438,7 +417,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 2817,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 1582,
@@ -458,7 +436,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 6034,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 1618,
@@ -478,7 +455,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 6031,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2178,
@@ -498,7 +474,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 3702,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2203,
@@ -518,7 +493,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 6868,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2359,
@@ -538,7 +512,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 7024,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2360,
@@ -558,7 +531,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 332,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2478,
@@ -578,7 +550,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 7233,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2480,
@@ -598,7 +569,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 2391,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2501,
@@ -618,7 +588,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 1470,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2751,
@@ -638,7 +607,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 7790,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2752,
@@ -658,7 +626,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 7790,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2753,
@@ -678,7 +645,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 7790,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2754,
@@ -698,7 +664,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 7790,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2755,
@@ -718,7 +683,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 7790,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2756,
@@ -738,7 +702,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 7792,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2758,
@@ -758,7 +721,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 7798,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2761,
@@ -778,7 +740,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 7802,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2762,
@@ -798,7 +759,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 7802,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2763,
@@ -818,7 +778,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 7802,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2771,
@@ -838,7 +797,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 7804,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2772,
@@ -858,7 +816,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 7804,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2773,
@@ -878,7 +835,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 7804,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2848,
@@ -898,7 +854,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 7852,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2849,
@@ -918,7 +873,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 7852,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2850,
@@ -938,7 +892,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 7852,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2851,
@@ -958,7 +911,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 7852,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2852,
@@ -978,7 +930,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 7852,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2853,
@@ -998,7 +949,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 7852,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2855,
@@ -1018,7 +968,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 7854,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2856,
@@ -1038,7 +987,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 7854,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2857,
@@ -1058,7 +1006,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 7854,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2858,
@@ -1078,7 +1025,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 7854,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2859,
@@ -1098,7 +1044,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 7854,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2860,
@@ -1118,7 +1063,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 7854,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3402,
@@ -1138,7 +1082,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 8439,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3629,
@@ -1162,7 +1105,6 @@ TRADE_SKILLS_DATA["quests"] =
                 5174,
                 5518,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3630,
@@ -1185,7 +1127,6 @@ TRADE_SKILLS_DATA["quests"] =
                 5174,
                 5518,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3644,
@@ -1206,7 +1147,6 @@ TRADE_SKILLS_DATA["quests"] =
                 8126,
                 8738,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3645,
@@ -1227,7 +1167,6 @@ TRADE_SKILLS_DATA["quests"] =
                 7406,
                 7944,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 4083,
@@ -1247,7 +1186,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["objects"] = {
                 164869,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 4161,
@@ -1267,7 +1205,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 6286,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 5124,
@@ -1287,7 +1224,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 10637,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 5127,
@@ -1307,7 +1243,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 10918,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 5141,
@@ -1328,7 +1263,6 @@ TRADE_SKILLS_DATA["quests"] =
                 7866,
                 7867,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 5143,
@@ -1349,7 +1283,6 @@ TRADE_SKILLS_DATA["quests"] =
                 7870,
                 7871,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 5144,
@@ -1370,7 +1303,6 @@ TRADE_SKILLS_DATA["quests"] =
                 7868,
                 7869,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 5150,
@@ -1390,7 +1322,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 9274,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 5283,
@@ -1411,7 +1342,6 @@ TRADE_SKILLS_DATA["quests"] =
                 5164,
                 11177,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 5284,
@@ -1432,7 +1362,6 @@ TRADE_SKILLS_DATA["quests"] =
                 11146,
                 11178,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 5305,
@@ -1452,7 +1381,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 11191,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 5306,
@@ -1472,7 +1400,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 11192,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 5307,
@@ -1492,7 +1419,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 11193,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 5518,
@@ -1512,7 +1438,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 14338,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 5519,
@@ -1532,7 +1457,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 14338,
             },
-            ["phase"] = 2,
         },
         {
             ["id"] = 6032,
@@ -1552,7 +1476,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 11557,
             },
-            ["phase"] = 1,
             ["reputation"] = {
                 ["faction_id"] = 576,
                 ["level_id"] = 5,
@@ -1576,7 +1499,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 12919,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 6610,
@@ -1596,7 +1518,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 8125,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 6622,
@@ -1616,7 +1537,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 12920,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 6624,
@@ -1636,7 +1556,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 12939,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7321,
@@ -1656,7 +1575,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 2393,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7493,
@@ -1676,7 +1594,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 14392,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7497,
@@ -1696,7 +1613,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 14394,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7604,
@@ -1716,7 +1632,6 @@ TRADE_SKILLS_DATA["quests"] =
                 ["Spanish"] = "Un contrato vinculante",
                 ["Taiwanese"] = "瑟银兄弟会契约",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7649,
@@ -1736,7 +1651,6 @@ TRADE_SKILLS_DATA["quests"] =
                 ["Spanish"] = "Las mallas de placas en torio encantado: volumen I",
                 ["Taiwanese"] = "魔化瑟银板甲：第一卷",
             },
-            ["phase"] = 2,
         },
         {
             ["id"] = 7650,
@@ -1756,7 +1670,6 @@ TRADE_SKILLS_DATA["quests"] =
                 ["Spanish"] = "Las mallas de placas en torio encantado: volumen II",
                 ["Taiwanese"] = "魔化瑟银板甲：第二卷",
             },
-            ["phase"] = 2,
         },
         {
             ["id"] = 7651,
@@ -1776,7 +1689,6 @@ TRADE_SKILLS_DATA["quests"] =
                 ["Spanish"] = "Las mallas de placas en torio encantado: volumen III",
                 ["Taiwanese"] = "魔化瑟银板甲：第三卷]",
             },
-            ["phase"] = 2,
         },
         {
             ["id"] = 7653,
@@ -1796,7 +1708,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 14567,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7654,
@@ -1816,7 +1727,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 14567,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7655,
@@ -1836,7 +1746,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 14567,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7656,
@@ -1856,7 +1765,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 14567,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7657,
@@ -1876,7 +1784,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 14567,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7658,
@@ -1896,7 +1803,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 14567,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7659,
@@ -1916,7 +1822,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 14567,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 8313,
@@ -1936,7 +1841,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["objects"] = {
                 180503,
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 8323,
@@ -1956,7 +1860,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 15194,
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 8586,
@@ -1976,7 +1879,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 8125,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 8769,
@@ -1993,7 +1895,6 @@ TRADE_SKILLS_DATA["quests"] =
                 ["Spanish"] = "Un presente que hace tic tac",
                 ["Taiwanese"] = "滴答作響的禮物",
             },
-            ["phase"] = 1,
             ["special_action"] = "present Christmas tree",
         },
         {
@@ -2014,7 +1915,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 10305,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 8876,
@@ -2034,7 +1934,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 15909,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 8877,
@@ -2054,7 +1953,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 15909,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 8878,
@@ -2074,7 +1972,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 15909,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 8879,
@@ -2094,7 +1991,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 15909,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 8880,
@@ -2114,7 +2010,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 15909,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 8881,
@@ -2134,7 +2029,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 15909,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 8882,
@@ -2154,7 +2048,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 15909,
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 9233,
@@ -2175,7 +2068,6 @@ TRADE_SKILLS_DATA["quests"] =
             ["npcs"] = {
                 16365,
             },
-            ["phase"] = 6,
             ["reputation"] = {
                 ["faction_id"] = 529,
                 ["level_id"] = 7,
@@ -2200,6 +2092,5 @@ TRADE_SKILLS_DATA["quests"] =
                 14828,
                 14829,
             },
-            ["phase"] = 6,
         },
     }

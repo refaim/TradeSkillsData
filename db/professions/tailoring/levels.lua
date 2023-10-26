@@ -17,7 +17,6 @@ TRADE_SKILLS_DATA["levels"]["Tailoring"] =
                 ["Spanish"] = "Sastrería (Aprendiz)",
                 ["Taiwanese"] = "裁縫 (學徒)",
             },
-            ["phase"] = 1,
             ["rank"] = 1,
             ["trainers"] = {
                 ["price"] = 10,
@@ -52,7 +51,6 @@ TRADE_SKILLS_DATA["levels"]["Tailoring"] =
                 ["Spanish"] = "Sastrería (Oficial)",
                 ["Taiwanese"] = "裁縫 (熟練工)",
             },
-            ["phase"] = 1,
             ["rank"] = 2,
             ["trainers"] = {
                 ["price"] = 500,
@@ -85,7 +83,6 @@ TRADE_SKILLS_DATA["levels"]["Tailoring"] =
                 ["Spanish"] = "Sastrería (Experto)",
                 ["Taiwanese"] = "裁縫 (專家)",
             },
-            ["phase"] = 1,
             ["rank"] = 3,
             ["trainers"] = {
                 ["price"] = 5000,
@@ -112,7 +109,6 @@ TRADE_SKILLS_DATA["levels"]["Tailoring"] =
                 ["Spanish"] = "Sastrería (Artesano)",
                 ["Taiwanese"] = "裁縫 (大工匠)",
             },
-            ["phase"] = 1,
             ["rank"] = 4,
             ["trainers"] = {
                 ["price"] = 50000,

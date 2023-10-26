@@ -15,7 +15,6 @@ TRADE_SKILLS_DATA["specialisations"]["Engineering"] =
                 ["Spanish"] = "Ingeniero gnomo",
                 ["Taiwanese"] = "地精工程學",
             },
-            ["phase"] = 1,
             ["quests"] = {
                 3630,
             },
@@ -35,7 +34,6 @@ TRADE_SKILLS_DATA["specialisations"]["Engineering"] =
                 ["Spanish"] = "Ingeniero goblin",
                 ["Taiwanese"] = "哥布林工程師",
             },
-            ["phase"] = 1,
             ["quests"] = {
                 3629,
             },

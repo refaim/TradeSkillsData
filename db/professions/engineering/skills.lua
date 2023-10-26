@@ -15,7 +15,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Polvo aplastante duro",
                 ["Taiwanese"] = "劣質火藥",
             },
-            ["phase"] = 1,
             ["special_action"] = "auto learned",
         },
         {
@@ -33,7 +32,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Dinamita dura",
                 ["Taiwanese"] = "粗製炸藥",
             },
-            ["phase"] = 1,
             ["special_action"] = "auto learned",
         },
         {
@@ -51,7 +49,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Disparo ligero artesanal",
                 ["Taiwanese"] = "精製輕彈丸",
             },
-            ["phase"] = 1,
             ["special_action"] = "auto learned",
         },
         {
@@ -69,7 +66,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Manojo de cuentas de cobre",
                 ["Taiwanese"] = "一把螺栓",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 115,
                 ["sources"] = {
@@ -109,7 +105,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Bomba dura de cobre",
                 ["Taiwanese"] = "劣質銅殼炸彈",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 130,
                 ["sources"] = {
@@ -149,7 +144,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Tubo de cobre",
                 ["Taiwanese"] = "銅管",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 150,
                 ["sources"] = {
@@ -189,7 +183,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Escoba dura",
                 ["Taiwanese"] = "劣質火槍",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 150,
                 ["sources"] = {
@@ -229,7 +222,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Modulador de cobre",
                 ["Taiwanese"] = "銅質調節器",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 225,
                 ["sources"] = {
@@ -272,7 +264,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Ardilla mecánica",
                 ["Taiwanese"] = "機械松鼠",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3929,
@@ -289,7 +280,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Pólvora gruesa",
                 ["Taiwanese"] = "粗製火藥粉",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 250,
                 ["sources"] = {
@@ -329,7 +319,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Disparo pesado artesanal",
                 ["Taiwanese"] = "精製重彈丸",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 250,
                 ["sources"] = {
@@ -369,7 +358,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Dinamita gruesa",
                 ["Taiwanese"] = "劣質炸藥",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 250,
                 ["sources"] = {
@@ -409,7 +397,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Muñeco-diana",
                 ["Taiwanese"] = "活動假人",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 300,
                 ["sources"] = {
@@ -442,7 +429,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Carga pequeña de seforio",
                 ["Taiwanese"] = "小型爆鹽炸彈",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3934,
@@ -459,7 +445,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Gafas de tigre volador",
                 ["Taiwanese"] = "飛虎護目鏡",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 400,
                 ["sources"] = {
@@ -489,7 +474,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Trabuco mortal",
                 ["Taiwanese"] = "致命的短槍",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 420,
                 ["sources"] = {
@@ -519,7 +503,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Bomba grande de cobre",
                 ["Taiwanese"] = "大型銅殼炸彈",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 450,
                 ["sources"] = {
@@ -549,7 +532,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Tubo de bronce",
                 ["Taiwanese"] = "青銅管",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 450,
                 ["sources"] = {
@@ -582,7 +564,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Trabuco hecho con amor",
                 ["Taiwanese"] = "精緻手工火槍",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3940,
@@ -602,7 +583,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Gafas de las Sombras",
                 ["Taiwanese"] = "暗影護目鏡",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3941,
@@ -619,7 +599,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Bomba pequeña de bronce",
                 ["Taiwanese"] = "小型青銅炸彈",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 500,
                 ["sources"] = {
@@ -649,7 +628,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Cacharro zumbón de bronce",
                 ["Taiwanese"] = "高速青銅齒輪",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 500,
                 ["sources"] = {
@@ -682,7 +660,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Deflector de llamas",
                 ["Taiwanese"] = "火焰偏斜器",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3945,
@@ -699,7 +676,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Pólvora pesada",
                 ["Taiwanese"] = "烈性火藥",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 500,
                 ["sources"] = {
@@ -729,7 +705,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Dinamita pesada",
                 ["Taiwanese"] = "烈性炸藥",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 500,
                 ["sources"] = {
@@ -759,7 +734,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Disparo sólido artesanal",
                 ["Taiwanese"] = "精製實心彈丸",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 300,
                 ["sources"] = {
@@ -789,7 +763,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Escopeta de chapa de plata",
                 ["Taiwanese"] = "鍍銀獵槍",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 550,
                 ["sources"] = {
@@ -819,7 +792,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Bomba grande de bronce",
                 ["Taiwanese"] = "重磅青銅炸彈",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 600,
                 ["sources"] = {
@@ -852,7 +824,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Recombobulador menor",
                 ["Taiwanese"] = "自動淨化裝置",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3953,
@@ -869,7 +840,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Armazón de bronce",
                 ["Taiwanese"] = "青銅框架",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 600,
                 ["sources"] = {
@@ -902,7 +872,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Rifle vistaluna",
                 ["Taiwanese"] = "夜視步槍",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3955,
@@ -919,7 +888,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Oveja explosiva",
                 ["Taiwanese"] = "自爆綿羊",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 750,
                 ["sources"] = {
@@ -949,7 +917,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Gafas tintadas en verde",
                 ["Taiwanese"] = "綠色護目鏡",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 750,
                 ["sources"] = {
@@ -982,7 +949,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Deflector de hielo",
                 ["Taiwanese"] = "寒冰偏斜器",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3958,
@@ -999,7 +965,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Puntal de hierro",
                 ["Taiwanese"] = "鐵棒",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 800,
                 ["sources"] = {
@@ -1027,7 +992,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Rayo discombobulador",
                 ["Taiwanese"] = "退化射線",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3960,
@@ -1047,7 +1011,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Mortero de bronce portátil",
                 ["Taiwanese"] = "可攜式青銅迫擊炮",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3961,
@@ -1064,7 +1027,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Girocronátomo",
                 ["Taiwanese"] = "發條式同步協調陀螺儀",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 900,
                 ["sources"] = {
@@ -1089,7 +1051,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Granada de hierro",
                 ["Taiwanese"] = "鐵皮手雷",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1000,
                 ["sources"] = {
@@ -1114,7 +1075,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Equipo de segador de la cosecha compacto",
                 ["Taiwanese"] = "聯合收割機組件",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1000,
                 ["sources"] = {
@@ -1139,7 +1099,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Muñeco-diana avanzado",
                 ["Taiwanese"] = "高級假人",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1200,
                 ["sources"] = {
@@ -1167,7 +1126,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Monóculo del artesano",
                 ["Taiwanese"] = "工匠眼鏡",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3967,
@@ -1184,7 +1142,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Bomba grande de hierro",
                 ["Taiwanese"] = "重磅鐵製炸彈",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1400,
                 ["sources"] = {
@@ -1212,7 +1169,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Mina terrestre goblin",
                 ["Taiwanese"] = "哥布林暗雷",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3969,
@@ -1232,7 +1188,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Dragonizo mecánico",
                 ["Taiwanese"] = "機械幼龍",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3971,
@@ -1252,7 +1207,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Dispositivo de invisibilidad gnomo",
                 ["Taiwanese"] = "地精隱形裝置",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3972,
@@ -1272,7 +1226,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Carga de gran marforio",
                 ["Taiwanese"] = "大型爆鹽炸彈",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3973,
@@ -1289,7 +1242,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Contacto de plata",
                 ["Taiwanese"] = "銀觸媒",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 300,
                 ["sources"] = {
@@ -1319,7 +1271,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Mira rudimentaria",
                 ["Taiwanese"] = "粗製瞄準鏡",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 200,
                 ["sources"] = {
@@ -1358,7 +1309,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Mirilla estándar",
                 ["Taiwanese"] = "普通瞄準鏡",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 475,
                 ["sources"] = {
@@ -1391,7 +1341,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Mira de precisión",
                 ["Taiwanese"] = "精確瞄準鏡",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 6458,
@@ -1408,7 +1357,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Catalejo ornamentado",
                 ["Taiwanese"] = "精製望遠鏡",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 400,
                 ["sources"] = {
@@ -1438,7 +1386,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Llave arqueluz",
                 ["Taiwanese"] = "扳手",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 150,
                 ["sources"] = {
@@ -1480,7 +1427,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Bomba cegadora",
                 ["Taiwanese"] = "閃光雷",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 8334,
@@ -1497,7 +1443,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Practicar abrir cerradura",
                 ["Taiwanese"] = "練習鎖",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 300,
                 ["sources"] = {
@@ -1530,7 +1475,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Dinamita Ez-Thro",
                 ["Taiwanese"] = "簡易投擲炸彈",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 8895,
@@ -1550,7 +1494,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Botas cohete goblin",
                 ["Taiwanese"] = "結構圖：哥布林火箭靴",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 9269,
@@ -1570,7 +1513,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Control universal gnomo",
                 ["Taiwanese"] = "地精通用遙控器",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 9271,
@@ -1587,7 +1529,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Atraepeces acuadinámico",
                 ["Taiwanese"] = "水下誘魚器",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 500,
                 ["sources"] = {
@@ -1620,7 +1561,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Cables resucitadores goblin",
                 ["Taiwanese"] = "哥布林起搏器",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 12584,
@@ -1637,7 +1577,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Nucleo de poder de oro",
                 ["Taiwanese"] = "黃金能量核心",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1000,
                 ["sources"] = {
@@ -1667,7 +1606,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Polvos explosivos puros",
                 ["Taiwanese"] = "實心炸藥",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1000,
                 ["sources"] = {
@@ -1692,7 +1630,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Dinamita pura",
                 ["Taiwanese"] = "實心炸彈",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1000,
                 ["sources"] = {
@@ -1720,7 +1657,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Gafas Brillojo",
                 ["Taiwanese"] = "增亮護目鏡",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 12589,
@@ -1737,7 +1673,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Tubo de mitril",
                 ["Taiwanese"] = "秘銀管",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1300,
                 ["sources"] = {
@@ -1762,7 +1697,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Microajustador giromático",
                 ["Taiwanese"] = "地精微調器",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1000,
                 ["sources"] = {
@@ -1787,7 +1721,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Activador inestable",
                 ["Taiwanese"] = "不牢固的扳機",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1500,
                 ["sources"] = {
@@ -1812,7 +1745,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Gafas de Fuego",
                 ["Taiwanese"] = "火焰護目鏡",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1600,
                 ["sources"] = {
@@ -1837,7 +1769,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Trabuco de mitril",
                 ["Taiwanese"] = "秘銀火槍",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1600,
                 ["sources"] = {
@@ -1862,7 +1793,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Perdigón de mitril de alto impacto",
                 ["Taiwanese"] = "高速秘銀彈頭",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1700,
                 ["sources"] = {
@@ -1890,7 +1820,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Mira mortal",
                 ["Taiwanese"] = "致命瞄準鏡",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 12599,
@@ -1907,7 +1836,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Envoltura de mitril",
                 ["Taiwanese"] = "秘銀外殼",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1800,
                 ["sources"] = {
@@ -1932,7 +1860,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Bomba de fragmentación de mitril",
                 ["Taiwanese"] = "秘銀破片炸彈",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1800,
                 ["sources"] = {
@@ -1960,7 +1887,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Ultragafas Ojodegato",
                 ["Taiwanese"] = "貓眼超級護目鏡",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 12614,
@@ -1980,7 +1906,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Rifle pesado de mitril",
                 ["Taiwanese"] = "大口徑秘銀步槍",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 12615,
@@ -2000,7 +1925,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Gafas hechizorosas extremas",
                 ["Taiwanese"] = "法術能量護目鏡超級版",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 12616,
@@ -2020,7 +1944,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Capa paracaídas",
                 ["Taiwanese"] = "降落傘披風",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 12617,
@@ -2040,7 +1963,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Casco Lanceprofundo",
                 ["Taiwanese"] = "潛水頭盔",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 12618,
@@ -2057,7 +1979,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Gafas rosas de colores",
                 ["Taiwanese"] = "玫瑰色護目鏡",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 2200,
                 ["sources"] = {
@@ -2080,7 +2001,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Bomba altamente explosiva",
                 ["Taiwanese"] = "高爆炸彈",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 2400,
                 ["sources"] = {
@@ -2106,7 +2026,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Mira de francotirador",
                 ["Taiwanese"] = "狙擊瞄準鏡",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 12621,
@@ -2123,7 +2042,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Girotiro de mitril",
                 ["Taiwanese"] = "秘銀螺旋彈",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 2800,
                 ["sources"] = {
@@ -2146,7 +2064,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Lentes verdes",
                 ["Taiwanese"] = "綠色透鏡",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 2800,
                 ["sources"] = {
@@ -2172,7 +2089,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Dragonizo mecánico de mitril",
                 ["Taiwanese"] = "秘銀機械幼龍",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 12715,
@@ -2189,7 +2105,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Receta de gasolina de cohete goblin",
                 ["Taiwanese"] = "哥布林火箭燃油配方",
             },
-            ["phase"] = 1,
             ["specialisation"] = 20222,
             ["trainers"] = {
                 ["price"] = 1000,
@@ -2214,7 +2129,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Mortero goblin",
                 ["Taiwanese"] = "哥布林迫擊炮",
             },
-            ["phase"] = 1,
             ["specialisation"] = 20222,
             ["trainers"] = {
                 ["price"] = 0,
@@ -2238,7 +2152,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Casco de minero goblin",
                 ["Taiwanese"] = "哥布林採礦頭盔",
             },
-            ["phase"] = 1,
             ["specialisation"] = 20222,
             ["trainers"] = {
                 ["price"] = 1500,
@@ -2263,7 +2176,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Casco goblin de construcción",
                 ["Taiwanese"] = "哥布林施工頭盔",
             },
-            ["phase"] = 1,
             ["specialisation"] = 20222,
             ["trainers"] = {
                 ["price"] = 1500,
@@ -2288,7 +2200,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "El grande",
                 ["Taiwanese"] = "大炸彈",
             },
-            ["phase"] = 1,
             ["specialisation"] = 20222,
             ["trainers"] = {
                 ["price"] = 2600,
@@ -2313,7 +2224,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Dispensador de bombas goblin",
                 ["Taiwanese"] = "哥布林炸彈箱",
             },
-            ["phase"] = 1,
             ["specialisation"] = 20222,
             ["trainers"] = {
                 ["price"] = 2400,
@@ -2338,7 +2248,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Casco cohete goblin",
                 ["Taiwanese"] = "哥布林火箭頭盔",
             },
-            ["phase"] = 1,
             ["specialisation"] = 20222,
             ["trainers"] = {
                 ["price"] = 3000,
@@ -2363,7 +2272,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Rayo mortal gnomo",
                 ["Taiwanese"] = "地精死亡射線",
             },
-            ["phase"] = 1,
             ["specialisation"] = 20219,
             ["trainers"] = {
                 ["price"] = 2800,
@@ -2388,7 +2296,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Carga zapadora goblin",
                 ["Taiwanese"] = "哥布林工兵炸藥",
             },
-            ["phase"] = 1,
             ["specialisation"] = 20222,
             ["trainers"] = {
                 ["price"] = 1500,
@@ -2413,7 +2320,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Planos de cilindro incrustado de mitril",
                 ["Taiwanese"] = "秘銀杆設計圖",
             },
-            ["phase"] = 1,
             ["specialisation"] = 20219,
             ["trainers"] = {
                 ["price"] = 1500,
@@ -2438,7 +2344,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Gafas gnomas",
                 ["Taiwanese"] = "地精護目鏡",
             },
-            ["phase"] = 1,
             ["specialisation"] = 20219,
             ["trainers"] = {
                 ["price"] = 1500,
@@ -2463,7 +2368,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Rayo encogedor gnomo",
                 ["Taiwanese"] = "地精縮小射線",
             },
-            ["phase"] = 1,
             ["specialisation"] = 20219,
             ["trainers"] = {
                 ["price"] = 1500,
@@ -2488,7 +2392,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Proyector redomático gnomo",
                 ["Taiwanese"] = "地精撒網器",
             },
-            ["phase"] = 1,
             ["specialisation"] = 20219,
             ["trainers"] = {
                 ["price"] = 1800,
@@ -2513,7 +2416,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Cinturón gnomo de prevención de daños",
                 ["Taiwanese"] = "地精防護腰帶",
             },
-            ["phase"] = 1,
             ["specialisation"] = 20219,
             ["trainers"] = {
                 ["price"] = 2000,
@@ -2538,7 +2440,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Botas cohete gnomas",
                 ["Taiwanese"] = "地精火箭靴",
             },
-            ["phase"] = 1,
             ["specialisation"] = 20219,
             ["trainers"] = {
                 ["price"] = 2200,
@@ -2563,7 +2464,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Pollo de batalla gnomo",
                 ["Taiwanese"] = "地精作戰小雞",
             },
-            ["phase"] = 1,
             ["specialisation"] = 20219,
             ["trainers"] = {
                 ["price"] = 2400,
@@ -2588,7 +2488,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Gorra de control mental gnoma",
                 ["Taiwanese"] = "地精洗腦帽",
             },
-            ["phase"] = 1,
             ["specialisation"] = 20219,
             ["trainers"] = {
                 ["price"] = 2600,
@@ -2613,7 +2512,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Escopeta dragón goblin",
                 ["Taiwanese"] = "哥布林龍槍",
             },
-            ["phase"] = 1,
             ["specialisation"] = 20222,
             ["trainers"] = {
                 ["price"] = 2800,
@@ -2638,7 +2536,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "El mortero: recargado",
                 ["Taiwanese"] = "迫擊炮：重載",
             },
-            ["phase"] = 1,
             ["specialisation"] = 20222,
             ["trainers"] = {
                 ["price"] = 1500,
@@ -2663,7 +2560,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Juego de reparación mecánico",
                 ["Taiwanese"] = "機械修理包",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1500,
                 ["sources"] = {
@@ -2691,7 +2587,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Bombardeo de mascota",
                 ["Taiwanese"] = "炸彈寵物",
             },
-            ["phase"] = 1,
             ["specialisation"] = 20222,
         },
         {
@@ -2712,7 +2607,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "El peque humitos",
                 ["Taiwanese"] = "發條娃娃",
             },
-            ["phase"] = 1,
             ["specialisation"] = 20219,
         },
         {
@@ -2730,7 +2624,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Salero",
                 ["Taiwanese"] = "篩鹽器",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 4000,
                 ["sources"] = {
@@ -2753,7 +2646,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Pólvora densa",
                 ["Taiwanese"] = "緻密炸藥粉",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 4000,
                 ["sources"] = {
@@ -2779,7 +2671,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Grabada de torio",
                 ["Taiwanese"] = "瑟銀手榴彈",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 19791,
@@ -2799,7 +2690,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Trasto de torio",
                 ["Taiwanese"] = "瑟銀零件",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 19792,
@@ -2819,7 +2709,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Rifle de torio",
                 ["Taiwanese"] = "瑟銀火槍",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 19793,
@@ -2839,7 +2728,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Sapo mecánico semivivo",
                 ["Taiwanese"] = "仿真機械蛙",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 19794,
@@ -2859,7 +2747,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Gafas hechizorosas extremas plus",
                 ["Taiwanese"] = "法術能量護目鏡超級改良版",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 19795,
@@ -2879,7 +2766,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Tubo de torio",
                 ["Taiwanese"] = "瑟銀管",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 19796,
@@ -2899,7 +2785,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Rifle Hierro Negro",
                 ["Taiwanese"] = "黑鐵步槍",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 19799,
@@ -2919,7 +2804,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Bomba Hierro Negro",
                 ["Taiwanese"] = "黑鐵炸彈",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 19800,
@@ -2939,7 +2823,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Balas de torio",
                 ["Taiwanese"] = "瑟銀彈",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 19814,
@@ -2959,7 +2842,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Muñeco-diana obra maestra",
                 ["Taiwanese"] = "高級活動假人",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 19815,
@@ -2979,7 +2861,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Convertidor arcanita delicado",
                 ["Taiwanese"] = "精密奧金轉換器",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 19819,
@@ -2999,7 +2880,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Modulador de amplificación de voz",
                 ["Taiwanese"] = "語音增強模組",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 19825,
@@ -3019,7 +2899,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Protección de ingeniero jefe",
                 ["Taiwanese"] = "高級技師護目鏡",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 19830,
@@ -3039,7 +2918,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Dragonizo de arcanita",
                 ["Taiwanese"] = "奧金幼龍",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 19831,
@@ -3059,7 +2937,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Bomba Arcana",
                 ["Taiwanese"] = "祕法炸彈",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 19833,
@@ -3079,7 +2956,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Rifle arcanita impecable",
                 ["Taiwanese"] = "完美的奧金步槍",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 21940,
@@ -3099,7 +2975,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Nevemaese 9001",
                 ["Taiwanese"] = "雪王9000型",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 22704,
@@ -3119,7 +2994,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Robot de reparación de campo 74A",
                 ["Taiwanese"] = "修理機器人74A型",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 22793,
@@ -3139,7 +3013,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Acurascopio 247x128 Biznicks",
                 ["Taiwanese"] = "比茲尼克247x128精確瞄準鏡",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 22795,
@@ -3159,7 +3032,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Rifle de precisión del núcleo",
                 ["Taiwanese"] = "火核狙擊步槍",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 22797,
@@ -3179,7 +3051,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Forzar disco reactivo",
                 ["Taiwanese"] = "力回饋盾牌",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 23066,
@@ -3199,7 +3070,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Fuegos artificiales rojos",
                 ["Taiwanese"] = "紅色煙火",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 23067,
@@ -3219,7 +3089,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Fuego artificial azul",
                 ["Taiwanese"] = "藍色煙火",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 23068,
@@ -3239,7 +3108,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Fuegos artificiales verdes",
                 ["Taiwanese"] = "綠色煙火",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 23069,
@@ -3259,7 +3127,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Dinamita EZ-Thro II",
                 ["Taiwanese"] = "簡易投擲炸彈II",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 23070,
@@ -3276,7 +3143,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Dinamita densa",
                 ["Taiwanese"] = "緻密炸藥",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 5000,
                 ["sources"] = {
@@ -3302,7 +3168,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Transformador de veraplata",
                 ["Taiwanese"] = "真銀變壓器",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 23077,
@@ -3322,7 +3187,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Reflector de hielo girocongelador",
                 ["Taiwanese"] = "寒冰偏斜器",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 23078,
@@ -3342,7 +3206,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Cables resucitadores goblin",
                 ["Taiwanese"] = "哥布林起搏器XL型",
             },
-            ["phase"] = 1,
             ["specialisation"] = 20222,
         },
         {
@@ -3363,7 +3226,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Recombobulador sublime",
                 ["Taiwanese"] = "強力淨化器",
             },
-            ["phase"] = 2,
         },
         {
             ["id"] = 23080,
@@ -3383,7 +3245,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Carga potente de seforio",
                 ["Taiwanese"] = "強力爆鹽炸彈",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 23081,
@@ -3403,7 +3264,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Reflector de llamas hiper-radiante",
                 ["Taiwanese"] = "高輻射烈焰反射器",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 23082,
@@ -3423,7 +3283,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Reflector de las Sombras ultradeslumbrante",
                 ["Taiwanese"] = "快速暗影反射器",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 23096,
@@ -3443,7 +3302,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Roboalarma",
                 ["Taiwanese"] = "報警機器人",
             },
-            ["phase"] = 1,
             ["specialisation"] = 20219,
         },
         {
@@ -3464,7 +3322,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Agrandador de mundo",
                 ["Taiwanese"] = "世界放大器",
             },
-            ["phase"] = 1,
             ["specialisation"] = 20219,
         },
         {
@@ -3482,7 +3339,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Destripador dimensional: Vista eterna",
                 ["Taiwanese"] = "空間撕裂器 - 永望鎮",
             },
-            ["phase"] = 1,
             ["specialisation"] = 20222,
             ["trainers"] = {
                 ["price"] = 0,
@@ -3506,7 +3362,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Transportador utraseguro - Gadgetzan",
                 ["Taiwanese"] = "安全傳送器 - 加基森",
             },
-            ["phase"] = 1,
             ["specialisation"] = 20219,
             ["trainers"] = {
                 ["price"] = 0,
@@ -3533,7 +3388,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Fuegos artificiales de ráfaga de serpiente",
                 ["Taiwanese"] = "長蛇煙火",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 24356,
@@ -3553,7 +3407,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Gafas vid de sangre",
                 ["Taiwanese"] = "血藤護目鏡",
             },
-            ["phase"] = 4,
         },
         {
             ["id"] = 24357,
@@ -3573,7 +3426,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Lentes vid de sangre",
                 ["Taiwanese"] = "血藤透鏡",
             },
-            ["phase"] = 4,
         },
         {
             ["id"] = 26011,
@@ -3590,7 +3442,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Yeti mecánico sosegado",
                 ["Taiwanese"] = "安靜的機械雪人",
             },
-            ["phase"] = 1,
             ["quests"] = {
                 8798,
             },
@@ -3613,7 +3464,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Cohete pequeño azul",
                 ["Taiwanese"] = "小型藍色煙花",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 26417,
@@ -3633,7 +3483,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Cohete pequeño verde",
                 ["Taiwanese"] = "小型綠色煙花",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 26418,
@@ -3653,7 +3502,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Cohete pequeño rojo",
                 ["Taiwanese"] = "小型紅色煙花",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 26420,
@@ -3673,7 +3521,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Cohete grande azul",
                 ["Taiwanese"] = "大型藍色煙花",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 26421,
@@ -3693,7 +3540,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Cohete grande verde",
                 ["Taiwanese"] = "大型綠色煙花",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 26422,
@@ -3713,7 +3559,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Cohete grande rojo",
                 ["Taiwanese"] = "大型紅色煙花",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 26423,
@@ -3733,7 +3578,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Conjunto de cohetes azules",
                 ["Taiwanese"] = "藍色煙花束",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 26424,
@@ -3753,7 +3597,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Conjunto de cohetes verdes",
                 ["Taiwanese"] = "綠色煙花束",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 26425,
@@ -3773,7 +3616,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Conjunto de cohetes rojos",
                 ["Taiwanese"] = "紅色煙花束",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 26426,
@@ -3793,7 +3635,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Conjunto de cohetes grandes azules",
                 ["Taiwanese"] = "大型藍色煙花束",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 26427,
@@ -3813,7 +3654,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Conjunto de cohetes grandes verdes",
                 ["Taiwanese"] = "大型綠色煙花束",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 26428,
@@ -3833,7 +3673,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Conjunto de cohetes grandes rojos",
                 ["Taiwanese"] = "大型紅色煙花束",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 26442,
@@ -3853,7 +3692,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "LanzaFuegos artificiales",
                 ["Taiwanese"] = "煙火發射器",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 26443,
@@ -3873,7 +3711,6 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "LanzaFuegos artificiales",
                 ["Taiwanese"] = "煙花束發射器",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 28327,
@@ -3893,6 +3730,5 @@ TRADE_SKILLS_DATA["skills"]["Engineering"] =
                 ["Spanish"] = "Mando de tonque a vapor",
                 ["Taiwanese"] = "蒸氣坦克控制器",
             },
-            ["phase"] = 6,
         },
     }

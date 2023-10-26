@@ -17,7 +17,6 @@ TRADE_SKILLS_DATA["levels"]["Mining"] =
                 ["Spanish"] = "Minería (Aprendiz)",
                 ["Taiwanese"] = "採礦 (學徒)",
             },
-            ["phase"] = 1,
             ["rank"] = 1,
             ["trainers"] = {
                 ["price"] = 10,
@@ -55,7 +54,6 @@ TRADE_SKILLS_DATA["levels"]["Mining"] =
                 ["Spanish"] = "Minería (Oficial)",
                 ["Taiwanese"] = "採礦 (熟練工)",
             },
-            ["phase"] = 1,
             ["rank"] = 2,
             ["trainers"] = {
                 ["price"] = 500,
@@ -93,7 +91,6 @@ TRADE_SKILLS_DATA["levels"]["Mining"] =
                 ["Spanish"] = "Minería (Experto)",
                 ["Taiwanese"] = "採礦 (專家)",
             },
-            ["phase"] = 1,
             ["rank"] = 3,
             ["trainers"] = {
                 ["price"] = 5000,
@@ -131,7 +128,6 @@ TRADE_SKILLS_DATA["levels"]["Mining"] =
                 ["Spanish"] = "Minería (Artesano)",
                 ["Taiwanese"] = "採礦 (大工匠)",
             },
-            ["phase"] = 1,
             ["rank"] = 4,
             ["trainers"] = {
                 ["price"] = 50000,

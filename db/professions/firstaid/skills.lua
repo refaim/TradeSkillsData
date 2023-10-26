@@ -15,7 +15,6 @@ TRADE_SKILLS_DATA["skills"]["First Aid"] =
                 ["Spanish"] = "Vendaje de lino",
                 ["Taiwanese"] = "亞麻繃帶",
             },
-            ["phase"] = 1,
             ["special_action"] = "auto learned",
         },
         {
@@ -33,7 +32,6 @@ TRADE_SKILLS_DATA["skills"]["First Aid"] =
                 ["Spanish"] = "Vendaje pesado de lino",
                 ["Taiwanese"] = "厚亞麻繃帶",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 100,
                 ["sources"] = {
@@ -68,7 +66,6 @@ TRADE_SKILLS_DATA["skills"]["First Aid"] =
                 ["Spanish"] = "Vendaje de lana",
                 ["Taiwanese"] = "絨線繃帶",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 250,
                 ["sources"] = {
@@ -103,7 +100,6 @@ TRADE_SKILLS_DATA["skills"]["First Aid"] =
                 ["Spanish"] = "Vendaje pesado de lana",
                 ["Taiwanese"] = "厚絨線繃帶",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1000,
                 ["sources"] = {
@@ -138,7 +134,6 @@ TRADE_SKILLS_DATA["skills"]["First Aid"] =
                 ["Spanish"] = "Venda de seda",
                 ["Taiwanese"] = "絲質繃帶",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 5000,
                 ["sources"] = {
@@ -176,7 +171,6 @@ TRADE_SKILLS_DATA["skills"]["First Aid"] =
                 ["Spanish"] = "Vendaje pesado de seda",
                 ["Taiwanese"] = "厚絲質繃帶",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7934,
@@ -193,7 +187,6 @@ TRADE_SKILLS_DATA["skills"]["First Aid"] =
                 ["Spanish"] = "Antídoto",
                 ["Taiwanese"] = "抗毒藥劑",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 250,
                 ["sources"] = {
@@ -231,7 +224,6 @@ TRADE_SKILLS_DATA["skills"]["First Aid"] =
                 ["Spanish"] = "Antídoto fuerte",
                 ["Taiwanese"] = "強力抗毒藥劑",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 10840,
@@ -251,7 +243,6 @@ TRADE_SKILLS_DATA["skills"]["First Aid"] =
                 ["Spanish"] = "Vendaje de tejido mágico",
                 ["Taiwanese"] = "魔紋繃帶",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 10841,
@@ -268,7 +259,6 @@ TRADE_SKILLS_DATA["skills"]["First Aid"] =
                 ["Spanish"] = "Vendajes pesados de paño mágico",
                 ["Taiwanese"] = "厚魔紋繃帶",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 0,
                 ["sources"] = {
@@ -292,7 +282,6 @@ TRADE_SKILLS_DATA["skills"]["First Aid"] =
                 ["Spanish"] = "Venda de paño rúnico",
                 ["Taiwanese"] = "符文布繃帶",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 0,
                 ["sources"] = {
@@ -316,7 +305,6 @@ TRADE_SKILLS_DATA["skills"]["First Aid"] =
                 ["Spanish"] = "Vendaje pesado de paño rúnico",
                 ["Taiwanese"] = "厚符文布繃帶",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 0,
                 ["sources"] = {
@@ -343,6 +331,5 @@ TRADE_SKILLS_DATA["skills"]["First Aid"] =
                 ["Spanish"] = "Antídoto potente",
                 ["Taiwanese"] = "強效抗毒藥劑",
             },
-            ["phase"] = 3,
         },
     }

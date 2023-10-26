@@ -15,7 +15,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Piedra de afilar rugosa",
                 ["Taiwanese"] = "劣質磨刀石",
             },
-            ["phase"] = 1,
             ["special_action"] = "auto learned",
         },
         {
@@ -33,7 +32,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Cinturón anillado de cobre",
                 ["Taiwanese"] = "銅質鍊甲腰帶",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 100,
                 ["sources"] = {
@@ -75,7 +73,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Pantalones anillados de cobre",
                 ["Taiwanese"] = "銅質鍊甲短褲",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 50,
                 ["sources"] = {
@@ -117,7 +114,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Brazales de cobre",
                 ["Taiwanese"] = "銅質護腕",
             },
-            ["phase"] = 1,
             ["special_action"] = "auto learned",
         },
         {
@@ -135,7 +131,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Brazales de cobre rúnico",
                 ["Taiwanese"] = "銅質符文護腕",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 500,
                 ["sources"] = {
@@ -167,7 +162,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Piedra de afilar gruesa",
                 ["Taiwanese"] = "粗製磨刀石",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 100,
                 ["sources"] = {
@@ -209,7 +203,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Cinturón de cobre rúnico",
                 ["Taiwanese"] = "銅質符文腰帶",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 200,
                 ["sources"] = {
@@ -254,7 +247,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Peto de cobre rúnico",
                 ["Taiwanese"] = "銅質符文胸甲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2668,
@@ -271,7 +263,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Leotardos duros de bronce",
                 ["Taiwanese"] = "劣質青銅護腿",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 300,
                 ["sources"] = {
@@ -303,7 +294,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Coraza dura de bronce",
                 ["Taiwanese"] = "劣質青銅胸甲",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 450,
                 ["sources"] = {
@@ -335,7 +325,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Brazales de bronce estampados",
                 ["Taiwanese"] = "青銅花紋護腕",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 500,
                 ["sources"] = {
@@ -370,7 +359,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Peto de bronce plateadas",
                 ["Taiwanese"] = "鍍銀青銅胸甲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2674,
@@ -387,7 +375,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Piedra de afilar pesada",
                 ["Taiwanese"] = "重磨刀石",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1000,
                 ["sources"] = {
@@ -419,7 +406,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Peto de plata resplandeciente",
                 ["Taiwanese"] = "銀鱗胸甲",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1000,
                 ["sources"] = {
@@ -451,7 +437,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Maza de cobre",
                 ["Taiwanese"] = "銅質釘錘",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 50,
                 ["sources"] = {
@@ -493,7 +478,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Hacha de cobre",
                 ["Taiwanese"] = "銅斧",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 50,
                 ["sources"] = {
@@ -535,7 +519,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Espada corta de cobre",
                 ["Taiwanese"] = "銅質短劍",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 50,
                 ["sources"] = {
@@ -577,7 +560,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Maza de bronce",
                 ["Taiwanese"] = "青銅釘錘",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 180,
                 ["sources"] = {
@@ -609,7 +591,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Hacha de bronce",
                 ["Taiwanese"] = "青銅斧",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 180,
                 ["sources"] = {
@@ -641,7 +622,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Espada corta de bronce",
                 ["Taiwanese"] = "青銅短劍",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 180,
                 ["sources"] = {
@@ -673,7 +653,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Contrapeso duro",
                 ["Taiwanese"] = "劣質平衡石",
             },
-            ["phase"] = 1,
             ["special_action"] = "auto learned",
         },
         {
@@ -691,7 +670,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Piedrafuerte gruesa",
                 ["Taiwanese"] = "粗製平衡石",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 100,
                 ["sources"] = {
@@ -733,7 +711,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Piedrafuerte pesada",
                 ["Taiwanese"] = "重平衡石",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1000,
                 ["sources"] = {
@@ -765,7 +742,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Espada ancha pesada de cobre",
                 ["Taiwanese"] = "銅質重劍",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 500,
                 ["sources"] = {
@@ -797,7 +773,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Hacha de batalla de cobre",
                 ["Taiwanese"] = "銅質戰斧",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 250,
                 ["sources"] = {
@@ -839,7 +814,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Gran hacha de guerra",
                 ["Taiwanese"] = "厚重戰斧",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 500,
                 ["sources"] = {
@@ -884,7 +858,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Puñal mortal de bronce",
                 ["Taiwanese"] = "致命的青銅短劍",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3296,
@@ -901,7 +874,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Maza pesada de bronce",
                 ["Taiwanese"] = "青銅重錘",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1000,
                 ["sources"] = {
@@ -936,7 +908,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Martillo de hierro poderosa",
                 ["Taiwanese"] = "巨型鐵錘",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3319,
@@ -953,7 +924,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Botas anilladas de cobre",
                 ["Taiwanese"] = "銅質鍊甲戰靴",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 50,
                 ["sources"] = {
@@ -995,7 +965,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Piedra de pulir rugosa",
                 ["Taiwanese"] = "劣質砂輪",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 100,
                 ["sources"] = {
@@ -1040,7 +1009,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Jubón anillado de cobre",
                 ["Taiwanese"] = "銅質鍊甲外衣",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3323,
@@ -1057,7 +1025,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Guanteletes de cobre rúnico",
                 ["Taiwanese"] = "銅質符文護手",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 100,
                 ["sources"] = {
@@ -1099,7 +1066,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Pantalones de cobre rúnico",
                 ["Taiwanese"] = "銅質符文短褲",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 200,
                 ["sources"] = {
@@ -1144,7 +1110,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Guanteletes de cobre con gemas",
                 ["Taiwanese"] = "銅質寶石手套",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3326,
@@ -1161,7 +1126,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Piedra de pulir gruesa",
                 ["Taiwanese"] = "粗製砂輪",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 250,
                 ["sources"] = {
@@ -1203,7 +1167,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Hombreras duras de bronce",
                 ["Taiwanese"] = "劣質青銅護肩",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 500,
                 ["sources"] = {
@@ -1238,7 +1201,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Hombreras de bronce plateadas",
                 ["Taiwanese"] = "鍍銀青銅護肩",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3331,
@@ -1255,7 +1217,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Botas de bronce plateadas",
                 ["Taiwanese"] = "鍍銀青銅戰靴",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 500,
                 ["sources"] = {
@@ -1287,7 +1248,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Guanteletes de bronce plateadas",
                 ["Taiwanese"] = "鍍銀青銅護手",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1000,
                 ["sources"] = {
@@ -1322,7 +1282,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Botas de hierro verde",
                 ["Taiwanese"] = "綠鐵戰靴",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3336,
@@ -1342,7 +1301,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Guanteletes de hierro verde",
                 ["Taiwanese"] = "綠鐵護手",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3337,
@@ -1359,7 +1317,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Piedra de pulir pesada",
                 ["Taiwanese"] = "重砂輪",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1000,
                 ["sources"] = {
@@ -1391,7 +1348,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Cuchillo grande de bronce",
                 ["Taiwanese"] = "青銅匕首",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 600,
                 ["sources"] = {
@@ -1426,7 +1382,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Espada corta de hierro endurecida",
                 ["Taiwanese"] = "硬鐵短劍",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3493,
@@ -1446,7 +1401,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Jade Filoserpiente",
                 ["Taiwanese"] = "玉蛇刀",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3494,
@@ -1466,7 +1420,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Machaque duro de hierro",
                 ["Taiwanese"] = "堅固的鐵錘",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3495,
@@ -1486,7 +1439,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Destructor de hierro dorado",
                 ["Taiwanese"] = "碎鐵金錘",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3496,
@@ -1506,7 +1458,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Bracamarte lunacero",
                 ["Taiwanese"] = "月鋼寬劍",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3497,
@@ -1526,7 +1477,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Espada escarchada del tigre",
                 ["Taiwanese"] = "霜虎之刃",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3498,
@@ -1546,7 +1496,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Hacha de hierro gigante",
                 ["Taiwanese"] = "巨型鐵斧",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3500,
@@ -1566,7 +1515,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Hacha creciente de las Sombras",
                 ["Taiwanese"] = "月牙斧",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3501,
@@ -1583,7 +1531,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Brazales de hierro verde",
                 ["Taiwanese"] = "綠鐵護腕",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1000,
                 ["sources"] = {
@@ -1608,7 +1555,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Yelmo de hierro verde",
                 ["Taiwanese"] = "綠鐵頭盔",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1250,
                 ["sources"] = {
@@ -1636,7 +1582,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Toca de escamas doradas",
                 ["Taiwanese"] = "金鱗罩盔",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3504,
@@ -1656,7 +1601,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Hombreras de hierro verde",
                 ["Taiwanese"] = "綠鐵護肩",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3505,
@@ -1676,7 +1620,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Hombreras de escamas doradas",
                 ["Taiwanese"] = "金鱗護肩",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3506,
@@ -1693,7 +1636,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Leotardos de hierro verde",
                 ["Taiwanese"] = "綠鐵護腿",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 5000,
                 ["sources"] = {
@@ -1721,7 +1663,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Leotardos de escamas doradas",
                 ["Taiwanese"] = "金鱗護腿",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3508,
@@ -1738,7 +1679,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Camisote de hierro verde",
                 ["Taiwanese"] = "綠鐵鎖甲",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 7500,
                 ["sources"] = {
@@ -1766,7 +1706,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Coraza de escamas doradas",
                 ["Taiwanese"] = "金鱗胸甲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3513,
@@ -1786,7 +1725,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Botas de acero lustrosas",
                 ["Taiwanese"] = "精鋼戰靴",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3515,
@@ -1806,7 +1744,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Botas de escamas doradas",
                 ["Taiwanese"] = "金鱗戰靴",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 6517,
@@ -1823,7 +1760,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Daga con empuñadura de perla",
                 ["Taiwanese"] = "珍珠匕首",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 720,
                 ["sources"] = {
@@ -1858,7 +1794,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Martillo iridescente",
                 ["Taiwanese"] = "彩虹之錘",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7221,
@@ -1878,7 +1813,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Pica de escudo de hierro",
                 ["Taiwanese"] = "鐵質盾刺",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7222,
@@ -1898,7 +1832,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Contrapeso de hierro",
                 ["Taiwanese"] = "鐵質平衡錘",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7223,
@@ -1915,7 +1848,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Brazales de escamas doradas",
                 ["Taiwanese"] = "金鱗護腕",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1000,
                 ["sources"] = {
@@ -1943,7 +1875,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Cadena de lucha de acero",
                 ["Taiwanese"] = "鋼質武器鏈",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7408,
@@ -1960,7 +1891,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Mazo pesado de cobre",
                 ["Taiwanese"] = "銅質大錘",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 300,
                 ["sources"] = {
@@ -2002,7 +1932,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Botas duras de bronce",
                 ["Taiwanese"] = "劣質青銅戰靴",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 200,
                 ["sources"] = {
@@ -2034,7 +1963,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Vara de plata",
                 ["Taiwanese"] = "銀棒",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 100,
                 ["sources"] = {
@@ -2069,7 +1997,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Peto de Forjaz",
                 ["Taiwanese"] = "鐵爐堡胸甲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 8768,
@@ -2086,7 +2013,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Hebilla de hierro",
                 ["Taiwanese"] = "鐵扣環",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 250,
                 ["sources"] = {
@@ -2118,7 +2044,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Daga de cobre",
                 ["Taiwanese"] = "銅質匕首",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 100,
                 ["sources"] = {
@@ -2163,7 +2088,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Hombreras primitivas de acero",
                 ["Taiwanese"] = "野人鐵護肩",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 9813,
@@ -2183,7 +2107,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Peto primitivo de acero",
                 ["Taiwanese"] = "野人鐵質胸甲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 9814,
@@ -2203,7 +2126,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Yelmo primitivo de acero",
                 ["Taiwanese"] = "野人鐵盔",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 9818,
@@ -2223,7 +2145,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Botas primitivas de acero",
                 ["Taiwanese"] = "野人鐵靴",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 9820,
@@ -2243,7 +2164,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Guantes primitivos de acero",
                 ["Taiwanese"] = "野人鐵手套",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 9916,
@@ -2260,7 +2180,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Peto de acero",
                 ["Taiwanese"] = "鋼質胸甲",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 2500,
                 ["sources"] = {
@@ -2285,7 +2204,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Piedra de afilar sólida",
                 ["Taiwanese"] = "堅固的磨刀石",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 2500,
                 ["sources"] = {
@@ -2310,7 +2228,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Piedra de pulir sólida",
                 ["Taiwanese"] = "堅固的砂輪",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 2500,
                 ["sources"] = {
@@ -2335,7 +2252,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Contrapeso sólido",
                 ["Taiwanese"] = "堅固的平衡石",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 2500,
                 ["sources"] = {
@@ -2360,7 +2276,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Hombreras pesadas de mitril",
                 ["Taiwanese"] = "重型秘銀護肩",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 5000,
                 ["sources"] = {
@@ -2385,7 +2300,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Guanteletes pesados de mitril",
                 ["Taiwanese"] = "重型秘銀手套",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 5000,
                 ["sources"] = {
@@ -2410,7 +2324,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Pantalones de placas de mitril",
                 ["Taiwanese"] = "秘銀鱗片短褲",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 5000,
                 ["sources"] = {
@@ -2438,7 +2351,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Pantalones pesados de mitril",
                 ["Taiwanese"] = "秘銀短褲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 9935,
@@ -2455,7 +2367,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Yelmo de chapa de acero",
                 ["Taiwanese"] = "鋼質頭盔",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 5000,
                 ["sources"] = {
@@ -2483,7 +2394,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Brazales de placas de mitril",
                 ["Taiwanese"] = "秘銀鱗片護腕",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 9939,
@@ -2503,7 +2413,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Punta de escudo de mitril",
                 ["Taiwanese"] = "秘銀盾刺",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 9945,
@@ -2523,7 +2432,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Pantalones de mitril ornamentado",
                 ["Taiwanese"] = "精製秘銀短褲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 9950,
@@ -2543,7 +2451,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Guantes de mitril ornamentados",
                 ["Taiwanese"] = "精製秘銀手套",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 9952,
@@ -2563,7 +2470,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Hombreras de mitril ornamentado",
                 ["Taiwanese"] = "精製秘銀護肩",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 9954,
@@ -2580,7 +2486,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Guanteletes de veraplata",
                 ["Taiwanese"] = "真銀護手",
             },
-            ["phase"] = 1,
             ["specialisation"] = 9788,
             ["trainers"] = {
                 ["price"] = 9000,
@@ -2606,7 +2511,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Leotardos de guerra orcos",
                 ["Taiwanese"] = "獸人護腿",
             },
-            ["phase"] = 1,
             ["quests"] = {
                 2756,
             },
@@ -2626,7 +2530,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Peto pesado de mitril",
                 ["Taiwanese"] = "重型秘銀胸甲",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 15000,
                 ["sources"] = {
@@ -2649,7 +2552,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Toca de mitril",
                 ["Taiwanese"] = "秘銀罩帽",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 15000,
                 ["sources"] = {
@@ -2675,7 +2577,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Espuelas de mitril",
                 ["Taiwanese"] = "秘銀馬刺",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 9966,
@@ -2695,7 +2596,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Hombreras de placas de mitril",
                 ["Taiwanese"] = "秘銀鱗片護肩",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 9968,
@@ -2712,7 +2612,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Botas pesadas de mitril",
                 ["Taiwanese"] = "秘銀重靴",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 20000,
                 ["sources"] = {
@@ -2738,7 +2637,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Yelmo pesado de mitril",
                 ["Taiwanese"] = "重型秘銀頭盔",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 9972,
@@ -2755,7 +2653,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Peto de mitril ornamentado",
                 ["Taiwanese"] = "精製秘銀胸甲",
             },
-            ["phase"] = 1,
             ["quests"] = {
                 2773,
             },
@@ -2775,7 +2672,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Peto de veraplata",
                 ["Taiwanese"] = "真銀胸甲",
             },
-            ["phase"] = 1,
             ["specialisation"] = 9788,
             ["trainers"] = {
                 ["price"] = 9000,
@@ -2801,7 +2697,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Botas de mitril ornamentadas",
                 ["Taiwanese"] = "精製秘銀戰靴",
             },
-            ["phase"] = 1,
             ["quests"] = {
                 2772,
             },
@@ -2821,7 +2716,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Yelmo de mitril ornamentado",
                 ["Taiwanese"] = "精製秘銀頭盔",
             },
-            ["phase"] = 1,
             ["quests"] = {
                 2771,
             },
@@ -2841,7 +2735,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Claymore de cobre",
                 ["Taiwanese"] = "銅質雙刃刀",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 100,
                 ["sources"] = {
@@ -2883,7 +2776,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Martillo de Guerra de bronce",
                 ["Taiwanese"] = "青銅戰錘",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 225,
                 ["sources"] = {
@@ -2915,7 +2807,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Espada magna de bronce",
                 ["Taiwanese"] = "青銅巨劍",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 450,
                 ["sources"] = {
@@ -2947,7 +2838,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Hacha de batalla de bronce",
                 ["Taiwanese"] = "青銅戰斧",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 450,
                 ["sources"] = {
@@ -2979,7 +2869,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Hacha pesada de mitril",
                 ["Taiwanese"] = "秘銀重斧",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 10000,
                 ["sources"] = {
@@ -3007,7 +2896,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Hacha azul reluciente",
                 ["Taiwanese"] = "藍光斧",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 9997,
@@ -3027,7 +2915,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Filo perverso de mitril",
                 ["Taiwanese"] = "秘銀魔劍",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 10001,
@@ -3044,7 +2931,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Maza grande negra",
                 ["Taiwanese"] = "巨型黑色錘",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 15000,
                 ["sources"] = {
@@ -3067,7 +2953,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "El despedazado",
                 ["Taiwanese"] = "粉碎者",
             },
-            ["phase"] = 1,
             ["specialisation"] = 9787,
             ["trainers"] = {
                 ["price"] = 13500,
@@ -3097,7 +2982,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Estocada atontadora de mitril",
                 ["Taiwanese"] = "秘銀細劍",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 10007,
@@ -3114,7 +2998,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Filo fantasma",
                 ["Taiwanese"] = "幻影之刃",
             },
-            ["phase"] = 1,
             ["specialisation"] = 9787,
             ["trainers"] = {
                 ["price"] = 13500,
@@ -3144,7 +3027,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Martillo de mitril rúnico",
                 ["Taiwanese"] = "秘銀符文戰錘",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 10011,
@@ -3161,7 +3043,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Toxicidad",
                 ["Taiwanese"] = "荒蕪",
             },
-            ["phase"] = 1,
             ["specialisation"] = 9787,
             ["trainers"] = {
                 ["price"] = 13500,
@@ -3191,7 +3072,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Shiv de Evon",
                 ["Taiwanese"] = "烏木刀",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 10015,
@@ -3208,7 +3088,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Campeón de veraplata",
                 ["Taiwanese"] = "真銀聖劍",
             },
-            ["phase"] = 1,
             ["specialisation"] = 9787,
             ["trainers"] = {
                 ["price"] = 13500,
@@ -3238,7 +3117,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Cilindro incrustado de mitril",
                 ["Taiwanese"] = "秘銀杆",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 11643,
@@ -3258,7 +3136,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Guanteletes de escamas doradas",
                 ["Taiwanese"] = "金鱗護手",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 12259,
@@ -3278,7 +3155,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Leotardos de bronce plateadas",
                 ["Taiwanese"] = "鍍銀青銅護腿",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 12260,
@@ -3295,7 +3171,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Jubón duro de cobre",
                 ["Taiwanese"] = "劣質銅外衣",
             },
-            ["phase"] = 1,
             ["special_action"] = "auto learned",
         },
         {
@@ -3313,7 +3188,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Cetro dorado",
                 ["Taiwanese"] = "金棒",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 250,
                 ["sources"] = {
@@ -3345,7 +3219,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Vara de veraplata",
                 ["Taiwanese"] = "真銀棒",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 2500,
                 ["sources"] = {
@@ -3373,7 +3246,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Pulverizador Hierro Negro",
                 ["Taiwanese"] = "黑鐵粉碎者",
             },
-            ["phase"] = 1,
             ["specialisation"] = 9787,
         },
         {
@@ -3394,7 +3266,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Mallas Hierro Negro",
                 ["Taiwanese"] = "黑鐵鎖甲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 15294,
@@ -3414,7 +3285,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Hendedor Hierro Negro",
                 ["Taiwanese"] = "黑鐵斬碎者",
             },
-            ["phase"] = 1,
             ["specialisation"] = 9787,
         },
         {
@@ -3435,7 +3305,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Hombreras Hierro Negro",
                 ["Taiwanese"] = "黑鐵護肩",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 15296,
@@ -3455,7 +3324,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Armadura de placas Hierro Negro",
                 ["Taiwanese"] = "黑鐵鎧甲",
             },
-            ["phase"] = 1,
             ["specialisation"] = 9788,
         },
         {
@@ -3473,7 +3341,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Daga de acero destellante",
                 ["Taiwanese"] = "亮閃閃的鋼匕首",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 7500,
                 ["sources"] = {
@@ -3501,7 +3368,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Espada dorada punzante",
                 ["Taiwanese"] = "灼熱金劍",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 16639,
@@ -3518,7 +3384,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Piedra de pulir densa",
                 ["Taiwanese"] = "緻密砂輪",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 10000,
                 ["sources"] = {
@@ -3541,7 +3406,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Piedrafuerte densa",
                 ["Taiwanese"] = "緻密平衡石",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 10000,
                 ["sources"] = {
@@ -3564,7 +3428,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Piedra de afilar densa",
                 ["Taiwanese"] = "緻密磨刀石",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 10000,
                 ["sources"] = {
@@ -3590,7 +3453,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Armadura de torio",
                 ["Taiwanese"] = "瑟銀護甲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 16643,
@@ -3610,7 +3472,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Cinturón de torio",
                 ["Taiwanese"] = "瑟銀腰帶",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 16644,
@@ -3630,7 +3491,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Brazales de torio",
                 ["Taiwanese"] = "瑟銀護腕",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 16645,
@@ -3650,7 +3510,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Cinturón radiante",
                 ["Taiwanese"] = "輻光腰帶",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 16646,
@@ -3670,7 +3529,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Hombreras imperiales de placas",
                 ["Taiwanese"] = "君王鎧甲護肩",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 16647,
@@ -3690,7 +3548,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Cinturón imperial de placas",
                 ["Taiwanese"] = "君王鎧甲腰帶",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 16648,
@@ -3710,7 +3567,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Peto radiante",
                 ["Taiwanese"] = "輻光胸甲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 16649,
@@ -3730,7 +3586,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Brazales imperiales de placas",
                 ["Taiwanese"] = "君王鎧甲護腕",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 16650,
@@ -3750,7 +3605,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Malla espinavestre",
                 ["Taiwanese"] = "野刺鎖甲",
             },
-            ["phase"] = 1,
             ["specialisation"] = 9788,
         },
         {
@@ -3771,7 +3625,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Punta de escudo de torio",
                 ["Taiwanese"] = "瑟銀盾刺",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 16652,
@@ -3791,7 +3644,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Botas de torio",
                 ["Taiwanese"] = "瑟銀長靴",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 16653,
@@ -3811,7 +3663,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Yelmo de torio",
                 ["Taiwanese"] = "瑟銀頭盔",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 16654,
@@ -3831,7 +3682,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Guantes radiantes",
                 ["Taiwanese"] = "輻光手套",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 16655,
@@ -3851,7 +3701,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Guanteletes abrasadores de placas",
                 ["Taiwanese"] = "熾熱鎧甲護手",
             },
-            ["phase"] = 1,
             ["specialisation"] = 9788,
         },
         {
@@ -3872,7 +3721,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Botas radiantes",
                 ["Taiwanese"] = "輻光長靴",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 16657,
@@ -3892,7 +3740,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Botas imperiales de placas",
                 ["Taiwanese"] = "君王鎧甲戰靴",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 16658,
@@ -3912,7 +3759,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Yelmo imperial de placas",
                 ["Taiwanese"] = "君王鎧甲頭盔",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 16659,
@@ -3932,7 +3778,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Aro radiante",
                 ["Taiwanese"] = "輻光頭飾",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 16661,
@@ -3952,7 +3797,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Guanteletes de tormenta",
                 ["Taiwanese"] = "風暴護手",
             },
-            ["phase"] = 1,
             ["specialisation"] = 9788,
         },
         {
@@ -3973,7 +3817,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Leotardos de torio",
                 ["Taiwanese"] = "瑟銀護腿",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 16663,
@@ -3993,7 +3836,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Pechera imperial de placas",
                 ["Taiwanese"] = "君王鎧甲護胸",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 16664,
@@ -4013,7 +3855,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Hombreras de chapa rúnica",
                 ["Taiwanese"] = "符文鎧甲護肩",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 16665,
@@ -4033,7 +3874,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Botas de chapa rúnica",
                 ["Taiwanese"] = "符文鎧甲戰靴",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 16667,
@@ -4053,7 +3893,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Peto demonoforjado",
                 ["Taiwanese"] = "魔鑄胸甲",
             },
-            ["phase"] = 1,
             ["specialisation"] = 9788,
         },
         {
@@ -4074,7 +3913,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Yelmo Almablanca",
                 ["Taiwanese"] = "白魂頭盔",
             },
-            ["phase"] = 1,
             ["specialisation"] = 9788,
         },
         {
@@ -4095,7 +3933,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Leotardos radiantes",
                 ["Taiwanese"] = "輻光護腿",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 16726,
@@ -4115,7 +3952,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Yelmo de chapa rúnica",
                 ["Taiwanese"] = "符文鎧甲頭盔",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 16728,
@@ -4135,7 +3971,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Yelmo del Gran Jefe",
                 ["Taiwanese"] = "大酋長頭盔",
             },
-            ["phase"] = 1,
             ["specialisation"] = 9788,
         },
         {
@@ -4156,7 +3991,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Yelmo Corazón de león",
                 ["Taiwanese"] = "獅心頭盔",
             },
-            ["phase"] = 1,
             ["specialisation"] = 9788,
         },
         {
@@ -4177,7 +4011,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Leotardos imperiales de placas",
                 ["Taiwanese"] = "君王鎧甲護腿",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 16731,
@@ -4197,7 +4030,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Peto rúnico",
                 ["Taiwanese"] = "符文胸甲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 16732,
@@ -4217,7 +4049,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Leotardos de chapa rúnica",
                 ["Taiwanese"] = "符文鎧甲護腿",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 16741,
@@ -4237,7 +4068,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Guanteletes de fortaleza",
                 ["Taiwanese"] = "要塞護手",
             },
-            ["phase"] = 1,
             ["specialisation"] = 9788,
         },
         {
@@ -4258,7 +4088,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Yelmo de torio encantado",
                 ["Taiwanese"] = "魔法瑟銀頭盔",
             },
-            ["phase"] = 2,
             ["specialisation"] = 9788,
         },
         {
@@ -4279,7 +4108,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Leotardos de torio encantado",
                 ["Taiwanese"] = "魔法瑟銀護腿",
             },
-            ["phase"] = 2,
             ["specialisation"] = 9788,
         },
         {
@@ -4300,7 +4128,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Peto de torio encantado",
                 ["Taiwanese"] = "魔法瑟銀胸甲",
             },
-            ["phase"] = 2,
             ["specialisation"] = 9788,
         },
         {
@@ -4321,7 +4148,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Malla invulnerable",
                 ["Taiwanese"] = "免傷鎖甲",
             },
-            ["phase"] = 1,
             ["specialisation"] = 9788,
         },
         {
@@ -4342,7 +4168,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Hacha de mano ornamentado",
                 ["Taiwanese"] = "華麗瑟銀手斧",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 16970,
@@ -4362,7 +4187,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Frontera del Alba",
                 ["Taiwanese"] = "黎明之刃",
             },
-            ["phase"] = 1,
             ["specialisation"] = 17041,
         },
         {
@@ -4383,7 +4207,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Hacha de batalla enorme de torio",
                 ["Taiwanese"] = "巨型瑟銀戰斧",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 16973,
@@ -4403,7 +4226,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Martillo de batalla encantado",
                 ["Taiwanese"] = "魔化戰錘",
             },
-            ["phase"] = 1,
             ["specialisation"] = 17040,
         },
         {
@@ -4424,7 +4246,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Estocada ardiente",
                 ["Taiwanese"] = "閃耀輕劍",
             },
-            ["phase"] = 1,
             ["specialisation"] = 17039,
         },
         {
@@ -4445,7 +4266,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Serenidad",
                 ["Taiwanese"] = "平靜",
             },
-            ["phase"] = 1,
             ["specialisation"] = 17040,
         },
         {
@@ -4466,7 +4286,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Martillo volcánico",
                 ["Taiwanese"] = "火山戰錘",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 16985,
@@ -4486,7 +4305,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Corrupción",
                 ["Taiwanese"] = "腐蝕術",
             },
-            ["phase"] = 1,
             ["specialisation"] = 17039,
         },
         {
@@ -4507,7 +4325,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Martillo de los Titanes",
                 ["Taiwanese"] = "泰坦之錘",
             },
-            ["phase"] = 1,
             ["specialisation"] = 17040,
         },
         {
@@ -4528,7 +4345,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Campeona de arcanita",
                 ["Taiwanese"] = "奧金勇士劍",
             },
-            ["phase"] = 1,
             ["specialisation"] = 17039,
         },
         {
@@ -4549,7 +4365,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Aniquilador",
                 ["Taiwanese"] = "殲滅者",
             },
-            ["phase"] = 1,
             ["specialisation"] = 17041,
         },
         {
@@ -4570,7 +4385,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Guardia de Escarcha",
                 ["Taiwanese"] = "寒冰護衛者",
             },
-            ["phase"] = 1,
             ["specialisation"] = 17039,
         },
         {
@@ -4591,7 +4405,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Martillo de tormenta obra maestra",
                 ["Taiwanese"] = "精工風暴戰錘",
             },
-            ["phase"] = 1,
             ["specialisation"] = 17040,
         },
         {
@@ -4612,7 +4425,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Segadora de arcanita",
                 ["Taiwanese"] = "奧金斧",
             },
-            ["phase"] = 1,
             ["specialisation"] = 17041,
         },
         {
@@ -4633,7 +4445,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Buscacorazones",
                 ["Taiwanese"] = "尋心者",
             },
-            ["phase"] = 1,
             ["specialisation"] = 9787,
         },
         {
@@ -4651,7 +4462,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Llave esqueleto de plata",
                 ["Taiwanese"] = "銀骷髏鑰匙",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 100,
                 ["sources"] = {
@@ -4683,7 +4493,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Llave esquelética dorada",
                 ["Taiwanese"] = "金骷髏鑰匙",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 250,
                 ["sources"] = {
@@ -4715,7 +4524,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Llave esqueleto de veraplata",
                 ["Taiwanese"] = "真銀骷髏鑰匙",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 2500,
                 ["sources"] = {
@@ -4740,7 +4548,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Llave esquelética arcanita",
                 ["Taiwanese"] = "奧金骷髏鑰匙",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 10000,
                 ["sources"] = {
@@ -4763,7 +4570,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Cetro arcanita",
                 ["Taiwanese"] = "奧金棒",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 10000,
                 ["sources"] = {
@@ -4789,7 +4595,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Faja abrasadora de anillas",
                 ["Taiwanese"] = "熾熱鍊甲腰帶",
             },
-            ["phase"] = 1,
             ["specialisation"] = 9788,
         },
         {
@@ -4810,7 +4615,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Hombreras abrasadoras de anillas",
                 ["Taiwanese"] = "熾熱鍊甲護肩",
             },
-            ["phase"] = 1,
             ["specialisation"] = 9788,
         },
         {
@@ -4831,7 +4635,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Brazales Hierro Negro",
                 ["Taiwanese"] = "黑鐵護腕",
             },
-            ["phase"] = 1,
             ["specialisation"] = 9788,
         },
         {
@@ -4852,7 +4655,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Leotardos Hierro Negro",
                 ["Taiwanese"] = "黑鐵護腿",
             },
-            ["phase"] = 1,
             ["specialisation"] = 9788,
         },
         {
@@ -4873,7 +4675,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Atracador Hierro Negro",
                 ["Taiwanese"] = "黑鐵利劍",
             },
-            ["phase"] = 1,
             ["specialisation"] = 17039,
         },
         {
@@ -4894,7 +4695,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Destructor Hierro Negro",
                 ["Taiwanese"] = "黑鐵戰斧",
             },
-            ["phase"] = 1,
             ["specialisation"] = 17041,
         },
         {
@@ -4915,7 +4715,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Martillo de Sulfuron",
                 ["Taiwanese"] = "薩弗隆戰錘",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 21913,
@@ -4935,7 +4734,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Extremo del Invierno",
                 ["Taiwanese"] = "寒冬之刃",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 22757,
@@ -4955,7 +4753,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Piedra de afilar elemental",
                 ["Taiwanese"] = "元素磨刀石",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 23628,
@@ -4975,7 +4772,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Cinturón pesado Fauces de Madera",
                 ["Taiwanese"] = "重型木喉腰帶",
             },
-            ["phase"] = 3,
         },
         {
             ["id"] = 23629,
@@ -4995,7 +4791,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Botas pesadas Fauces de Madera",
                 ["Taiwanese"] = "重型木喉長靴",
             },
-            ["phase"] = 3,
         },
         {
             ["id"] = 23632,
@@ -5015,7 +4810,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Faja del Alba",
                 ["Taiwanese"] = "黎明束腰",
             },
-            ["phase"] = 3,
         },
         {
             ["id"] = 23633,
@@ -5035,7 +4829,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Guantes del Alba",
                 ["Taiwanese"] = "黎明手套",
             },
-            ["phase"] = 3,
         },
         {
             ["id"] = 23636,
@@ -5055,7 +4848,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Yelmo Hierro Negro",
                 ["Taiwanese"] = "黑鐵頭盔",
             },
-            ["phase"] = 3,
             ["specialisation"] = 9788,
         },
         {
@@ -5076,7 +4868,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Guanteletes Hierro Negro",
                 ["Taiwanese"] = "黑鐵護手",
             },
-            ["phase"] = 3,
             ["specialisation"] = 9788,
         },
         {
@@ -5097,7 +4888,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Amnistía negra",
                 ["Taiwanese"] = "野蠻狂怒",
             },
-            ["phase"] = 3,
             ["specialisation"] = 9787,
         },
         {
@@ -5118,7 +4908,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Furianegra",
                 ["Taiwanese"] = "黑色怒火",
             },
-            ["phase"] = 3,
             ["specialisation"] = 9787,
         },
         {
@@ -5139,7 +4928,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Mano de Ebon",
                 ["Taiwanese"] = "黑手",
             },
-            ["phase"] = 3,
             ["specialisation"] = 17040,
         },
         {
@@ -5160,7 +4948,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Guardanegro",
                 ["Taiwanese"] = "黑色衛士",
             },
-            ["phase"] = 3,
             ["specialisation"] = 17039,
         },
         {
@@ -5181,7 +4968,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Ocaso",
                 ["Taiwanese"] = "夜幕",
             },
-            ["phase"] = 3,
             ["specialisation"] = 17041,
         },
         {
@@ -5202,7 +4988,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Peto Almasangre",
                 ["Taiwanese"] = "血魂胸甲",
             },
-            ["phase"] = 4,
         },
         {
             ["id"] = 24137,
@@ -5222,7 +5007,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Hombreras Almasangre",
                 ["Taiwanese"] = "血魂護肩",
             },
-            ["phase"] = 4,
         },
         {
             ["id"] = 24138,
@@ -5242,7 +5026,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Guanteletes Almasangre",
                 ["Taiwanese"] = "血魂護手",
             },
-            ["phase"] = 4,
         },
         {
             ["id"] = 24139,
@@ -5262,7 +5045,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Peto Almanegra",
                 ["Taiwanese"] = "黑暗之魂胸甲",
             },
-            ["phase"] = 4,
         },
         {
             ["id"] = 24140,
@@ -5282,7 +5064,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Leotardos Almanegra",
                 ["Taiwanese"] = "黑暗之魂護腿",
             },
-            ["phase"] = 4,
         },
         {
             ["id"] = 24141,
@@ -5302,7 +5083,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Hombreras Almanegra",
                 ["Taiwanese"] = "黑暗之魂護肩",
             },
-            ["phase"] = 4,
         },
         {
             ["id"] = 24399,
@@ -5322,7 +5102,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Botas Hierro Negro",
                 ["Taiwanese"] = "黑鐵戰靴",
             },
-            ["phase"] = 3,
             ["specialisation"] = 9788,
         },
         {
@@ -5343,7 +5122,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Guanteletes Runanegra",
                 ["Taiwanese"] = "黑暗符文護手",
             },
-            ["phase"] = 4,
         },
         {
             ["id"] = 24913,
@@ -5363,7 +5141,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Yelmo Runanegra",
                 ["Taiwanese"] = "黑暗符文頭盔",
             },
-            ["phase"] = 4,
         },
         {
             ["id"] = 24914,
@@ -5383,7 +5160,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Peto Runanegra",
                 ["Taiwanese"] = "黑暗符文胸甲",
             },
-            ["phase"] = 4,
         },
         {
             ["id"] = 27585,
@@ -5403,7 +5179,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Cinturón obsidiano pesado",
                 ["Taiwanese"] = "厚重黑曜石腰帶",
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 27586,
@@ -5423,7 +5198,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Escudo obsidiano irregular",
                 ["Taiwanese"] = "鋸齒黑曜石之盾",
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 27587,
@@ -5443,7 +5217,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Peto grueso de obsidiana",
                 ["Taiwanese"] = "厚黑曜石胸甲",
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 27588,
@@ -5463,7 +5236,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Cinturón ligero obsidiano",
                 ["Taiwanese"] = "輕巧黑曜石腰帶",
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 27589,
@@ -5483,7 +5255,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Garras negras del destructor",
                 ["Taiwanese"] = "黑色摧毀者手套",
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 27590,
@@ -5503,7 +5274,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Túnica de malla obsidiana",
                 ["Taiwanese"] = "黑曜石鎖甲外套",
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 27829,
@@ -5523,7 +5293,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Leotardos titánicos",
                 ["Taiwanese"] = "泰坦護腿",
             },
-            ["phase"] = 5,
             ["specialisation"] = 9788,
         },
         {
@@ -5544,7 +5313,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Convencedor",
                 ["Taiwanese"] = "刺錘",
             },
-            ["phase"] = 5,
             ["specialisation"] = 17040,
         },
         {
@@ -5565,7 +5333,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Espadasabia",
                 ["Taiwanese"] = "聖劍",
             },
-            ["phase"] = 5,
             ["specialisation"] = 17039,
         },
         {
@@ -5583,7 +5350,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Peto Deliriohelado",
                 ["Taiwanese"] = "冰剋胸甲",
             },
-            ["phase"] = 6,
             ["quests"] = {
                 9233,
             },
@@ -5613,7 +5379,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Guanteletes Deliriohelado",
                 ["Taiwanese"] = "冰剋護手",
             },
-            ["phase"] = 6,
             ["quests"] = {
                 9233,
             },
@@ -5643,7 +5408,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Brazales Deliriohelado",
                 ["Taiwanese"] = "冰剋護腕",
             },
-            ["phase"] = 6,
             ["quests"] = {
                 9233,
             },
@@ -5676,7 +5440,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Peto Parraférrea",
                 ["Taiwanese"] = "鐵藤胸甲",
             },
-            ["phase"] = 6,
         },
         {
             ["id"] = 28462,
@@ -5696,7 +5459,6 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Guantes Parraférrea",
                 ["Taiwanese"] = "鐵藤護手",
             },
-            ["phase"] = 6,
         },
         {
             ["id"] = 28463,
@@ -5716,6 +5478,5 @@ TRADE_SKILLS_DATA["skills"]["Blacksmithing"] =
                 ["Spanish"] = "Cinturón Parraférrea",
                 ["Taiwanese"] = "鐵藤腰帶",
             },
-            ["phase"] = 6,
         },
     }

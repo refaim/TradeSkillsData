@@ -14,7 +14,6 @@ TRADE_SKILLS_DATA["items"]["Fishing"] =
                 ["Spanish"] = "Pesca para expertos: La lubina y tú",
                 ["Taiwanese"] = "中級釣魚教材 - 鲈魚與你",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 10000,

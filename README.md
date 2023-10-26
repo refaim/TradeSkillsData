@@ -7,6 +7,9 @@ Used in [MissingTradeSkillsList](https://github.com/refaim/MissingTradeSkillsLis
 
 ## Version History
 
+### v1.2 (Oct 26, 2023)
+* Remove Classic WoW content phases support
+
 ### v1.1.4 (Oct 26, 2023)
 * Add some more NPCs
 

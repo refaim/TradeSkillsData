@@ -18,7 +18,6 @@ TRADE_SKILLS_DATA["objects"] =
                 ["Spanish"] = "Cáliz espectral",
                 ["Taiwanese"] = "鬼靈之杯",
             },
-            ["phase"] = 1,
             ["zone_id"] = 1584,
         },
         {
@@ -39,7 +38,6 @@ TRADE_SKILLS_DATA["objects"] =
                 ["Spanish"] = "Diseños de herrería",
                 ["Taiwanese"] = "鍛造設計圖",
             },
-            ["phase"] = 1,
             ["zone_id"] = 1584,
         },
         {
@@ -60,7 +58,6 @@ TRADE_SKILLS_DATA["objects"] =
                 ["Spanish"] = "Diseños de herrería",
                 ["Taiwanese"] = "鍛造設計圖",
             },
-            ["phase"] = 1,
             ["zone_id"] = 1584,
         },
         {
@@ -81,7 +78,6 @@ TRADE_SKILLS_DATA["objects"] =
                 ["Spanish"] = "Diseños de herrería",
                 ["Taiwanese"] = "鍛造設計圖",
             },
-            ["phase"] = 1,
             ["zone_id"] = 2017,
         },
         {
@@ -102,7 +98,6 @@ TRADE_SKILLS_DATA["objects"] =
                 ["Spanish"] = "Diseños de herrería",
                 ["Taiwanese"] = "鍛造設計圖",
             },
-            ["phase"] = 1,
             ["zone_id"] = 2017,
         },
         {
@@ -123,7 +118,6 @@ TRADE_SKILLS_DATA["objects"] =
                 ["Spanish"] = "Alijo de Knot Thimblejack",
                 ["Taiwanese"] = "諾特·希姆加克的儲物箱",
             },
-            ["phase"] = 1,
             ["zone_id"] = 2557,
         },
         {
@@ -144,7 +138,6 @@ TRADE_SKILLS_DATA["objects"] =
                 ["Spanish"] = "Tablilla de Locura",
                 ["Taiwanese"] = "瘋狂石碑",
             },
-            ["phase"] = 1,
             ["zone_id"] = 1977,
         },
         {
@@ -165,7 +158,6 @@ TRADE_SKILLS_DATA["objects"] =
                 ["Spanish"] = "Libro de cocina de arenoso",
                 ["Taiwanese"] = "滿布沙塵的烹飪書",
             },
-            ["phase"] = 5,
             ["zone_id"] = 1377,
         },
         {
@@ -186,7 +178,6 @@ TRADE_SKILLS_DATA["objects"] =
                 ["Spanish"] = "Diario de Jandice Barov",
                 ["Taiwanese"] = "詹迪斯·巴羅夫的日記",
             },
-            ["phase"] = 1,
             ["zone_id"] = 2057,
         },
     }

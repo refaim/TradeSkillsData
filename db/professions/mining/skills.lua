@@ -15,7 +15,6 @@ TRADE_SKILLS_DATA["skills"]["Mining"] =
                 ["Spanish"] = "Cobre fundido",
                 ["Taiwanese"] = "熔煉銅錠",
             },
-            ["phase"] = 1,
             ["special_action"] = "auto learned",
         },
         {
@@ -33,7 +32,6 @@ TRADE_SKILLS_DATA["skills"]["Mining"] =
                 ["Spanish"] = "Palata fundida",
                 ["Taiwanese"] = "熔煉銀錠",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 200,
                 ["sources"] = {
@@ -68,7 +66,6 @@ TRADE_SKILLS_DATA["skills"]["Mining"] =
                 ["Spanish"] = "Bronce fundido",
                 ["Taiwanese"] = "熔煉青銅",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 200,
                 ["sources"] = {
@@ -103,7 +100,6 @@ TRADE_SKILLS_DATA["skills"]["Mining"] =
                 ["Spanish"] = "Chapa fundida",
                 ["Taiwanese"] = "熔煉錫錠",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 50,
                 ["sources"] = {
@@ -138,7 +134,6 @@ TRADE_SKILLS_DATA["skills"]["Mining"] =
                 ["Spanish"] = "Hierro fundido",
                 ["Taiwanese"] = "熔煉鐵錠",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 500,
                 ["sources"] = {
@@ -173,7 +168,6 @@ TRADE_SKILLS_DATA["skills"]["Mining"] =
                 ["Spanish"] = "Oro fundido",
                 ["Taiwanese"] = "熔煉金錠",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 2500,
                 ["sources"] = {
@@ -208,7 +202,6 @@ TRADE_SKILLS_DATA["skills"]["Mining"] =
                 ["Spanish"] = "Acero fundido",
                 ["Taiwanese"] = "熔煉鋼錠",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 2500,
                 ["sources"] = {
@@ -243,7 +236,6 @@ TRADE_SKILLS_DATA["skills"]["Mining"] =
                 ["Spanish"] = "Mitril fundido",
                 ["Taiwanese"] = "熔煉祕銀",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 5000,
                 ["sources"] = {
@@ -278,7 +270,6 @@ TRADE_SKILLS_DATA["skills"]["Mining"] =
                 ["Spanish"] = "Veraplata fundida",
                 ["Taiwanese"] = "熔煉真銀",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 10000,
                 ["sources"] = {
@@ -313,7 +304,6 @@ TRADE_SKILLS_DATA["skills"]["Mining"] =
                 ["Spanish"] = "Hierro negro fundido",
                 ["Taiwanese"] = "熔煉黑鐵",
             },
-            ["phase"] = 1,
             ["quests"] = {
                 4083,
             },
@@ -334,7 +324,6 @@ TRADE_SKILLS_DATA["skills"]["Mining"] =
                 ["Spanish"] = "Torio fundido",
                 ["Taiwanese"] = "熔煉瑟銀",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 20000,
                 ["sources"] = {
@@ -369,7 +358,6 @@ TRADE_SKILLS_DATA["skills"]["Mining"] =
                 ["Spanish"] = "Elementium fundido",
                 ["Taiwanese"] = "熔煉源質",
             },
-            ["phase"] = 3,
             ["special_action"] = "talk to Kirix",
             ["trainers"] = {
                 ["price"] = 0,

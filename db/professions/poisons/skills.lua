@@ -16,7 +16,6 @@ TRADE_SKILLS_DATA["skills"]["Poisons"] =
                 ["Spanish"] = "Veneno mortal",
                 ["Taiwanese"] = "致命毒藥",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 10000,
                 ["sources"] = {
@@ -60,7 +59,6 @@ TRADE_SKILLS_DATA["skills"]["Poisons"] =
                 ["Spanish"] = "Veneno mortal II",
                 ["Taiwanese"] = "致命毒藥 II",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 18000,
                 ["sources"] = {
@@ -104,7 +102,6 @@ TRADE_SKILLS_DATA["skills"]["Poisons"] =
                 ["Spanish"] = "Veneno paralizante",
                 ["Taiwanese"] = "致殘毒藥",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3000,
                 ["sources"] = {
@@ -148,7 +145,6 @@ TRADE_SKILLS_DATA["skills"]["Poisons"] =
                 ["Spanish"] = "Veneno paralizante II",
                 ["Taiwanese"] = "致殘毒藥 II",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 35000,
                 ["sources"] = {
@@ -192,7 +188,6 @@ TRADE_SKILLS_DATA["skills"]["Poisons"] =
                 ["Spanish"] = "Veneno de aturdimiento mental",
                 ["Taiwanese"] = "麻痹毒藥",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 5000,
                 ["sources"] = {
@@ -236,7 +231,6 @@ TRADE_SKILLS_DATA["skills"]["Poisons"] =
                 ["Spanish"] = "Polvo cegador",
                 ["Taiwanese"] = "致盲粉",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 14000,
                 ["sources"] = {
@@ -280,7 +274,6 @@ TRADE_SKILLS_DATA["skills"]["Poisons"] =
                 ["Spanish"] = "Veneno instantáneo",
                 ["Taiwanese"] = "速效毒藥",
             },
-            ["phase"] = 1,
             ["special_action"] = "auto learned",
         },
         {
@@ -299,7 +292,6 @@ TRADE_SKILLS_DATA["skills"]["Poisons"] =
                 ["Spanish"] = "Veneno instantáneo III",
                 ["Taiwanese"] = "速效毒藥 II",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 8000,
                 ["sources"] = {
@@ -343,7 +335,6 @@ TRADE_SKILLS_DATA["skills"]["Poisons"] =
                 ["Spanish"] = "Veneno instantáneo III",
                 ["Taiwanese"] = "速效毒藥 III",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 16000,
                 ["sources"] = {
@@ -387,7 +378,6 @@ TRADE_SKILLS_DATA["skills"]["Poisons"] =
                 ["Spanish"] = "Veneno de aturdimiento mental II",
                 ["Taiwanese"] = "麻痹毒藥 II",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 18000,
                 ["sources"] = {
@@ -431,7 +421,6 @@ TRADE_SKILLS_DATA["skills"]["Poisons"] =
                 ["Spanish"] = "Veneno instantáneo IV",
                 ["Taiwanese"] = "速效毒藥 IV",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 29000,
                 ["sources"] = {
@@ -475,7 +464,6 @@ TRADE_SKILLS_DATA["skills"]["Poisons"] =
                 ["Spanish"] = "Veneno instantáneo V",
                 ["Taiwanese"] = "速效毒藥 V",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 46000,
                 ["sources"] = {
@@ -519,7 +507,6 @@ TRADE_SKILLS_DATA["skills"]["Poisons"] =
                 ["Spanish"] = "Veneno instantáneo VI",
                 ["Taiwanese"] = "速效毒藥 VI",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 54000,
                 ["sources"] = {
@@ -563,7 +550,6 @@ TRADE_SKILLS_DATA["skills"]["Poisons"] =
                 ["Spanish"] = "Veneno mortal III",
                 ["Taiwanese"] = "致命毒藥 III",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 31000,
                 ["sources"] = {
@@ -607,7 +593,6 @@ TRADE_SKILLS_DATA["skills"]["Poisons"] =
                 ["Spanish"] = "Veneno mortal IV",
                 ["Taiwanese"] = "致命毒藥 IV",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 48000,
                 ["sources"] = {
@@ -651,7 +636,6 @@ TRADE_SKILLS_DATA["skills"]["Poisons"] =
                 ["Spanish"] = "Veneno de aturdimiento mental III",
                 ["Taiwanese"] = "麻痹毒藥 III",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 46000,
                 ["sources"] = {
@@ -695,7 +679,6 @@ TRADE_SKILLS_DATA["skills"]["Poisons"] =
                 ["Spanish"] = "Envenenar herida",
                 ["Taiwanese"] = "致傷毒藥",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 12000,
                 ["sources"] = {
@@ -739,7 +722,6 @@ TRADE_SKILLS_DATA["skills"]["Poisons"] =
                 ["Spanish"] = "Envenenar herida II",
                 ["Taiwanese"] = "致傷毒藥 II",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 20000,
                 ["sources"] = {
@@ -783,7 +765,6 @@ TRADE_SKILLS_DATA["skills"]["Poisons"] =
                 ["Spanish"] = "Envenenar herida III",
                 ["Taiwanese"] = "致傷毒藥 III",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 33000,
                 ["sources"] = {
@@ -827,7 +808,6 @@ TRADE_SKILLS_DATA["skills"]["Poisons"] =
                 ["Spanish"] = "Envenenar herida IV",
                 ["Taiwanese"] = "致傷毒藥 IV",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 50000,
                 ["sources"] = {
@@ -874,6 +854,5 @@ TRADE_SKILLS_DATA["skills"]["Poisons"] =
                 ["Spanish"] = "Veneno mortal V",
                 ["Taiwanese"] = "致命毒藥 V",
             },
-            ["phase"] = 5,
         },
     }

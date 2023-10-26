@@ -15,7 +15,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar brazal: salud menor",
                 ["Taiwanese"] = "附魔護腕 - 初級生命",
             },
-            ["phase"] = 1,
             ["special_action"] = "auto learned",
         },
         {
@@ -33,7 +32,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar pechera: salud menor",
                 ["Taiwanese"] = "附魔胸甲 - 初級生命",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 50,
                 ["sources"] = {
@@ -73,7 +71,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Vara de cobre rúnico",
                 ["Taiwanese"] = "符文銅棒",
             },
-            ["phase"] = 1,
             ["special_action"] = "auto learned",
         },
         {
@@ -91,7 +88,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar pechera: absorción menor",
                 ["Taiwanese"] = "附魔胸甲 - 初級吸收",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 100,
                 ["sources"] = {
@@ -131,7 +127,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar brazal: desvío menor",
                 ["Taiwanese"] = "附魔護腕 - 初級偏斜",
             },
-            ["phase"] = 1,
             ["special_action"] = "auto learned",
         },
         {
@@ -152,7 +147,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar pechera: maná menor",
                 ["Taiwanese"] = "附魔胸甲 - 初級法力",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7454,
@@ -169,7 +163,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar capa: resistencia menor",
                 ["Taiwanese"] = "附魔披風 - 初級抗性",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 100,
                 ["sources"] = {
@@ -209,7 +202,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar brazal: aguante menor",
                 ["Taiwanese"] = "附魔護腕 - 初級耐力",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 250,
                 ["sources"] = {
@@ -249,7 +241,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar arma 2M: impacto menor",
                 ["Taiwanese"] = "附魔雙手武器 - 初級衝擊",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 500,
                 ["sources"] = {
@@ -281,7 +272,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar pechera: salud inferior",
                 ["Taiwanese"] = "附魔胸甲 - 次級生命",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 250,
                 ["sources"] = {
@@ -324,7 +314,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar brazal: espíritu menor",
                 ["Taiwanese"] = "附魔護腕 - 初級精神",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7771,
@@ -341,7 +330,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar capa: protección menor",
                 ["Taiwanese"] = "附魔披風 - 初級防護",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 200,
                 ["sources"] = {
@@ -384,7 +372,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar pechera: maná inferior",
                 ["Taiwanese"] = "附魔胸甲 - 次級法力",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7779,
@@ -401,7 +388,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar brazal: agilidad menor",
                 ["Taiwanese"] = "附魔護腕 - 初級敏捷",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 400,
                 ["sources"] = {
@@ -436,7 +422,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar brazal: fuerza menor",
                 ["Taiwanese"] = "附魔護腕 - 初級力量",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7786,
@@ -456,7 +441,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar arma: bestiacida menor",
                 ["Taiwanese"] = "附魔武器 - 初級屠獸",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7788,
@@ -473,7 +457,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar arma: golpear menor",
                 ["Taiwanese"] = "附魔武器 - 初級攻擊",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 500,
                 ["sources"] = {
@@ -508,7 +491,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar arma 2M: intelecto inferior",
                 ["Taiwanese"] = "附魔雙手武器 - 次級智力",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7795,
@@ -525,7 +507,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Vara rúnica plateada",
                 ["Taiwanese"] = "符文銀棒",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1000,
                 ["sources"] = {
@@ -557,7 +538,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar pechera: salud",
                 ["Taiwanese"] = "附魔胸甲 - 生命",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1000,
                 ["sources"] = {
@@ -592,7 +572,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar brazal: espíritu inferior",
                 ["Taiwanese"] = "附魔護腕 - 次級精神",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7861,
@@ -609,7 +588,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar capa: resistencia al Fuego inferior",
                 ["Taiwanese"] = "附魔披風 - 次級火焰抗性",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1250,
                 ["sources"] = {
@@ -641,7 +619,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar botas: aguante menor",
                 ["Taiwanese"] = "附魔靴子 - 初級耐力",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1400,
                 ["sources"] = {
@@ -676,7 +653,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar botas: agilidad menor",
                 ["Taiwanese"] = "附魔靴子 - 初級敏捷",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 13378,
@@ -693,7 +669,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar escudo: aguante menor",
                 ["Taiwanese"] = "附魔盾牌 - 初級耐力",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 600,
                 ["sources"] = {
@@ -728,7 +703,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar arma 2M: espíritu inferior",
                 ["Taiwanese"] = "附魔雙手武器 - 次級精神",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 13419,
@@ -748,7 +722,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar capa: agilidad menor",
                 ["Taiwanese"] = "附魔披風 - 初級敏捷",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 13421,
@@ -765,7 +738,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar capa: protección inferior",
                 ["Taiwanese"] = "附魔披風 - 次級防護",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 800,
                 ["sources"] = {
@@ -800,7 +772,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar escudo: protección inferior",
                 ["Taiwanese"] = "附魔盾牌 - 次級防護",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 13485,
@@ -817,7 +788,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar escudo: espíritu inferior",
                 ["Taiwanese"] = "附魔盾牌 - 次級精神",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1500,
                 ["sources"] = {
@@ -849,7 +819,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar brazal: aguante inferior",
                 ["Taiwanese"] = "附魔護腕 - 次級耐力",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 1500,
                 ["sources"] = {
@@ -881,7 +850,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar arma: golpear inferior",
                 ["Taiwanese"] = "附魔武器 - 次級攻擊",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 2000,
                 ["sources"] = {
@@ -916,7 +884,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar capa: resistencia a las sombras inferior",
                 ["Taiwanese"] = "附魔披風 - 次級暗影抵抗",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 13529,
@@ -933,7 +900,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar arma 2M: impacto inferior",
                 ["Taiwanese"] = "附魔雙手武器 - 次級衝擊",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 2400,
                 ["sources"] = {
@@ -968,7 +934,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar brazal: fuerza inferior",
                 ["Taiwanese"] = "附魔護腕 - 次級力量",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 13538,
@@ -985,7 +950,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar pechera: absorción inferior",
                 ["Taiwanese"] = "附魔胸甲 - 次級吸收",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 2500,
                 ["sources"] = {
@@ -1017,7 +981,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar pechera: maná",
                 ["Taiwanese"] = "附魔胸甲 - 法力",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 2400,
                 ["sources"] = {
@@ -1052,7 +1015,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar guantes: minería",
                 ["Taiwanese"] = "附魔手套 - 採礦",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 13617,
@@ -1072,7 +1034,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar guantes: herboristería",
                 ["Taiwanese"] = "附魔手套 - 草藥學",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 13620,
@@ -1092,7 +1053,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar guantes: pesca",
                 ["Taiwanese"] = "附魔手套 - 釣魚",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 13622,
@@ -1109,7 +1069,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar brazal: intelecto inferior",
                 ["Taiwanese"] = "附魔護腕 - 次級智力",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 2500,
                 ["sources"] = {
@@ -1141,7 +1100,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar pechera: estadísticas menores",
                 ["Taiwanese"] = "附魔胸甲 - 初級屬性",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 2500,
                 ["sources"] = {
@@ -1173,7 +1131,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Vara rúnica dorada",
                 ["Taiwanese"] = "符文金棒",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 2500,
                 ["sources"] = {
@@ -1205,7 +1162,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar escudo: aguante inferior",
                 ["Taiwanese"] = "附魔盾牌 - 次級耐力",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 2600,
                 ["sources"] = {
@@ -1230,7 +1186,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar capa: defensa",
                 ["Taiwanese"] = "附魔披風 - 防禦",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 2600,
                 ["sources"] = {
@@ -1255,7 +1210,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar botas: agilidad inferior",
                 ["Taiwanese"] = "附魔靴子 - 次級敏捷",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 2800,
                 ["sources"] = {
@@ -1280,7 +1234,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar pechera: salud superior",
                 ["Taiwanese"] = "附魔胸甲 - 強效生命",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 2800,
                 ["sources"] = {
@@ -1305,7 +1258,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar brazal: espíritu",
                 ["Taiwanese"] = "附魔護腕 - 精神",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 2800,
                 ["sources"] = {
@@ -1330,7 +1282,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar botas: aguante inferior",
                 ["Taiwanese"] = "附魔靴子 - 次級耐力",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 2800,
                 ["sources"] = {
@@ -1358,7 +1309,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar brazal: desvío inferior",
                 ["Taiwanese"] = "附魔護腕 - 次級偏斜",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 13648,
@@ -1375,7 +1325,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar brazal: aguante",
                 ["Taiwanese"] = "附魔護腕 - 耐力",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 2800,
                 ["sources"] = {
@@ -1403,7 +1352,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar arma: bestiacida inferior",
                 ["Taiwanese"] = "附魔武器 - 次級屠獸",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 13655,
@@ -1423,7 +1371,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar arma: mataelementales inferior",
                 ["Taiwanese"] = "附魔武器 - 次級元素殺手",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 13657,
@@ -1440,7 +1387,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar capa: resistencia al Fuego",
                 ["Taiwanese"] = "附魔披風 - 火焰抗性",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3000,
                 ["sources"] = {
@@ -1465,7 +1411,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar escudo: espíritu",
                 ["Taiwanese"] = "附魔盾牌 - 精神",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3200,
                 ["sources"] = {
@@ -1490,7 +1435,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar brazal: fuerza",
                 ["Taiwanese"] = "附魔護腕 - 力量",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3600,
                 ["sources"] = {
@@ -1515,7 +1459,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar pechera: maná superior",
                 ["Taiwanese"] = "附魔胸甲 - 強效法力",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3800,
                 ["sources"] = {
@@ -1543,7 +1486,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar botas: espíritu inferior",
                 ["Taiwanese"] = "附魔靴子 - 次級精神",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 13689,
@@ -1563,7 +1505,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar escudo: bloqueo inferior",
                 ["Taiwanese"] = "附魔盾牌 - 次級格擋",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 13693,
@@ -1580,7 +1521,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar arma: golpear",
                 ["Taiwanese"] = "附魔武器 - 攻擊",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 4000,
                 ["sources"] = {
@@ -1605,7 +1545,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar arma 2M: impacto",
                 ["Taiwanese"] = "附魔雙手武器 - 衝擊",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 4000,
                 ["sources"] = {
@@ -1633,7 +1572,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar guantes: desuello",
                 ["Taiwanese"] = "附魔手套 - 剝皮",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 13700,
@@ -1650,7 +1588,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar pechera: estadísticas inferiores",
                 ["Taiwanese"] = "附魔胸甲 - 次級狀態",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 4000,
                 ["sources"] = {
@@ -1675,7 +1612,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Vara rúnica de veraplata",
                 ["Taiwanese"] = "符文真銀棒",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 4000,
                 ["sources"] = {
@@ -1700,7 +1636,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar capa: defensa superior",
                 ["Taiwanese"] = "附魔披風 - 強效防禦",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 4200,
                 ["sources"] = {
@@ -1725,7 +1660,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar capa: resistencia",
                 ["Taiwanese"] = "附魔披風 - 抗性",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 4200,
                 ["sources"] = {
@@ -1750,7 +1684,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar guantes: agilidad",
                 ["Taiwanese"] = "附魔手套 - 敏捷",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 4400,
                 ["sources"] = {
@@ -1778,7 +1711,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar escudo: aguante",
                 ["Taiwanese"] = "附魔盾牌 - 耐力",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 13822,
@@ -1795,7 +1727,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar brazal: intelecto",
                 ["Taiwanese"] = "附魔護腕 - 智力",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 4400,
                 ["sources"] = {
@@ -1820,7 +1751,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar botas: aguante",
                 ["Taiwanese"] = "附魔靴子 - 耐力",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 4600,
                 ["sources"] = {
@@ -1848,7 +1778,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar guantes: minería avanzada",
                 ["Taiwanese"] = "附魔手套 - 高級採礦",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 13846,
@@ -1868,7 +1797,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar brazal: espíritu superior",
                 ["Taiwanese"] = "附魔護腕 - 強效精神",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 13858,
@@ -1885,7 +1813,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar pechera: salud excelente",
                 ["Taiwanese"] = "附魔胸甲 - 超強生命",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 4800,
                 ["sources"] = {
@@ -1913,7 +1840,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar guantes: herboristería avanzada",
                 ["Taiwanese"] = "附魔手套 - 高級草藥學",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 13882,
@@ -1933,7 +1859,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar capa: agilidad inferior",
                 ["Taiwanese"] = "附魔披風 - 次級敏捷",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 13887,
@@ -1950,7 +1875,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar guantes: fuerza",
                 ["Taiwanese"] = "附魔手套 - 力量",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 5000,
                 ["sources"] = {
@@ -1975,7 +1899,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar botas: velocidad menor",
                 ["Taiwanese"] = "附魔靴子 - 初級速度",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 5000,
                 ["sources"] = {
@@ -2003,7 +1926,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar arma: arma abrasadora",
                 ["Taiwanese"] = "附魔武器 - 灼熱武器",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 13905,
@@ -2020,7 +1942,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar escudo: espíritu superior",
                 ["Taiwanese"] = "附魔盾牌 - 強效精神",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 5400,
                 ["sources"] = {
@@ -2046,7 +1967,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar arma: matanza de demonios",
                 ["Taiwanese"] = "附魔武器 - 屠魔",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 13917,
@@ -2063,7 +1983,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar pechera: maná superior",
                 ["Taiwanese"] = "附魔胸甲 - 超強法力",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 5400,
                 ["sources"] = {
@@ -2089,7 +2008,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar brazal: desvío",
                 ["Taiwanese"] = "附魔護腕 - 偏斜",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 13933,
@@ -2109,7 +2027,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar escudo: resistencia a la Escarcha",
                 ["Taiwanese"] = "附魔盾牌 - 冰霜抗性",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 13935,
@@ -2126,7 +2043,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar botas: agilidad",
                 ["Taiwanese"] = "附魔靴子 - 敏捷",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 5800,
                 ["sources"] = {
@@ -2149,7 +2065,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar arma 2M: impacto superior",
                 ["Taiwanese"] = "附魔雙手武器 - 強效衝擊",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 6200,
                 ["sources"] = {
@@ -2172,7 +2087,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar brazal: fuerza superior",
                 ["Taiwanese"] = "附魔護腕 - 強效力量",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 6200,
                 ["sources"] = {
@@ -2195,7 +2109,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar pechera: estadísticas",
                 ["Taiwanese"] = "附魔胸甲 - 狀態",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 6200,
                 ["sources"] = {
@@ -2218,7 +2131,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar arma: golpear superior",
                 ["Taiwanese"] = "附魔武器 - 強效攻擊",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 6200,
                 ["sources"] = {
@@ -2244,7 +2156,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar brazal: aguante superior",
                 ["Taiwanese"] = "附魔護腕 - 強效耐力",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 13947,
@@ -2264,7 +2175,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar guantes: equitación",
                 ["Taiwanese"] = "附魔手套 - 騎乘",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 13948,
@@ -2281,7 +2191,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar guantes: velocidad menor",
                 ["Taiwanese"] = "附魔手套 - 初級加速",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 6500,
                 ["sources"] = {
@@ -2304,7 +2213,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Varita mágica inferior",
                 ["Taiwanese"] = "次級魔法杖",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 50,
                 ["sources"] = {
@@ -2344,7 +2252,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Varita mágica superior",
                 ["Taiwanese"] = "強效魔法杖",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 200,
                 ["sources"] = {
@@ -2384,7 +2291,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Varita mística inferior",
                 ["Taiwanese"] = "次級秘法魔杖",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 2600,
                 ["sources"] = {
@@ -2409,7 +2315,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Varita mística superior",
                 ["Taiwanese"] = "強效秘法杖",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 3000,
                 ["sources"] = {
@@ -2437,7 +2342,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Corazón fumeante de la montaña",
                 ["Taiwanese"] = "濃煙山脈之心",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 17180,
@@ -2454,7 +2358,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Torio encantado",
                 ["Taiwanese"] = "魔化瑟銀",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 10000,
                 ["sources"] = {
@@ -2477,7 +2380,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Cuero encantado",
                 ["Taiwanese"] = "魔化皮",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 10000,
                 ["sources"] = {
@@ -2503,7 +2405,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar brazal: intelecto superior",
                 ["Taiwanese"] = "附魔護腕 - 強效智力",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 20009,
@@ -2523,7 +2424,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar brazal: espíritu excelente",
                 ["Taiwanese"] = "附魔護腕 - 超強精神",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 20010,
@@ -2543,7 +2443,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar brazal: fuerza excelente",
                 ["Taiwanese"] = "附魔護腕 - 超強力量",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 20011,
@@ -2563,7 +2462,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar brazal: aguante excelente",
                 ["Taiwanese"] = "附魔護腕 - 超強耐力",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 20012,
@@ -2583,7 +2481,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar guantes: agilidad superior",
                 ["Taiwanese"] = "附魔手套 - 強效敏捷",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 20013,
@@ -2603,7 +2500,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar guantes: fuerza superior",
                 ["Taiwanese"] = "附魔手套 - 強效力量",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 20014,
@@ -2623,7 +2519,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar capa: resistencia superior",
                 ["Taiwanese"] = "附魔披風 - 強效抗性",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 20015,
@@ -2643,7 +2538,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar capa: defensa excelente",
                 ["Taiwanese"] = "附魔披風 - 超級防禦",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 20016,
@@ -2663,7 +2557,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar escudo: espíritu excelente",
                 ["Taiwanese"] = "附魔盾牌 - 超強精神",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 20017,
@@ -2683,7 +2576,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar escudo: aguante superior",
                 ["Taiwanese"] = "附魔盾牌 - 強效耐力",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 20020,
@@ -2703,7 +2595,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar botas: aguante superior",
                 ["Taiwanese"] = "附魔靴子 - 強效耐力",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 20023,
@@ -2723,7 +2614,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar botas: agilidad superior",
                 ["Taiwanese"] = "附魔靴子 - 強效敏捷",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 20024,
@@ -2743,7 +2633,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar botas: espíritu",
                 ["Taiwanese"] = "附魔靴子 - 精神",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 20025,
@@ -2763,7 +2652,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar pechera: estadísticas superiores",
                 ["Taiwanese"] = "附魔胸甲 - 強效屬性",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 20026,
@@ -2783,7 +2671,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar pechera: salud sublime",
                 ["Taiwanese"] = "附魔胸甲 - 極效生命",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 20028,
@@ -2803,7 +2690,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar pechera: maná sublime",
                 ["Taiwanese"] = "附魔胸甲 - 極效法力",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 20029,
@@ -2823,7 +2709,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar arma: escalofrío gélido",
                 ["Taiwanese"] = "附魔武器 - 冰寒",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 20030,
@@ -2843,7 +2728,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar arma 2M: impacto excelente",
                 ["Taiwanese"] = "附魔雙手武器 - 超強衝擊",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 20031,
@@ -2863,7 +2747,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar arma: golpear excelente",
                 ["Taiwanese"] = "附魔武器 - 超強打擊",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 20032,
@@ -2883,7 +2766,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar arma: robo de vida",
                 ["Taiwanese"] = "附魔武器 - 生命偷取",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 20033,
@@ -2903,7 +2785,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar arma: arma profana",
                 ["Taiwanese"] = "附魔武器 - 邪惡武器",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 20034,
@@ -2923,7 +2804,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar arma: cruzado",
                 ["Taiwanese"] = "附魔武器 - 十字軍",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 20035,
@@ -2943,7 +2823,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar arma 2M: espíritu sublime",
                 ["Taiwanese"] = "附魔雙手武器 - 極效精神",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 20036,
@@ -2963,7 +2842,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar arma 2M: intelecto sublime",
                 ["Taiwanese"] = "附魔雙手武器 - 極效智力",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 20051,
@@ -2983,7 +2861,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Vara de arcanita rúnica",
                 ["Taiwanese"] = "符文奧金棒",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 21931,
@@ -3003,7 +2880,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar arma: poderío del invierno",
                 ["Taiwanese"] = "附魔武器 - 寒冬之力",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 22749,
@@ -3023,7 +2899,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar arma: poder de hechizo",
                 ["Taiwanese"] = "附魔武器 - 法術能量",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 22750,
@@ -3043,7 +2918,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar arma: poder de curación",
                 ["Taiwanese"] = "附魔武器 - 治療能量",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 23799,
@@ -3063,7 +2937,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar arma: fuerza",
                 ["Taiwanese"] = "附魔武器 - 力量",
             },
-            ["phase"] = 3,
         },
         {
             ["id"] = 23800,
@@ -3083,7 +2956,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar arma: agilidad",
                 ["Taiwanese"] = "附魔武器 - 敏捷",
             },
-            ["phase"] = 3,
         },
         {
             ["id"] = 23801,
@@ -3103,7 +2975,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar brazal: regeneración de maná",
                 ["Taiwanese"] = "附魔護腕 - 法力回復",
             },
-            ["phase"] = 3,
         },
         {
             ["id"] = 23802,
@@ -3123,7 +2994,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar brazal: poder de curación",
                 ["Taiwanese"] = "附魔護腕 - 治療能力",
             },
-            ["phase"] = 3,
         },
         {
             ["id"] = 23803,
@@ -3143,7 +3013,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar arma: espíritu poderoso",
                 ["Taiwanese"] = "附魔武器 - 強效精神",
             },
-            ["phase"] = 3,
         },
         {
             ["id"] = 23804,
@@ -3163,7 +3032,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar arma: intelecto poderoso",
                 ["Taiwanese"] = "附魔武器 - 強效智力",
             },
-            ["phase"] = 3,
         },
         {
             ["id"] = 25072,
@@ -3183,7 +3051,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar guantes: amenaza",
                 ["Taiwanese"] = "附魔手套 - 威脅",
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 25073,
@@ -3203,7 +3070,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar guantes: poder de las Sombras",
                 ["Taiwanese"] = "附魔手套 - 暗影能量",
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 25074,
@@ -3223,7 +3089,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar guantes: poder de Escarcha",
                 ["Taiwanese"] = "附魔手套 - 冰霜能量",
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 25078,
@@ -3243,7 +3108,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar guantes: poder de Fuego",
                 ["Taiwanese"] = "附魔手套 - 火焰能量",
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 25079,
@@ -3263,7 +3127,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar guantes: poder de curación",
                 ["Taiwanese"] = "附魔手套 - 治療能量",
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 25080,
@@ -3283,7 +3146,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar guantes: agilidad excelente",
                 ["Taiwanese"] = "附魔手套 - 超強敏捷",
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 25081,
@@ -3303,7 +3165,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar capa: resistencia al Fuego superior",
                 ["Taiwanese"] = "附魔披風 - 強效火焰抗性",
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 25082,
@@ -3323,7 +3184,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar capa: resistencia a la naturaleza superior",
                 ["Taiwanese"] = "附魔披風 - 強效自然抗性",
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 25083,
@@ -3343,7 +3203,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar capa: sigilo",
                 ["Taiwanese"] = "附魔披風 - 潛行",
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 25084,
@@ -3363,7 +3222,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar capa: sutileza",
                 ["Taiwanese"] = "附魔披風 - 狡詐",
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 25086,
@@ -3383,7 +3241,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar capa: esquivar",
                 ["Taiwanese"] = "附魔披風 - 躲閃",
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 25124,
@@ -3403,7 +3260,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Aceite menor de zahorí",
                 ["Taiwanese"] = "初級巫師之油",
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 25125,
@@ -3423,7 +3279,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Aceite menor de maná",
                 ["Taiwanese"] = "初級法力之油",
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 25126,
@@ -3443,7 +3298,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Aceite inferior de zahorí",
                 ["Taiwanese"] = "次級巫師之油",
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 25127,
@@ -3463,7 +3317,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Aceite inferior de maná",
                 ["Taiwanese"] = "次級法力之油",
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 25128,
@@ -3483,7 +3336,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Aceite de zahorí",
                 ["Taiwanese"] = "巫師之油",
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 25129,
@@ -3503,7 +3355,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Aceite brillante de zahorí",
                 ["Taiwanese"] = "卓越巫師之油",
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 25130,
@@ -3523,7 +3374,6 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Aceite de maná resplandeciente",
                 ["Taiwanese"] = "卓越法力之油",
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 27837,
@@ -3543,6 +3393,5 @@ TRADE_SKILLS_DATA["skills"]["Enchanting"] =
                 ["Spanish"] = "Encantar arma 2M: agilidad",
                 ["Taiwanese"] = "附魔雙手武器 - 敏捷",
             },
-            ["phase"] = 5,
         },
     }

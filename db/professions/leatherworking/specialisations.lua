@@ -15,7 +15,6 @@ TRADE_SKILLS_DATA["specialisations"]["Leatherworking"] =
                 ["Spanish"] = "Peletería dragontina",
                 ["Taiwanese"] = "龍鱗製皮",
             },
-            ["phase"] = 1,
             ["quests"] = {
                 5141,
             },
@@ -35,7 +34,6 @@ TRADE_SKILLS_DATA["specialisations"]["Leatherworking"] =
                 ["Spanish"] = "Peletería elemental",
                 ["Taiwanese"] = "元素製皮",
             },
-            ["phase"] = 1,
             ["quests"] = {
                 5144,
             },
@@ -55,7 +53,6 @@ TRADE_SKILLS_DATA["specialisations"]["Leatherworking"] =
                 ["Spanish"] = "Peletería tribal",
                 ["Taiwanese"] = "部族製皮",
             },
-            ["phase"] = 1,
             ["quests"] = {
                 5143,
             },

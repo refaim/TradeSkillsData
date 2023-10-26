@@ -15,7 +15,6 @@ TRADE_SKILLS_DATA["specialisations"]["Blacksmithing"] =
                 ["Spanish"] = "Forjador de armas",
                 ["Taiwanese"] = "護甲鍛造師",
             },
-            ["phase"] = 1,
             ["quests"] = {
                 5284,
             },
@@ -35,7 +34,6 @@ TRADE_SKILLS_DATA["specialisations"]["Blacksmithing"] =
                 ["Spanish"] = "Forjador de armaduras",
                 ["Taiwanese"] = "武器鑄造",
             },
-            ["phase"] = 1,
             ["quests"] = {
                 5283,
             },
@@ -55,7 +53,6 @@ TRADE_SKILLS_DATA["specialisations"]["Blacksmithing"] =
                 ["Spanish"] = "Maestro invocador",
                 ["Taiwanese"] = "鑄劍大師",
             },
-            ["phase"] = 1,
             ["quests"] = {
                 5307,
             },
@@ -76,7 +73,6 @@ TRADE_SKILLS_DATA["specialisations"]["Blacksmithing"] =
                 ["Spanish"] = "Maestro forjador de martillos",
                 ["Taiwanese"] = "鑄錘大師",
             },
-            ["phase"] = 1,
             ["quests"] = {
                 5305,
             },
@@ -97,7 +93,6 @@ TRADE_SKILLS_DATA["specialisations"]["Blacksmithing"] =
                 ["Spanish"] = "Maestro forjador de hachas",
                 ["Taiwanese"] = "鑄斧大師",
             },
-            ["phase"] = 1,
             ["quests"] = {
                 5306,
             },

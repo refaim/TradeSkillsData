@@ -25,7 +25,7 @@ def do(npc_id):
     assert match is not None
     npc_data = match.groupdict()
 
-    template = r'{["id"] = %d, ["name"] = {["English"] = "%s"}, ["phase"] = 1, ["reacts"] = "Hostile", ["xp_level"] = {["is_elite"] = 1, ["max"] = %d, ["min"] = %d}, ["zone_id"] = %d},'  # noqa: E501
+    template = r'{["id"] = %d, ["name"] = {["English"] = "%s"}, ["reacts"] = "Hostile", ["xp_level"] = {["is_elite"] = 1, ["max"] = %d, ["min"] = %d}, ["zone_id"] = %d},'  # noqa: E501
 
     zone = npc_data['zone']
     zone_name_to_id = load_zones()

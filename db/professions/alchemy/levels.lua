@@ -17,7 +17,6 @@ TRADE_SKILLS_DATA["levels"]["Alchemy"] =
                 ["Spanish"] = "Alquimia (Aprendiz)",
                 ["Taiwanese"] = "煉金術 (學徒)",
             },
-            ["phase"] = 1,
             ["rank"] = 1,
             ["trainers"] = {
                 ["price"] = 10,
@@ -53,7 +52,6 @@ TRADE_SKILLS_DATA["levels"]["Alchemy"] =
                 ["Spanish"] = "Alquimia (Oficial)",
                 ["Taiwanese"] = "煉金術 (熟練工)",
             },
-            ["phase"] = 1,
             ["rank"] = 2,
             ["trainers"] = {
                 ["price"] = 500,
@@ -88,7 +86,6 @@ TRADE_SKILLS_DATA["levels"]["Alchemy"] =
                 ["Spanish"] = "Alquimia (Experto)",
                 ["Taiwanese"] = "煉金術 (專家)",
             },
-            ["phase"] = 1,
             ["rank"] = 3,
             ["trainers"] = {
                 ["price"] = 5000,
@@ -115,7 +112,6 @@ TRADE_SKILLS_DATA["levels"]["Alchemy"] =
                 ["Spanish"] = "Alquimia (Artesano)",
                 ["Taiwanese"] = "煉金術 (大工匠)",
             },
-            ["phase"] = 1,
             ["rank"] = 4,
             ["trainers"] = {
                 ["price"] = 50000,

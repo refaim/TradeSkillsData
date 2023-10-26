@@ -20,7 +20,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar pechera: maná menor",
                 ["Taiwanese"] = "公式：附魔胸甲 - 初級法力",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["vendors"] = {
                 ["price"] = 300,
@@ -57,7 +56,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar brazal: espíritu menor",
                 ["Taiwanese"] = "公式：附魔護腕 - 初級精神",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -74,7 +72,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar pechera: maná inferior",
                 ["Taiwanese"] = "公式：附魔胸甲 - 次級法力",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["vendors"] = {
                 ["price"] = 400,
@@ -104,7 +101,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar brazal: fuerza menor",
                 ["Taiwanese"] = "公式：附魔護腕 - 初級力量",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -127,7 +123,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar arma: bestiacida menor",
                 ["Taiwanese"] = "公式：附魔武器 - 初級屠獸",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -144,7 +139,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar arma de 2M: intelecto inferior",
                 ["Taiwanese"] = "公式：附魔雙手武器 - 次級智力",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 500,
@@ -176,7 +170,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar brazal: espíritu inferior",
                 ["Taiwanese"] = "公式：附魔護腕 - 次級精神",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -193,7 +186,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar botas: agilidad menor",
                 ["Taiwanese"] = "公式：附魔靴子 - 初級敏捷",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["vendors"] = {
                 ["price"] = 1000,
@@ -223,7 +215,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar arma de 2M: espíritu inferior",
                 ["Taiwanese"] = "公式：附魔雙手武器 - 次級精神",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -246,7 +237,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar capa: agilidad menor",
                 ["Taiwanese"] = "公式：附魔披風 - 初級敏捷",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["vendors"] = {
                 ["price"] = 800,
@@ -276,7 +266,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar escudo: protección inferior",
                 ["Taiwanese"] = "公式：附魔盾牌 - 次級防護",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -299,7 +288,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar capa: resistencia inferior a las Sombras",
                 ["Taiwanese"] = "公式：附魔披風 - 抵抗次級暗影",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -316,7 +304,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar brazal: fuerza inferior",
                 ["Taiwanese"] = "公式：附魔護腕 - 次級力量",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["vendors"] = {
                 ["price"] = 2500,
@@ -349,7 +336,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar guantes: minería",
                 ["Taiwanese"] = "公式：附魔手套 - 採礦",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -375,7 +361,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar guantes: herboristería",
                 ["Taiwanese"] = "公式：附魔手套 - 採藥",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -401,7 +386,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar guantes: pesca",
                 ["Taiwanese"] = "公式：附魔手套 - 釣魚",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -418,7 +402,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar brazal: desvío inferior",
                 ["Taiwanese"] = "公式：附魔護腕 - 次級偏斜",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["vendors"] = {
                 ["price"] = 3000,
@@ -448,7 +431,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar arma: bestiacida inferior",
                 ["Taiwanese"] = "公式：附魔武器 - 次級屠獸",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -471,7 +453,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar arma: mataelementales inferior",
                 ["Taiwanese"] = "公式：附魔武器 - 次級元素殺手",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -496,7 +477,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar guantes: desuello",
                 ["Taiwanese"] = "公式：附魔手套 - 剝皮",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -519,7 +499,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar botas: espíritu inferior",
                 ["Taiwanese"] = "公式：附魔靴子 - 次級精神",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -542,7 +521,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar escudo: bloqueo inferior",
                 ["Taiwanese"] = "公式：附魔盾牌 - 次級格擋",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -565,7 +543,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar escudo: aguante",
                 ["Taiwanese"] = "公式：附魔盾牌 - 耐力",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -587,7 +564,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar guantes: minería avanzada",
                 ["Taiwanese"] = "公式：附魔手套 - 高級採礦",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -610,7 +586,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar brazal: espíritu superior",
                 ["Taiwanese"] = "公式：附魔護腕 - 強效精神",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -636,7 +611,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar guantes: herboristería avanzada",
                 ["Taiwanese"] = "公式：附魔手套 - 高級草藥學",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -660,7 +634,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar capa: agilidad inferior",
                 ["Taiwanese"] = "公式：附魔披風 - 次級敏捷",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -682,7 +655,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar arma: arma ígnea",
                 ["Taiwanese"] = "公式：附魔武器 - 灼熱武器",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -705,7 +677,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar arma: matanza de demonios",
                 ["Taiwanese"] = "公式：附魔武器 - 屠魔",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -722,7 +693,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar brazal: desvío",
                 ["Taiwanese"] = "公式：附魔護腕 - 偏斜",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["vendors"] = {
                 ["price"] = 5800,
@@ -752,7 +722,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar escudo: resistencia a Escarcha",
                 ["Taiwanese"] = "公式：附魔盾牌 - 冰霜反射",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -775,7 +744,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar brazal: aguante superior",
                 ["Taiwanese"] = "公式：附魔護腕 - 強效耐力",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -798,7 +766,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar guantes: equitación",
                 ["Taiwanese"] = "公式：附魔手套 - 騎乘技能",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -820,7 +787,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: corazón humeante de la montaña",
                 ["Taiwanese"] = "公式：濃煙山脈之心",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -842,7 +808,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar brazal: intelecto superior",
                 ["Taiwanese"] = "公式：附魔護腕 - 強效智力",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -865,7 +830,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar botas: aguante superior",
                 ["Taiwanese"] = "公式：附魔靴子 - 強效耐力",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -887,7 +851,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar capa: resistencia superior",
                 ["Taiwanese"] = "公式：附魔披風 - 強效抗性",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -904,7 +867,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar escudo: aguante superior",
                 ["Taiwanese"] = "公式：附魔盾牌 - 強效耐力",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 12000,
@@ -934,7 +896,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar brazal: espíritu excelente",
                 ["Taiwanese"] = "公式：附魔護腕 - 超強精神",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -956,7 +917,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar guantes: agilidad superior",
                 ["Taiwanese"] = "公式：附魔手套 - 強效敏捷",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -979,7 +939,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar botas: espíritu",
                 ["Taiwanese"] = "公式：附魔靴子 - 精神",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -996,7 +955,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar pechera: salud sublime",
                 ["Taiwanese"] = "公式：附魔胸甲 - 極效生命",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 16000,
@@ -1024,7 +982,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar escudo: espíritu excelente",
                 ["Taiwanese"] = "公式：附魔盾牌 - 超強精神",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1046,7 +1003,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar arma: escalofrío gélido",
                 ["Taiwanese"] = "公式：附魔武器 - 冰寒",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1063,7 +1019,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar capa: defensa excelente",
                 ["Taiwanese"] = "公式：附魔披風 - 超強防禦",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 20000,
@@ -1091,7 +1046,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar pechera: maná sublime",
                 ["Taiwanese"] = "公式：附魔胸甲 - 極效法力",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1108,7 +1062,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: vara arcanita con runas",
                 ["Taiwanese"] = "公式：符文奧金棒",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 22000,
@@ -1136,7 +1089,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar guantes: fuerza superior",
                 ["Taiwanese"] = "公式：附魔手套 - 強效力量",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1159,7 +1111,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar botas: agilidad superior",
                 ["Taiwanese"] = "公式：附魔靴子 - 強效敏捷",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1181,7 +1132,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar brazal: fuerza excelente",
                 ["Taiwanese"] = "公式：附魔護腕 - 超強力量",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1203,7 +1153,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar arma de 2M: impacto excelente",
                 ["Taiwanese"] = "公式：附魔武器 - 超強衝擊",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1225,7 +1174,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar arma: profano",
                 ["Taiwanese"] = "公式：附魔武器 - 邪惡",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1247,7 +1195,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar arma de 2M: intelecto sublime",
                 ["Taiwanese"] = "公式：附魔雙手武器 - 極效智力",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1269,7 +1216,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar arma: golpes excelentes",
                 ["Taiwanese"] = "公式：附魔武器 - 超強打擊",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1292,7 +1238,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar brazal: aguante excelente",
                 ["Taiwanese"] = "公式：附魔護腕 - 超強耐力",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1315,7 +1260,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar arma: cruzado",
                 ["Taiwanese"] = "公式：附魔武器 - 十字軍",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1338,7 +1282,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar pechera: estadística superior",
                 ["Taiwanese"] = "公式：附魔胸甲 - 強效屬性",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1360,7 +1303,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar arma: robo de vida",
                 ["Taiwanese"] = "公式：附魔武器 - 生命偷取",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -1382,7 +1324,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar arma de 2M: espíritu sublime",
                 ["Taiwanese"] = "公式：附魔雙手武器 - 極效精神",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1400,7 +1341,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar arma: poderío del invierno",
                 ["Taiwanese"] = "公式：附魔武器 - 寒冬之力",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 8769,
@@ -1431,7 +1371,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar arma: poder de hechizos",
                 ["Taiwanese"] = "公式：附魔武器 - 法術能量",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -1459,7 +1398,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar arma: poder de curación",
                 ["Taiwanese"] = "公式：附魔武器 - 治療能量",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -1476,7 +1414,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar arma: fuerza",
                 ["Taiwanese"] = "公式：附魔武器 - 力量",
             },
-            ["phase"] = 3,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 59,
@@ -1503,7 +1440,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar arma: agilidad",
                 ["Taiwanese"] = "公式：附魔武器 - 敏捷",
             },
-            ["phase"] = 3,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 576,
@@ -1530,7 +1466,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar brazal: regeneración de maná",
                 ["Taiwanese"] = "公式：附魔護腕 - 法力回復",
             },
-            ["phase"] = 3,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 529,
@@ -1559,7 +1494,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar brazal: curación",
                 ["Taiwanese"] = "公式：附魔護腕 - 治療",
             },
-            ["phase"] = 3,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 529,
@@ -1588,7 +1522,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar arma: espíritu poderoso",
                 ["Taiwanese"] = "公式：附魔武器 - 強效精神",
             },
-            ["phase"] = 3,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 59,
@@ -1615,7 +1548,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar arma: intelecto poderoso",
                 ["Taiwanese"] = "公式：附魔武器 - 強效智力",
             },
-            ["phase"] = 3,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 59,
@@ -1648,7 +1580,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar guantes: amenaza",
                 ["Taiwanese"] = "公式：附魔手套 - 威脅",
             },
-            ["phase"] = 5,
             ["quality"] = "rare",
         },
         {
@@ -1683,7 +1614,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar guantes: poder de las Sombras",
                 ["Taiwanese"] = "公式：附魔手套 - 暗影能量",
             },
-            ["phase"] = 5,
             ["quality"] = "rare",
         },
         {
@@ -1718,7 +1648,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar guantes: poder de Escarcha",
                 ["Taiwanese"] = "公式：附魔手套 - 冰霜能量",
             },
-            ["phase"] = 5,
             ["quality"] = "rare",
         },
         {
@@ -1753,7 +1682,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar guantes: poder de Fuego",
                 ["Taiwanese"] = "公式：附魔手套 - 火焰能量",
             },
-            ["phase"] = 5,
             ["quality"] = "rare",
         },
         {
@@ -1788,7 +1716,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar guantes: poder de curación",
                 ["Taiwanese"] = "公式：附魔手套 - 治療能量",
             },
-            ["phase"] = 5,
             ["quality"] = "rare",
         },
         {
@@ -1823,7 +1750,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar guantes: agilidad excelente",
                 ["Taiwanese"] = "公式：附魔手套 - 超強敏捷",
             },
-            ["phase"] = 5,
             ["quality"] = "rare",
         },
         {
@@ -1840,7 +1766,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar capa: resistencia superior a Fuego",
                 ["Taiwanese"] = "公式：附魔披風 - 強效火焰抗性",
             },
-            ["phase"] = 5,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -1867,7 +1792,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar capa: resistencia superior a Naturaleza",
                 ["Taiwanese"] = "公式：附魔披風 - 強效自然抗性",
             },
-            ["phase"] = 5,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -1912,7 +1836,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar capa: sigilo",
                 ["Taiwanese"] = "公式：附魔披風 - 潛行",
             },
-            ["phase"] = 5,
             ["quality"] = "rare",
         },
         {
@@ -1935,7 +1858,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar capa: sutileza",
                 ["Taiwanese"] = "公式：附魔披風 - 狡詐",
             },
-            ["phase"] = 5,
             ["quality"] = "rare",
         },
         {
@@ -1970,7 +1892,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar capa: esquivar",
                 ["Taiwanese"] = "公式：附魔披風 - 躲閃",
             },
-            ["phase"] = 5,
             ["quality"] = "rare",
         },
         {
@@ -1987,7 +1908,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: aceite de maná menor",
                 ["Taiwanese"] = "公式：初級法力之油",
             },
-            ["phase"] = 5,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 3000,
@@ -2018,7 +1938,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: aceite de zahorí inferior",
                 ["Taiwanese"] = "公式：次級巫師之油",
             },
-            ["phase"] = 5,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 4000,
@@ -2049,7 +1968,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: aceite de maná inferior",
                 ["Taiwanese"] = "公式：次級法力之油",
             },
-            ["phase"] = 5,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 10000,
@@ -2072,7 +1990,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: aceite de zahorí",
                 ["Taiwanese"] = "公式：巫師之油",
             },
-            ["phase"] = 5,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 20000,
@@ -2095,7 +2012,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: aceite de zahorí luminoso",
                 ["Taiwanese"] = "公式：卓越巫師之油",
             },
-            ["phase"] = 5,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -2122,7 +2038,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: aceite de maná luminoso",
                 ["Taiwanese"] = "公式：卓越法力之油",
             },
-            ["phase"] = 5,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -2149,7 +2064,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: aceite de zahorí menor",
                 ["Taiwanese"] = "公式：初級巫師之油",
             },
-            ["phase"] = 5,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 500,
@@ -2180,7 +2094,6 @@ TRADE_SKILLS_DATA["items"]["Enchanting"] =
                 ["Spanish"] = "Fórmula: encantar arma de 2M: agilidad",
                 ["Taiwanese"] = "公式：附魔雙手武器 - 敏捷",
             },
-            ["phase"] = 5,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 576,

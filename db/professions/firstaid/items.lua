@@ -20,7 +20,6 @@ TRADE_SKILLS_DATA["items"]["First Aid"] =
                 ["Spanish"] = "Manual: antídoto fuerte",
                 ["Taiwanese"] = "手冊：強力抗毒藥劑",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -37,7 +36,6 @@ TRADE_SKILLS_DATA["items"]["First Aid"] =
                 ["Spanish"] = "Primeros auxilios para expertos: Entre vendas",
                 ["Taiwanese"] = "高級急救教材 - 繃帶縛體",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 10000,
@@ -61,7 +59,6 @@ TRADE_SKILLS_DATA["items"]["First Aid"] =
                 ["Spanish"] = "Manual: venda de seda pesada",
                 ["Taiwanese"] = "手冊：厚絲質繃帶",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 2200,
@@ -85,7 +82,6 @@ TRADE_SKILLS_DATA["items"]["First Aid"] =
                 ["Spanish"] = "Manual: venda de paño mágico",
                 ["Taiwanese"] = "手冊：魔紋繃帶",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 5000,
@@ -109,7 +105,6 @@ TRADE_SKILLS_DATA["items"]["First Aid"] =
                 ["Spanish"] = "Fórmula: antídoto potente",
                 ["Taiwanese"] = "配方：強效抗毒藥劑",
             },
-            ["phase"] = 3,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 529,

@@ -25,7 +25,6 @@ TRADE_SKILLS_DATA["items"]["Poisons"] =
                 ["Spanish"] = "Vademécum de Veneno mortal V",
                 ["Taiwanese"] = "手册：致命毒药 V",
             },
-            ["phase"] = 5,
             ["quality"] = "rare",
         },
     }

@@ -15,7 +15,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Carne de lobo carbonizada",
                 ["Taiwanese"] = "燒烤狼肉",
             },
-            ["phase"] = 1,
             ["special_action"] = "auto learned",
         },
         {
@@ -33,7 +32,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Carne de lobo picante",
                 ["Taiwanese"] = "香辣狼肉",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 50,
                 ["sources"] = {
@@ -69,7 +67,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Carne de jabalí a la brasa",
                 ["Taiwanese"] = "烤野豬肉",
             },
-            ["phase"] = 1,
             ["special_action"] = "auto learned",
         },
         {
@@ -87,7 +84,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Chuleta de coyote",
                 ["Taiwanese"] = "山狗肉排",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 100,
                 ["sources"] = {
@@ -126,7 +122,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Pastel de hígado de dentosangre",
                 ["Taiwanese"] = "豬肝餡餅",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2543,
@@ -146,7 +141,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Estofado de Páramos de Poniente",
                 ["Taiwanese"] = "雜味燉肉",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2544,
@@ -163,7 +157,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Pastel de cangrejo",
                 ["Taiwanese"] = "蟹肉蛋糕",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 200,
                 ["sources"] = {
@@ -202,7 +195,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Tenaza de cangrejo cocinada",
                 ["Taiwanese"] = "煮蟹爪",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2546,
@@ -219,7 +211,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Costillas de cerdo secas",
                 ["Taiwanese"] = "豬肉乾",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 150,
                 ["sources"] = {
@@ -258,7 +249,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Estofado de Crestagrana",
                 ["Taiwanese"] = "赤脊山燉肉",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2548,
@@ -278,7 +268,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Costilletas de cerdo suculentas",
                 ["Taiwanese"] = "多汁豬排",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2549,
@@ -298,7 +287,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Kebab de lobo sazonado",
                 ["Taiwanese"] = "乾烤狼肉串",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 2795,
@@ -318,7 +306,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Costillas de jabalí rociadas con cerveza",
                 ["Taiwanese"] = "啤酒烤豬排",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3370,
@@ -338,7 +325,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Filete de crocolisco",
                 ["Taiwanese"] = "鱷魚肉排",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3371,
@@ -358,7 +344,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Salchicha de sangre",
                 ["Taiwanese"] = "血腸",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3372,
@@ -378,7 +363,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Sopa de aleta de múrloc",
                 ["Taiwanese"] = "魚人鰭湯",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3373,
@@ -398,7 +382,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Sopa de crocolisco",
                 ["Taiwanese"] = "鱷魚濃湯",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3376,
@@ -418,7 +401,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Omelet curiosamente sabroso",
                 ["Taiwanese"] = "美味煎蛋捲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3377,
@@ -438,7 +420,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Pastel pegajoso de araña",
                 ["Taiwanese"] = "蜘蛛蛋糕",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3397,
@@ -458,7 +439,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Chuleta grande de oso",
                 ["Taiwanese"] = "大塊的熊排",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3398,
@@ -478,7 +458,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Pinchos de león cocidas",
                 ["Taiwanese"] = "烤獅排",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3399,
@@ -498,7 +477,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Chuletón de león suculento",
                 ["Taiwanese"] = "香烤獅肉",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 3400,
@@ -518,7 +496,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Sopa balsámica de tortuga",
                 ["Taiwanese"] = "海龜湯",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 4094,
@@ -538,7 +515,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Alas de águila ratonera a la parrilla",
                 ["Taiwanese"] = "燒烤禿鷹翅膀",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 6412,
@@ -558,7 +534,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Kebab de araña Kaldorei",
                 ["Taiwanese"] = "卡多雷蜘蛛烤肉",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 6413,
@@ -578,7 +553,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Sorpresa de escórpido",
                 ["Taiwanese"] = "蠍肉大餐",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 6414,
@@ -598,7 +572,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Carne de kodo a la brasa",
                 ["Taiwanese"] = "烤科多肉",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 6415,
@@ -618,7 +591,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Filete de merluza",
                 ["Taiwanese"] = "狂魚肉片",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 6416,
@@ -638,7 +610,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Estofado de zancudo",
                 ["Taiwanese"] = "燉陸行鳥",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 6417,
@@ -658,7 +629,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Estofado de ratas de excavación",
                 ["Taiwanese"] = "掘地鼠燉肉",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 6418,
@@ -678,7 +648,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Cola crocante de lagarto",
                 ["Taiwanese"] = "脆炸蜥蜴尾",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 6419,
@@ -698,7 +667,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Venison magro",
                 ["Taiwanese"] = "瘦鹿肉",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 6499,
@@ -715,7 +683,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Almejas hervidas",
                 ["Taiwanese"] = "水煮蚌肉",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 100,
                 ["sources"] = {
@@ -751,7 +718,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Almejas purificadas a la goblin",
                 ["Taiwanese"] = "哥布林芥末蘸蚌肉",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 300,
                 ["sources"] = {
@@ -790,7 +756,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Guiso de almejas",
                 ["Taiwanese"] = "雜燴蚌肉",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7213,
@@ -810,7 +775,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Almeja gigante a la brasa",
                 ["Taiwanese"] = "燒烤巨蚌",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7751,
@@ -830,7 +794,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Pececito brillante",
                 ["Taiwanese"] = "美味小魚",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7752,
@@ -850,7 +813,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Caba de piel deslizante",
                 ["Taiwanese"] = "滑皮鯖魚",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7753,
@@ -870,7 +832,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Faucelarga muerdebarros",
                 ["Taiwanese"] = "長嘴泥鰍",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7754,
@@ -890,7 +851,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Delicia de merluza del Loch",
                 ["Taiwanese"] = "洛克湖狂魚",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7755,
@@ -910,7 +870,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Siluro mostacherizo",
                 ["Taiwanese"] = "刺鬚鯰魚",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7827,
@@ -930,7 +889,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Atún blanco arcoiris",
                 ["Taiwanese"] = "彩鰭魚",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 7828,
@@ -950,7 +908,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Bacalao de escamas de piedra",
                 ["Taiwanese"] = "石鱗鱈魚",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 8238,
@@ -970,7 +927,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Delicia sobrosa retorcida",
                 ["Taiwanese"] = "美味風蛇",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 8604,
@@ -987,7 +943,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Huevo cocido con hierbas",
                 ["Taiwanese"] = "草藥烘蛋",
             },
-            ["phase"] = 1,
             ["special_action"] = "auto learned",
         },
         {
@@ -1008,7 +963,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Carne de oso",
                 ["Taiwanese"] = "燻熊肉",
             },
-            ["phase"] = 1,
         },
         {
             ["classes"] = {
@@ -1031,7 +985,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Te de cardo",
                 ["Taiwanese"] = "菊花茶",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 13028,
@@ -1048,7 +1001,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Té espina de oro",
                 ["Taiwanese"] = "金棘茶",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 0,
                 ["sources"] = {
@@ -1074,7 +1026,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Filete de lobo magro",
                 ["Taiwanese"] = "瘦狼排",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 15855,
@@ -1094,7 +1045,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Raptor a la brasa",
                 ["Taiwanese"] = "烤迅猛龍肉",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 15856,
@@ -1114,7 +1064,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Costillas de lobo cocidas",
                 ["Taiwanese"] = "熱狼排",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 15861,
@@ -1134,7 +1083,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Estofado de la selva",
                 ["Taiwanese"] = "叢林大雜燴",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 15863,
@@ -1154,7 +1102,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Sorpresa de carroña",
                 ["Taiwanese"] = "腐肉大餐",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 15865,
@@ -1174,7 +1121,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Guisado misterioso",
                 ["Taiwanese"] = "神秘雜燴",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 15906,
@@ -1194,7 +1140,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Chili de aliento de dragón",
                 ["Taiwanese"] = "龍息紅椒",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 15910,
@@ -1214,7 +1159,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Estofado pesado de kodo",
                 ["Taiwanese"] = "科多肉雜燴",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 15915,
@@ -1234,7 +1178,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "cangrejo al chili picante",
                 ["Taiwanese"] = "辣椒蟹肉",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 15933,
@@ -1254,7 +1197,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Mezcolanza de mosntruo",
                 ["Taiwanese"] = "超級煎蛋捲",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 15935,
@@ -1274,7 +1216,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Ala crocante de murciélago",
                 ["Taiwanese"] = "香脆蝙蝠翅",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18238,
@@ -1294,7 +1235,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Serviola moteada",
                 ["Taiwanese"] = "斑點黃尾魚",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18239,
@@ -1314,7 +1254,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Vigorpez brilloso cocinado",
                 ["Taiwanese"] = "煮熟的光滑大魚",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18240,
@@ -1334,7 +1273,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Calamar asado",
                 ["Taiwanese"] = "烤魷魚",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18241,
@@ -1354,7 +1292,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Filete de Agallarroja",
                 ["Taiwanese"] = "油炸紅腮魚",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18242,
@@ -1374,7 +1311,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Perca ahumada",
                 ["Taiwanese"] = "煙燻鱸魚",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18243,
@@ -1394,7 +1330,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Sopa de aletoche",
                 ["Taiwanese"] = "夜鱗魚湯",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18244,
@@ -1414,7 +1349,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Salmón solescamas salvaje",
                 ["Taiwanese"] = "水煮陽鱗鮭魚",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18245,
@@ -1434,7 +1368,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Estofado de langosta",
                 ["Taiwanese"] = "燉龍蝦",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18246,
@@ -1454,7 +1387,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Filete de vigorpez",
                 ["Taiwanese"] = "大魚片",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 18247,
@@ -1474,7 +1406,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Salmón al horno",
                 ["Taiwanese"] = "烤鮭魚",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 20626,
@@ -1494,7 +1425,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Sopa de almejas debilitadora",
                 ["Taiwanese"] = "安德麥蚌肉雜燴",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 20916,
@@ -1514,7 +1444,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Trucha cabeza de mitril",
                 ["Taiwanese"] = "銀頭鮭魚",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 21143,
@@ -1534,7 +1463,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Galleta de jengibre",
                 ["Taiwanese"] = "薑餅",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 21144,
@@ -1554,7 +1482,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Huevo cocido",
                 ["Taiwanese"] = "蛋奶酒",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 21175,
@@ -1571,7 +1498,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Salchicha de araña",
                 ["Taiwanese"] = "蜘蛛肉腸",
             },
-            ["phase"] = 1,
             ["trainers"] = {
                 ["price"] = 4000,
                 ["sources"] = {
@@ -1610,7 +1536,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Chuletón de lobo tierno",
                 ["Taiwanese"] = "嫩狼肉排",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 22761,
@@ -1630,7 +1555,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Sorpresa de tubérculo Runn Tum",
                 ["Taiwanese"] = "洛恩塔姆薯塊",
             },
-            ["phase"] = 2,
         },
         {
             ["id"] = 24418,
@@ -1650,7 +1574,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Guiso de crocolisco",
                 ["Taiwanese"] = "鱷魚燉肉",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 24801,
@@ -1667,7 +1590,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Torrijas al horno del desierto",
                 ["Taiwanese"] = "沙漠肉丸子",
             },
-            ["phase"] = 5,
             ["quests"] = {
                 8313,
             },
@@ -1690,7 +1612,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Fabulosas chuletas quiméricas de Cantofúnebre",
                 ["Taiwanese"] = "迪爾格的超美味奇美拉肉片",
             },
-            ["phase"] = 5,
         },
         {
             ["id"] = 25704,
@@ -1710,7 +1631,6 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Sabiola ahumada",
                 ["Taiwanese"] = "烤鼠尾魚",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 25954,
@@ -1730,6 +1650,5 @@ TRADE_SKILLS_DATA["skills"]["Cooking"] =
                 ["Spanish"] = "Delicia de sabiola",
                 ["Taiwanese"] = "美味鼠尾魚",
             },
-            ["phase"] = 1,
         },
     }

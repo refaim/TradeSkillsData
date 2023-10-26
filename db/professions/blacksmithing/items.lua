@@ -20,7 +20,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: peto de cobre con runas",
                 ["Taiwanese"] = "設計圖：銅質符文胸甲",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -43,7 +42,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: hombreras de bronce plateado",
                 ["Taiwanese"] = "設計圖：鍍銀青銅護肩",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -66,7 +64,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: puñal de bronce mortal",
                 ["Taiwanese"] = "設計圖：致命的青銅短劍",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -89,7 +86,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: martillo de hierro poderoso",
                 ["Taiwanese"] = "設計圖：巨型鐵錘",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -112,7 +108,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: jubón de anillas de cobre",
                 ["Taiwanese"] = "設計圖：銅質鍊甲外衣",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -135,7 +130,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: guanteletes de cobre con gemas",
                 ["Taiwanese"] = "設計圖：銅質寶石手套",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -158,7 +152,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: botas de hierro verde",
                 ["Taiwanese"] = "設計圖：綠鐵戰靴",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -181,7 +174,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: guanteletes de hierro verde",
                 ["Taiwanese"] = "設計圖：綠鐵護手",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -204,7 +196,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: alfanje de jade",
                 ["Taiwanese"] = "設計圖：玉蛇刀",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -227,7 +218,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: destructor de hierro dorado",
                 ["Taiwanese"] = "設計圖：碎鐵金錘",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -250,7 +240,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: hoja tigre de Escarcha",
                 ["Taiwanese"] = "設計圖：霜虎之刃",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -273,7 +262,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: hacha creciente de las Sombras",
                 ["Taiwanese"] = "設計圖：月牙斧",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -296,7 +284,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: hombreras de hierro verde",
                 ["Taiwanese"] = "設計圖：綠鐵護肩",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -319,7 +306,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: hombreras de escamas de oro",
                 ["Taiwanese"] = "設計圖：金鱗護肩",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -342,7 +328,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: leotardos de escamas de oro",
                 ["Taiwanese"] = "設計圖：金鱗護腿",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -365,7 +350,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: coraza de escamas de oro",
                 ["Taiwanese"] = "設計圖：金鱗胸甲",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -388,7 +372,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: botas de acero pulido",
                 ["Taiwanese"] = "設計圖：精鋼戰靴",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -411,7 +394,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: botas de escamas de oro",
                 ["Taiwanese"] = "設計圖：金鱗戰靴",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -434,7 +416,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: martillo iridiscente",
                 ["Taiwanese"] = "設計圖：彩虹之錘",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -457,7 +438,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: peto de bronce plateado",
                 ["Taiwanese"] = "設計圖：鍍銀青銅胸甲",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -480,7 +460,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: escudo con punta de hierro",
                 ["Taiwanese"] = "設計圖：鐵質盾刺",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -503,7 +482,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: contrapeso de hierro",
                 ["Taiwanese"] = "設計圖：鐵質平衡錘",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -526,7 +504,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: cadena de acero",
                 ["Taiwanese"] = "設計圖：鋼質武器鏈",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -543,7 +520,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: almófar de escamas de oro",
                 ["Taiwanese"] = "設計圖：金鱗罩盔",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 4400,
@@ -566,7 +542,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: peto de Forjaz",
                 ["Taiwanese"] = "設計圖：鐵爐堡胸甲",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 1618,
@@ -592,7 +567,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: pantalones de mitril pesado",
                 ["Taiwanese"] = "設計圖：祕銀短褲",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -615,7 +589,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: escudo con punta de mitril",
                 ["Taiwanese"] = "設計圖：祕銀盾刺",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -632,7 +605,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: hombreras de hierro barbárico",
                 ["Taiwanese"] = "設計圖：野人鐵護肩",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 2752,
@@ -652,7 +624,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: peto de hierro barbárico",
                 ["Taiwanese"] = "設計圖：野人鐵質胸甲",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 2751,
@@ -672,7 +643,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: yelmo de hierro barbárico",
                 ["Taiwanese"] = "設計圖：野人鐵盔",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 2754,
@@ -692,7 +662,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: botas de hierro barbárico",
                 ["Taiwanese"] = "設計圖：野人鐵靴",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 2753,
@@ -712,7 +681,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: guantes de hierro barbárico",
                 ["Taiwanese"] = "設計圖：野人鐵手套",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 2755,
@@ -732,7 +700,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: pantalones de mitril ornamentado",
                 ["Taiwanese"] = "設計圖：精製祕銀短褲",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 2761,
@@ -752,7 +719,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: guantes de mitril ornamentado",
                 ["Taiwanese"] = "設計圖：精製祕銀手套",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 2762,
@@ -772,7 +738,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: hombro de mitril ornamentado",
                 ["Taiwanese"] = "設計圖：精製祕銀護肩",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 2763,
@@ -798,7 +763,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: aguijones de mitril",
                 ["Taiwanese"] = "設計圖：祕銀馬刺",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -821,7 +785,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: yelmo de mitril pesado",
                 ["Taiwanese"] = "設計圖：重型祕銀頭盔",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -844,7 +807,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: hombreras de escamas de mitril",
                 ["Taiwanese"] = "設計圖：祕銀鱗片護肩",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -867,7 +829,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: hacha azul relumbrante",
                 ["Taiwanese"] = "設計圖：藍光斧",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -890,7 +851,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: estoque de mitril deslumbrante",
                 ["Taiwanese"] = "設計圖：祕銀細劍",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -907,7 +867,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: brazales de escamas de mitril",
                 ["Taiwanese"] = "設計圖：祕銀鱗片護腕",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 6000,
@@ -937,7 +896,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: martillo de mitril con runas",
                 ["Taiwanese"] = "設計圖：祕銀符文戰錘",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -960,7 +918,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: hoja de mitril maligna",
                 ["Taiwanese"] = "設計圖：祕銀魔劍",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -977,7 +934,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: shiv de ébano",
                 ["Taiwanese"] = "設計圖：烏木刀",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 10000,
@@ -1000,7 +956,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: guanteletes de escamas de oro",
                 ["Taiwanese"] = "設計圖：金鱗護手",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 2758,
@@ -1026,7 +981,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: leotardos de bronce plateado",
                 ["Taiwanese"] = "設計圖：鍍銀青銅護腿",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1043,7 +997,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: cilindro de mitril taraceado",
                 ["Taiwanese"] = "設計圖：祕銀杆",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["special_action"] = "made gnomish engi 205",
         },
@@ -1061,7 +1014,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: gran maza de hierro sólido",
                 ["Taiwanese"] = "設計圖：堅固的鐵錘",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 3000,
@@ -1091,7 +1043,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: pulverizador Hierro Negro",
                 ["Taiwanese"] = "設計圖：黑鐵粉碎者",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -1114,7 +1065,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: taladora Hierro Negro",
                 ["Taiwanese"] = "設計圖：黑鐵斬碎者",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -1136,7 +1086,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: placas Hierro Negro",
                 ["Taiwanese"] = "設計圖：黑鐵鎧甲",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -1156,7 +1105,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
             ["objects"] = {
                 173232,
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1176,7 +1124,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
             ["objects"] = {
                 173234,
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1193,7 +1140,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: espada corta de hierro endurecido",
                 ["Taiwanese"] = "設計圖：硬鐵短劍",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 3000,
@@ -1218,7 +1164,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: sable de acero lunar",
                 ["Taiwanese"] = "設計圖：月鋼寬劍",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 4400,
@@ -1241,7 +1186,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: hacha de hierro macizo",
                 ["Taiwanese"] = "設計圖：巨型鐵斧",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 4400,
@@ -1271,7 +1215,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: hoja dorada abrasadora",
                 ["Taiwanese"] = "設計圖：灼熱金劍",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1294,7 +1237,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: armadura de torio",
                 ["Taiwanese"] = "設計圖：瑟銀護甲",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1317,7 +1259,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: cinturón de torio",
                 ["Taiwanese"] = "設計圖：瑟銀腰帶",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1340,7 +1281,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: brazales de torio",
                 ["Taiwanese"] = "設計圖：瑟銀護腕",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1363,7 +1303,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: cinturón radiante",
                 ["Taiwanese"] = "設計圖：輻光腰帶",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1380,7 +1319,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: hombreras de placas imperiales",
                 ["Taiwanese"] = "設計圖：君王鎧甲護肩",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 7659,
@@ -1400,7 +1338,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: cinturón de placas imperiales",
                 ["Taiwanese"] = "設計圖：君王鎧甲腰帶",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 7653,
@@ -1426,7 +1363,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: peto radiante",
                 ["Taiwanese"] = "設計圖：輻光胸甲",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1443,7 +1379,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: brazales de placas imperiales",
                 ["Taiwanese"] = "設計圖：君王鎧甲護腕",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 7655,
@@ -1469,7 +1404,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: malla de espina salvaje",
                 ["Taiwanese"] = "設計圖：野刺鎖甲",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1492,7 +1426,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: escudo con punta de torio",
                 ["Taiwanese"] = "設計圖：瑟銀盾刺",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1515,7 +1448,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: botas de torio",
                 ["Taiwanese"] = "設計圖：瑟銀長靴",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1538,7 +1470,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: yelmo de torio",
                 ["Taiwanese"] = "設計圖：瑟銀頭盔",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1561,7 +1492,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: guantes radiantes",
                 ["Taiwanese"] = "設計圖：輻光手套",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1578,7 +1508,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: peto de demonio forjado",
                 ["Taiwanese"] = "設計圖：魔鑄胸甲",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["quests"] = {
                 5127,
@@ -1604,7 +1533,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: botas radiantes",
                 ["Taiwanese"] = "設計圖：輻光長靴",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1621,7 +1549,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: guanteletes de placas ígneas",
                 ["Taiwanese"] = "設計圖：熾熱鎧甲護手",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["quests"] = {
                 5124,
@@ -1641,7 +1568,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: botas de placas imperiales",
                 ["Taiwanese"] = "設計圖：君王鎧甲戰靴",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 7654,
@@ -1661,7 +1587,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: yelmo de placas imperiales",
                 ["Taiwanese"] = "設計圖：君王鎧甲頭盔",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 7657,
@@ -1687,7 +1612,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: aro radiante",
                 ["Taiwanese"] = "設計圖：輻光頭飾",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1710,7 +1634,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: guanteletes de tormenta",
                 ["Taiwanese"] = "設計圖：風暴護手",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["vendors"] = {
                 ["price"] = 40000,
@@ -1739,7 +1662,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: leotardos de torio",
                 ["Taiwanese"] = "設計圖：瑟銀護腿",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1756,7 +1678,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: peto de placas imperiales",
                 ["Taiwanese"] = "設計圖：君王鎧甲護胸",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 7656,
@@ -1781,7 +1702,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: hombreras de placas rúnicas",
                 ["Taiwanese"] = "設計圖：符文鎧甲護肩",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1803,7 +1723,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: botas de placas rúnicas",
                 ["Taiwanese"] = "設計圖：符文鎧甲戰靴",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1826,7 +1745,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: yelmo de alma blanca",
                 ["Taiwanese"] = "設計圖：白魂頭盔",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -1849,7 +1767,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: leotardos radiantes",
                 ["Taiwanese"] = "設計圖：輻光護腿",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1871,7 +1788,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: yelmo de placas rúnicas",
                 ["Taiwanese"] = "設計圖：符文鎧甲頭盔",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1888,7 +1804,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: leotardos de placas imperiales",
                 ["Taiwanese"] = "設計圖：君王鎧甲護腿",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 7658,
@@ -1914,7 +1829,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: yelmo del Gran Jefe",
                 ["Taiwanese"] = "設計圖：大酋長頭盔",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -1937,7 +1851,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: yelmo corazón de león",
                 ["Taiwanese"] = "設計圖：獅心頭盔",
             },
-            ["phase"] = 1,
             ["quality"] = "epic",
         },
         {
@@ -1960,7 +1873,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: peto rúnico",
                 ["Taiwanese"] = "設計圖：符文胸甲",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1982,7 +1894,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: leotardos de placas rúnicas",
                 ["Taiwanese"] = "設計圖：符文鎧甲護腿",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -2005,7 +1916,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: guanteletes bastión",
                 ["Taiwanese"] = "設計圖：要塞護手",
             },
-            ["phase"] = 1,
             ["quality"] = "epic",
         },
         {
@@ -2022,7 +1932,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: yelmo de torio encantado",
                 ["Taiwanese"] = "設計圖：魔法瑟銀頭盔",
             },
-            ["phase"] = 2,
             ["quality"] = "rare",
             ["quests"] = {
                 7651,
@@ -2042,7 +1951,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: leotardos de torio encantados",
                 ["Taiwanese"] = "設計圖：魔法瑟銀護腿",
             },
-            ["phase"] = 2,
             ["quality"] = "rare",
             ["quests"] = {
                 7650,
@@ -2062,7 +1970,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: peto de torio encantado",
                 ["Taiwanese"] = "設計圖：魔法瑟銀胸甲",
             },
-            ["phase"] = 2,
             ["quality"] = "rare",
             ["quests"] = {
                 7649,
@@ -2088,7 +1995,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: malla invulnerable",
                 ["Taiwanese"] = "設計圖：免傷鎖甲",
             },
-            ["phase"] = 1,
             ["quality"] = "epic",
         },
         {
@@ -2105,7 +2011,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: hacha de mano de torio ornamentado",
                 ["Taiwanese"] = "設計圖：華麗瑟銀手斧",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["vendors"] = {
                 ["price"] = 16000,
@@ -2128,7 +2033,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: filo del Alba",
                 ["Taiwanese"] = "設計圖：黎明之刃",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["quests"] = {
                 5306,
@@ -2148,7 +2052,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: hacha de batalla de torio enorme",
                 ["Taiwanese"] = "設計圖：巨型瑟銀戰斧",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 20000,
@@ -2171,7 +2074,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: martillo de batalla encantado",
                 ["Taiwanese"] = "設計圖：魔法戰錘",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 5305,
@@ -2191,7 +2093,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: estoque llameante",
                 ["Taiwanese"] = "設計圖：閃耀輕劍",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 5307,
@@ -2214,7 +2115,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
             ["objects"] = {
                 176325,
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -2236,7 +2136,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: martillo volcánico",
                 ["Taiwanese"] = "設計圖：火山戰錘",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -2256,7 +2155,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
             ["objects"] = {
                 176327,
             },
-            ["phase"] = 1,
             ["quality"] = "common",
         },
         {
@@ -2278,7 +2176,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: martillo de los Titanes",
                 ["Taiwanese"] = "設計圖：泰坦之錘",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -2300,7 +2197,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: campeón de arcanita",
                 ["Taiwanese"] = "設計圖：奧金勇士劍",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -2322,7 +2218,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: aniquilador",
                 ["Taiwanese"] = "設計圖：殲滅者",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -2344,7 +2239,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: guardia de Escarcha",
                 ["Taiwanese"] = "設計圖：寒冰護衛者",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -2366,7 +2260,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: martillo Tormenta de obra maestra",
                 ["Taiwanese"] = "設計圖：精工風暴戰錘",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -2388,7 +2281,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: segadora de arcanita",
                 ["Taiwanese"] = "設計圖：奧金斧",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -2410,7 +2302,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: buscalmas",
                 ["Taiwanese"] = "設計圖：覓心者",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -2427,7 +2318,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: faja de anillas ígneas",
                 ["Taiwanese"] = "設計圖：熾熱鍊甲腰帶",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["reputation"] = {
                 ["faction_id"] = 59,
@@ -2454,7 +2344,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: brazales Hierro Negro",
                 ["Taiwanese"] = "設計圖：黑鐵護腕",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["reputation"] = {
                 ["faction_id"] = 59,
@@ -2481,7 +2370,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: leotardos Hierro Negro",
                 ["Taiwanese"] = "設計圖：黑鐵護腿",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["reputation"] = {
                 ["faction_id"] = 59,
@@ -2508,7 +2396,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: hombreras de anillas ígneas",
                 ["Taiwanese"] = "設計圖：熾熱鍊甲護肩",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["reputation"] = {
                 ["faction_id"] = 59,
@@ -2535,7 +2422,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: atracador Hierro Negro",
                 ["Taiwanese"] = "設計圖：黑鐵利劍",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["reputation"] = {
                 ["faction_id"] = 59,
@@ -2562,7 +2448,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: destructor Hierro Negro",
                 ["Taiwanese"] = "設計圖：黑鐵戰斧",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
             ["reputation"] = {
                 ["faction_id"] = 59,
@@ -2590,7 +2475,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: filo de invierno",
                 ["Taiwanese"] = "設計圖：寒冬之刃",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 8769,
@@ -2621,7 +2505,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: piedra de afilar elemental",
                 ["Taiwanese"] = "設計圖：元素磨刀石",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -2638,7 +2521,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: martillo de Sulfuron",
                 ["Taiwanese"] = "設計圖：薩弗隆戰錘",
             },
-            ["phase"] = 1,
             ["quality"] = "epic",
             ["quests"] = {
                 7604,
@@ -2658,7 +2540,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Contrato de la Hermandad del Torio",
                 ["Taiwanese"] = "瑟銀兄弟會契約",
             },
-            ["phase"] = 1,
             ["quality"] = "epic",
             ["vendors"] = {
                 ["price"] = 0,
@@ -2681,7 +2562,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Malla de placas de torio encantado",
                 ["Taiwanese"] = "魔化瑟銀鎧甲",
             },
-            ["phase"] = 2,
             ["quality"] = "rare",
         },
         {
@@ -2698,7 +2578,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Malla de placas de torio encantado",
                 ["Taiwanese"] = "魔化瑟銀鎧甲",
             },
-            ["phase"] = 2,
             ["quality"] = "rare",
         },
         {
@@ -2715,7 +2594,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Malla de placas de torio encantado",
                 ["Taiwanese"] = "魔化瑟銀鎧甲",
             },
-            ["phase"] = 2,
             ["quality"] = "rare",
         },
         {
@@ -2732,7 +2610,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: cinturón Fauces de Madera pesado",
                 ["Taiwanese"] = "設計圖：重型木喉腰帶",
             },
-            ["phase"] = 3,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 576,
@@ -2759,7 +2636,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: faja del Alba",
                 ["Taiwanese"] = "設計圖：黎明束腰",
             },
-            ["phase"] = 3,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 529,
@@ -2788,7 +2664,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: botas Fauces de Madera pesadas",
                 ["Taiwanese"] = "設計圖：重型木喉長靴",
             },
-            ["phase"] = 3,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 576,
@@ -2815,7 +2690,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: guantes del Alba",
                 ["Taiwanese"] = "設計圖：黎明手套",
             },
-            ["phase"] = 3,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 529,
@@ -2844,7 +2718,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: yelmo Hierro Negro",
                 ["Taiwanese"] = "設計圖：黑鐵頭盔",
             },
-            ["phase"] = 3,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 59,
@@ -2871,7 +2744,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: guanteletes Hierro Negro",
                 ["Taiwanese"] = "設計圖：黑鐵護手",
             },
-            ["phase"] = 3,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 59,
@@ -2898,7 +2770,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: amnistía negra",
                 ["Taiwanese"] = "設計圖：黑色赦免者",
             },
-            ["phase"] = 3,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 59,
@@ -2925,7 +2796,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: Furianegra",
                 ["Taiwanese"] = "設計圖：黑色怒火",
             },
-            ["phase"] = 3,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 59,
@@ -2952,7 +2822,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: mano de ébano",
                 ["Taiwanese"] = "設計圖：黑手",
             },
-            ["phase"] = 3,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 59,
@@ -2979,7 +2848,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: guardanegro",
                 ["Taiwanese"] = "設計圖：黑色衛士",
             },
-            ["phase"] = 3,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 59,
@@ -3006,7 +2874,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: ocaso",
                 ["Taiwanese"] = "設計圖：夜幕",
             },
-            ["phase"] = 3,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 59,
@@ -3033,7 +2900,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: peto alma de sangre",
                 ["Taiwanese"] = "設計圖：血魂胸甲",
             },
-            ["phase"] = 4,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -3060,7 +2926,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: hombreras alma de sangre",
                 ["Taiwanese"] = "設計圖：血魂護肩",
             },
-            ["phase"] = 4,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -3087,7 +2952,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: guanteletes alma de sangre",
                 ["Taiwanese"] = "設計圖：血魂護手",
             },
-            ["phase"] = 4,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -3114,7 +2978,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: peto Almanegra",
                 ["Taiwanese"] = "設計圖：黑暗之魂胸甲",
             },
-            ["phase"] = 4,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -3141,7 +3004,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: leotardos Almanegra",
                 ["Taiwanese"] = "設計圖：黑暗之魂護腿",
             },
-            ["phase"] = 4,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -3168,7 +3030,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: hombreras Almanegra",
                 ["Taiwanese"] = "設計圖：黑暗之魂護肩",
             },
-            ["phase"] = 4,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -3195,7 +3056,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: botas Hierro Negro",
                 ["Taiwanese"] = "設計圖：黑鐵長靴",
             },
-            ["phase"] = 3,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 59,
@@ -3222,7 +3082,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: guanteletes runa oscura",
                 ["Taiwanese"] = "設計圖：黑暗符文護手",
             },
-            ["phase"] = 4,
             ["quality"] = "rare",
             ["quests"] = {
                 8323,
@@ -3243,7 +3102,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: peto runa oscura",
                 ["Taiwanese"] = "設計圖：黑暗符文胸甲",
             },
-            ["phase"] = 4,
             ["quality"] = "rare",
             ["quests"] = {
                 8323,
@@ -3264,7 +3122,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: yelmo runa oscura",
                 ["Taiwanese"] = "設計圖：黑暗符文頭盔",
             },
-            ["phase"] = 4,
             ["quality"] = "rare",
             ["quests"] = {
                 8323,
@@ -3285,7 +3142,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: cinturón obsidiano pesado",
                 ["Taiwanese"] = "設計圖：厚重黑曜石腰帶",
             },
-            ["phase"] = 5,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -3312,7 +3168,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: cinturón obsidiano ligero",
                 ["Taiwanese"] = "設計圖：輕巧黑曜石腰帶",
             },
-            ["phase"] = 5,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -3339,7 +3194,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: escudo dentado obsidiano",
                 ["Taiwanese"] = "設計圖：鋸齒黑曜石之盾",
             },
-            ["phase"] = 5,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -3371,7 +3225,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: garra negra del Destructor",
                 ["Taiwanese"] = "設計圖：黑色摧毀者手套",
             },
-            ["phase"] = 5,
             ["quality"] = "rare",
         },
         {
@@ -3388,7 +3241,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: túnica de malla obsidiana",
                 ["Taiwanese"] = "設計圖：黑曜石鎖甲外套",
             },
-            ["phase"] = 5,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -3420,7 +3272,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: peto obsidiano grueso",
                 ["Taiwanese"] = "設計圖：厚黑曜石胸甲",
             },
-            ["phase"] = 5,
             ["quality"] = "rare",
         },
         {
@@ -3443,7 +3294,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: leotardos titánicos",
                 ["Taiwanese"] = "設計圖：泰坦護腿",
             },
-            ["phase"] = 5,
             ["quality"] = "epic",
         },
         {
@@ -3466,7 +3316,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: hoja sabia",
                 ["Taiwanese"] = "設計圖：聖劍",
             },
-            ["phase"] = 5,
             ["quality"] = "epic",
         },
         {
@@ -3489,7 +3338,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: persuasor",
                 ["Taiwanese"] = "設計圖：刺錘",
             },
-            ["phase"] = 5,
             ["quality"] = "epic",
         },
         {
@@ -3506,7 +3354,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: peto Parraférrea",
                 ["Taiwanese"] = "設計圖：鐵藤胸甲",
             },
-            ["phase"] = 5,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -3533,7 +3380,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: guantes Parraférrea",
                 ["Taiwanese"] = "設計圖：鐵藤護手",
             },
-            ["phase"] = 5,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -3560,7 +3406,6 @@ TRADE_SKILLS_DATA["items"]["Blacksmithing"] =
                 ["Spanish"] = "Diseño: cinturón Parraférrea",
                 ["Taiwanese"] = "設計圖：鐵藤腰帶",
             },
-            ["phase"] = 5,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,

@@ -17,7 +17,6 @@ TRADE_SKILLS_DATA["levels"]["Cooking"] =
                 ["Spanish"] = "Cocina (Aprendiz)",
                 ["Taiwanese"] = "烹飪 (學徒)",
             },
-            ["phase"] = 1,
             ["rank"] = 1,
             ["trainers"] = {
                 ["price"] = 100,
@@ -56,7 +55,6 @@ TRADE_SKILLS_DATA["levels"]["Cooking"] =
                 ["Spanish"] = "Cocina (Oficial)",
                 ["Taiwanese"] = "烹飪 (熟練工)",
             },
-            ["phase"] = 1,
             ["rank"] = 2,
             ["trainers"] = {
                 ["price"] = 500,
@@ -98,7 +96,6 @@ TRADE_SKILLS_DATA["levels"]["Cooking"] =
                 ["Spanish"] = "Cocina (Experto)",
                 ["Taiwanese"] = "烹飪 (專家)",
             },
-            ["phase"] = 1,
             ["rank"] = 3,
         },
         {
@@ -118,7 +115,6 @@ TRADE_SKILLS_DATA["levels"]["Cooking"] =
                 ["Spanish"] = "Cocina (Artesano)",
                 ["Taiwanese"] = "烹飪 (大工匠)",
             },
-            ["phase"] = 1,
             ["quests"] = {
                 6610,
             },

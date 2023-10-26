@@ -14,7 +14,6 @@ TRADE_SKILLS_DATA["holidays"] =
                 ["Spanish"] = "El festín del Festival de Invierno",
                 ["Taiwanese"] = "冬幕節",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 181,
@@ -30,7 +29,6 @@ TRADE_SKILLS_DATA["holidays"] =
                 ["Spanish"] = "Jardín Noble",
                 ["Taiwanese"] = "貴族花園",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 201,
@@ -46,7 +44,6 @@ TRADE_SKILLS_DATA["holidays"] =
                 ["Spanish"] = "Semana de los Niños",
                 ["Taiwanese"] = "兒童週",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 321,
@@ -62,7 +59,6 @@ TRADE_SKILLS_DATA["holidays"] =
                 ["Spanish"] = "Festival de la Cosecha",
                 ["Taiwanese"] = "收穫節",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 324,
@@ -78,7 +74,6 @@ TRADE_SKILLS_DATA["holidays"] =
                 ["Spanish"] = "Halloween",
                 ["Taiwanese"] = "萬鬼節",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 327,
@@ -94,7 +89,6 @@ TRADE_SKILLS_DATA["holidays"] =
                 ["Spanish"] = "Festival Lunar",
                 ["Taiwanese"] = "新年節慶",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 341,
@@ -110,7 +104,6 @@ TRADE_SKILLS_DATA["holidays"] =
                 ["Spanish"] = "Festival del Fuego del Solsticio de Verano",
                 ["Taiwanese"] = "仲夏火焰節",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 372,
@@ -126,7 +119,6 @@ TRADE_SKILLS_DATA["holidays"] =
                 ["Spanish"] = "Fiesta de la Cerveza",
                 ["Taiwanese"] = "美酒節",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 398,
@@ -142,7 +134,6 @@ TRADE_SKILLS_DATA["holidays"] =
                 ["Spanish"] = "Día de los Piratas",
                 ["Taiwanese"] = "海盜日",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 404,
@@ -158,7 +149,6 @@ TRADE_SKILLS_DATA["holidays"] =
                 ["Spanish"] = "Generosidad del Peregrino",
                 ["Taiwanese"] = "感恩節",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 409,
@@ -174,7 +164,6 @@ TRADE_SKILLS_DATA["holidays"] =
                 ["Spanish"] = "Festividad de los Muertos",
                 ["Taiwanese"] = "悼念日",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 423,
@@ -190,7 +179,6 @@ TRADE_SKILLS_DATA["holidays"] =
                 ["Spanish"] = "Amor en el aire",
                 ["Taiwanese"] = "愛就在身邊",
             },
-            ["phase"] = 1,
         },
         {
             ["id"] = 999999,
@@ -206,6 +194,5 @@ TRADE_SKILLS_DATA["holidays"] =
                 ["Spanish"] = "Feria de la Luna Negra",
                 ["Taiwanese"] = "暗月馬戲團",
             },
-            ["phase"] = 1,
         },
     }

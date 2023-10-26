@@ -20,7 +20,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: botas de cuero refinado",
                 ["Taiwanese"] = "圖樣：優質皮靴",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -43,7 +42,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: chaleco de cuero blanco",
                 ["Taiwanese"] = "圖樣：白色皮夾克",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -66,7 +64,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: guantes de cuero refinado",
                 ["Taiwanese"] = "圖樣：優質皮手套",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -89,7 +86,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: túnica de cuero oscuro",
                 ["Taiwanese"] = "圖樣：黑皮外套",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -112,7 +108,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: jubón de cuero de montañero",
                 ["Taiwanese"] = "圖樣：山地皮外衣",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -135,7 +130,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: cinturón de montañero",
                 ["Taiwanese"] = "圖樣：山地腰帶",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -158,7 +152,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: hombreras de cuero oscuro",
                 ["Taiwanese"] = "圖樣：黑皮護肩",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -181,7 +174,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: guantes barbáricos",
                 ["Taiwanese"] = "圖樣：野人手套",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -204,7 +196,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: cinturón de guardián",
                 ["Taiwanese"] = "圖樣：守護腰帶",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -227,7 +218,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: armadura de guardián",
                 ["Taiwanese"] = "圖樣：守護之甲",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -250,7 +240,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: brazales de cuero de guardián",
                 ["Taiwanese"] = "圖樣：守護腕甲",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -273,7 +262,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: cinturón barbárico",
                 ["Taiwanese"] = "圖樣：野人腰帶",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -290,7 +278,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: bolsa de pellejo de kodo",
                 ["Taiwanese"] = "圖樣：科多獸皮包",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 769,
@@ -316,7 +303,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: cinturón de escama de múrloc",
                 ["Taiwanese"] = "圖樣：魚人鱗片腰帶",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 548,
@@ -347,7 +333,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: peto de escama de múrloc",
                 ["Taiwanese"] = "圖樣：魚人鱗片胸甲",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 600,
@@ -377,7 +362,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: armadura múrloc gruesa",
                 ["Taiwanese"] = "圖樣：厚魚人皮甲",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["vendors"] = {
                 ["price"] = 648,
@@ -407,7 +391,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: brazales de escama de múrloc",
                 ["Taiwanese"] = "圖樣：魚人鱗片護腕",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["vendors"] = {
                 ["price"] = 2800,
@@ -437,7 +420,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: pantalones de cuero refinado",
                 ["Taiwanese"] = "圖樣：優質皮褲",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -454,7 +436,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: leotardos barbáricos",
                 ["Taiwanese"] = "圖樣：野人護腿",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 648,
@@ -486,7 +467,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: capa de guardián",
                 ["Taiwanese"] = "圖樣：守護披風",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -503,7 +483,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: capa de escamas desviadas",
                 ["Taiwanese"] = "圖樣：蛇鱗披風",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 548,
@@ -526,7 +505,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: guantes de escamas desviadas",
                 ["Taiwanese"] = "圖樣：蛇鱗手套",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 1500,
@@ -549,7 +527,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: cinturón de escamas desviadas",
                 ["Taiwanese"] = "圖樣：蛇鱗腰帶",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 1487,
@@ -569,7 +546,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: jubón Resplandor lunar",
                 ["Taiwanese"] = "圖樣：月光背心",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 1582,
@@ -595,7 +571,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: pantalones de cuero basto",
                 ["Taiwanese"] = "圖樣：皺褶皮短褲",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -612,7 +587,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: capa de cría negra",
                 ["Taiwanese"] = "圖樣：黑色雛龍披風",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 648,
@@ -635,7 +609,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: guantes de cría de dragón roja",
                 ["Taiwanese"] = "圖樣：紅色雛龍手套",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 1600,
@@ -664,7 +637,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: guantes de cuero oscuro",
                 ["Taiwanese"] = "圖樣：黑皮手套",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -681,7 +653,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: guantes de herborista",
                 ["Taiwanese"] = "圖樣：採藥人手套",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["vendors"] = {
                 ["price"] = 1800,
@@ -704,7 +675,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: hombreras de cuero terráneo",
                 ["Taiwanese"] = "圖樣：土靈皮護肩",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 2000,
@@ -733,7 +703,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: guantes de ratero",
                 ["Taiwanese"] = "圖樣：竊賊手套",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -756,7 +725,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: guantes terráneos pesados",
                 ["Taiwanese"] = "圖樣：重型土靈手套",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -779,7 +747,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: leotardos de cuero oscurecido",
                 ["Taiwanese"] = "圖樣：暗色皮護腿",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -802,7 +769,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: armadura de cría verde",
                 ["Taiwanese"] = "圖樣：綠色幼龍護甲",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -819,7 +785,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: brazales de cría verde",
                 ["Taiwanese"] = "圖樣：綠色幼龍護腕",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["vendors"] = {
                 ["price"] = 2800,
@@ -851,7 +816,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: botas oscurecidas",
                 ["Taiwanese"] = "圖樣：暗色長靴",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -874,7 +838,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: botas veloces",
                 ["Taiwanese"] = "圖樣：迅捷之靴",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -891,7 +854,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: armadura de cuero verde",
                 ["Taiwanese"] = "圖樣：綠色皮甲",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 2000,
@@ -921,7 +883,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: sombrero de cuero cómodo",
                 ["Taiwanese"] = "圖樣：舒適的皮帽",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -944,7 +905,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: guantes de escamas de tortuga",
                 ["Taiwanese"] = "圖樣：龜殼手套",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 3500,
@@ -974,7 +934,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: toga de gran vudú",
                 ["Taiwanese"] = "圖樣：巫毒長袍",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -997,7 +956,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: máscara de gran vudú",
                 ["Taiwanese"] = "圖樣：巫毒面具",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1020,7 +978,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: pantalones de gran vudú",
                 ["Taiwanese"] = "圖樣：巫毒短褲",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1043,7 +1000,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: capa de gran vudú",
                 ["Taiwanese"] = "圖樣：巫毒披風",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1065,7 +1021,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: peto escórpido resistente",
                 ["Taiwanese"] = "圖樣：硬化蠍殼胸甲",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1087,7 +1042,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: brazales escórpidos resistentes",
                 ["Taiwanese"] = "圖樣：硬化蠍殼護腕",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1109,7 +1063,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: guantes escórpidos resistentes",
                 ["Taiwanese"] = "圖樣：硬化蠍殼手套",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1131,7 +1084,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: botas escórpidas resistentes",
                 ["Taiwanese"] = "圖樣：硬化蠍殼戰靴",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1155,7 +1107,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: hombreras escórpidos resistentes",
                 ["Taiwanese"] = "圖樣：硬化蠍殼護肩",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1177,7 +1128,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: leotardos escórpidos resistentes",
                 ["Taiwanese"] = "圖樣：硬化蠍殼護腿",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1201,7 +1151,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: yelmo escórpido resistente",
                 ["Taiwanese"] = "圖樣：硬化蠍殼頭盔",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1218,7 +1167,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: hombreras de cuero salvaje",
                 ["Taiwanese"] = "圖樣：蠻皮護肩",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 2848,
@@ -1239,7 +1187,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: jubón de cuero salvaje",
                 ["Taiwanese"] = "圖樣：蠻皮外衣",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 2849,
@@ -1260,7 +1207,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: casco de cuero salvaje",
                 ["Taiwanese"] = "圖樣：蠻皮頭盔",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 2850,
@@ -1281,7 +1227,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: botas de cuero salvaje",
                 ["Taiwanese"] = "圖樣：蠻皮戰靴",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 2851,
@@ -1302,7 +1247,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: leotardos de cuero salvaje",
                 ["Taiwanese"] = "圖樣：蠻皮護腿",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 2852,
@@ -1323,7 +1267,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: capa de cuero salvaje",
                 ["Taiwanese"] = "圖樣：蠻皮披風",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 2853,
@@ -1344,7 +1287,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: hombreras Nochefugaz",
                 ["Taiwanese"] = "圖樣：夜色護肩",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["vendors"] = {
                 ["price"] = 4000,
@@ -1368,7 +1310,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: arnés de pellejo de raptor",
                 ["Taiwanese"] = "圖樣：迅猛龍皮背心",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["vendors"] = {
                 ["price"] = 2500,
@@ -1391,7 +1332,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: cinturón de pellejo de raptor",
                 ["Taiwanese"] = "圖樣：迅猛龍皮腰帶",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["vendors"] = {
                 ["price"] = 2500,
@@ -1414,7 +1354,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: cinturón de cuero con gemas incrustadas",
                 ["Taiwanese"] = "圖樣：寶石皮帶",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 3000,
@@ -1437,7 +1376,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: brazales de escórpido pesado",
                 ["Taiwanese"] = "圖樣：重型蠍殼護腕",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 12000,
@@ -1460,7 +1398,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: guanteletes de cuero maligno",
                 ["Taiwanese"] = "圖樣：邪惡皮甲護手",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 12000,
@@ -1484,7 +1421,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: peto de escamas de dragón verde",
                 ["Taiwanese"] = "圖樣：綠龍鱗片胸甲",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 12000,
@@ -1512,7 +1448,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: jubón de escórpido pesado",
                 ["Taiwanese"] = "圖樣：重型蠍殼外衣",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1534,7 +1469,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: brazales de cuero maligno",
                 ["Taiwanese"] = "圖樣：邪惡皮甲護腕",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1551,7 +1485,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: guantes quiméricos",
                 ["Taiwanese"] = "圖樣：奇美拉手套",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 12000,
@@ -1579,7 +1512,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: peto de escamas de dragón rojo",
                 ["Taiwanese"] = "圖樣：紅龍鱗片胸甲",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -1602,7 +1534,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: guanteletes de cuero rúnico",
                 ["Taiwanese"] = "圖樣：符文皮甲護手",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1624,7 +1555,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: leotardos volcánicos",
                 ["Taiwanese"] = "圖樣：火山護腿",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1646,7 +1576,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: leotardos de escamas de dragón verde",
                 ["Taiwanese"] = "圖樣：綠龍鱗片護腿",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -1663,7 +1592,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: hombreras vivas",
                 ["Taiwanese"] = "圖樣：生命護肩",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 14000,
@@ -1687,7 +1615,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: hombreras Plumahierro",
                 ["Taiwanese"] = "圖樣：鐵羽護肩",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 14000,
@@ -1716,7 +1643,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: botas quiméricas",
                 ["Taiwanese"] = "圖樣：奇美拉長靴",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1738,7 +1664,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: guanteletes de escórpido pesado",
                 ["Taiwanese"] = "圖樣：重型蠍殼護手",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1760,7 +1685,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: brazales de cuero rúnico",
                 ["Taiwanese"] = "圖樣：符文皮甲護腕",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1777,7 +1701,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: botas Sable de Hielo",
                 ["Taiwanese"] = "圖樣：霜刃長靴",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 16000,
@@ -1800,7 +1723,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: pantalones Velotormenta",
                 ["Taiwanese"] = "圖樣：雷暴短褲",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 16000,
@@ -1830,7 +1752,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: cinturón de escórpido pesado",
                 ["Taiwanese"] = "圖樣：重型蠍殼腰帶",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1852,7 +1773,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: cinta de cuero maligno",
                 ["Taiwanese"] = "圖樣：邪惡皮甲頭環",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1875,7 +1795,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: cinturón de cuero rúnico",
                 ["Taiwanese"] = "圖樣：符文皮甲腰帶",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1898,7 +1817,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: leotardos quiméricos",
                 ["Taiwanese"] = "圖樣：奇美拉護腿",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1920,7 +1838,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: leotardos Sable de Hielo",
                 ["Taiwanese"] = "圖樣：霜刃護腿",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1942,7 +1859,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: leotardos de escórpido pesado",
                 ["Taiwanese"] = "圖樣：重型蠍殼護腿",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1964,7 +1880,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: peto volcánico",
                 ["Taiwanese"] = "圖樣：火山胸甲",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -1981,7 +1896,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: peto de escamas de dragón azul",
                 ["Taiwanese"] = "圖樣：藍色龍鱗胸甲",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 20000,
@@ -2009,7 +1923,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: leotardos vivos",
                 ["Taiwanese"] = "圖樣：生命護腿",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -2031,7 +1944,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: armadura Velotormenta",
                 ["Taiwanese"] = "圖樣：雷暴護甲",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -2054,7 +1966,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: jubón quimérico",
                 ["Taiwanese"] = "圖樣：奇美拉外衣",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -2071,7 +1982,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: cinta de cuero rúnico",
                 ["Taiwanese"] = "Monster - Wand Jeweled - B02 Red",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 22000,
@@ -2100,7 +2010,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: pantalones de cuero maligno",
                 ["Taiwanese"] = "圖樣：邪惡皮甲短褲",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -2117,7 +2026,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: guanteletes de demosaurio",
                 ["Taiwanese"] = "圖樣：魔暴龍護手",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 22000,
@@ -2140,7 +2048,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: peto de escamas de dragón negro",
                 ["Taiwanese"] = "圖樣：黑色龍鱗胸甲",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 22000,
@@ -2168,7 +2075,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: peto Plumahierro",
                 ["Taiwanese"] = "圖樣：鐵羽胸甲",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -2190,7 +2096,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: guantes Sable de Hielo",
                 ["Taiwanese"] = "圖樣：霜刃手套",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -2207,7 +2112,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: yelmo de escórpido pesado",
                 ["Taiwanese"] = "圖樣：重型蠍殼頭盔",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 25000,
@@ -2235,7 +2139,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: hombreras de escamas de dragón azul",
                 ["Taiwanese"] = "圖樣：藍色龍鱗護肩",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -2257,7 +2160,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: hombreras Velotormenta",
                 ["Taiwanese"] = "圖樣：雷暴護肩",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -2280,7 +2182,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: pantalones de cuero rúnico",
                 ["Taiwanese"] = "圖樣：符文皮甲短褲",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -2302,7 +2203,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: cinturón de cuero maligno",
                 ["Taiwanese"] = "圖樣：邪惡皮甲腰帶",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -2324,7 +2224,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: hombreras de escamas de dragón negro",
                 ["Taiwanese"] = "圖樣：黑色龍鱗護肩",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -2346,7 +2245,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: peto vivo",
                 ["Taiwanese"] = "圖樣：生命胸甲",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -2371,7 +2269,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: leotardos de demosaurio",
                 ["Taiwanese"] = "圖樣：魔暴龍護腿",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -2393,7 +2290,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: armadura de cuero maligno",
                 ["Taiwanese"] = "圖樣：邪惡皮甲",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -2415,7 +2311,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: hombreras de escórpido pesado",
                 ["Taiwanese"] = "圖樣：重型蠍殼護肩",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -2437,7 +2332,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: hombreras volcánicas",
                 ["Taiwanese"] = "圖樣：火山護肩",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -2459,7 +2353,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: armadura de cuero rúnico",
                 ["Taiwanese"] = "圖樣：符文皮甲",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -2481,7 +2374,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: hombreras de cuero rúnico",
                 ["Taiwanese"] = "圖樣：符文皮甲護肩",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -2503,7 +2395,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: túnica Sable de Hielo",
                 ["Taiwanese"] = "圖樣：霜刃外套",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -2525,7 +2416,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: leotardos de escamas de dragón negro",
                 ["Taiwanese"] = "圖樣：黑色龍鱗護腿",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -2542,7 +2432,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: botas del can del Núcleo",
                 ["Taiwanese"] = "圖樣：熔岩犬皮靴",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 150000,
@@ -2565,7 +2454,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: yelmo de arrabio",
                 ["Taiwanese"] = "圖樣：熔鑄頭盔",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 160000,
@@ -2588,7 +2476,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: botas de escamas de dragón negro",
                 ["Taiwanese"] = "圖樣：黑色龍鱗戰靴",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 160000,
@@ -2612,7 +2499,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: guantes del Padre Invierno",
                 ["Taiwanese"] = "圖樣：冬天爺爺的手套",
             },
-            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["quests"] = {
                 8769,
@@ -2632,7 +2518,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: guantes sombradermos",
                 ["Taiwanese"] = "圖樣：影皮手套",
             },
-            ["phase"] = 2,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 3500,
@@ -2666,7 +2551,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: complemento para armadura del Núcleo",
                 ["Taiwanese"] = "圖樣：熔火護甲片",
             },
-            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -2686,7 +2570,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
             ["objects"] = {
                 179501,
             },
-            ["phase"] = 2,
             ["quality"] = "rare",
         },
         {
@@ -2706,7 +2589,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
             ["objects"] = {
                 179501,
             },
-            ["phase"] = 2,
             ["quality"] = "rare",
         },
         {
@@ -2726,7 +2608,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
             ["objects"] = {
                 179501,
             },
-            ["phase"] = 2,
             ["quality"] = "rare",
         },
         {
@@ -2746,7 +2627,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
             ["objects"] = {
                 179501,
             },
-            ["phase"] = 2,
             ["quality"] = "epic",
         },
         {
@@ -2766,7 +2646,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
             ["objects"] = {
                 179501,
             },
-            ["phase"] = 2,
             ["quality"] = "epic",
         },
         {
@@ -2786,7 +2665,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
             ["objects"] = {
                 179501,
             },
-            ["phase"] = 2,
             ["quality"] = "epic",
         },
         {
@@ -2803,7 +2681,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: bola de cuero pesado",
                 ["Taiwanese"] = "圖樣：重皮球",
             },
-            ["phase"] = 2,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 2000,
@@ -2827,7 +2704,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: brazales barbáricos",
                 ["Taiwanese"] = "圖樣：野人護腕",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 2000,
@@ -2851,7 +2727,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: poderío de los Fauces de Madera",
                 ["Taiwanese"] = "圖樣：木喉之力",
             },
-            ["phase"] = 3,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 576,
@@ -2878,7 +2753,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: camorristas Fauces de Madera",
                 ["Taiwanese"] = "圖樣：木喉作戰手套",
             },
-            ["phase"] = 3,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 576,
@@ -2905,7 +2779,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: botines del Alba",
                 ["Taiwanese"] = "圖樣：黎明皮靴",
             },
-            ["phase"] = 3,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 529,
@@ -2934,7 +2807,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: manto dorado del Alba",
                 ["Taiwanese"] = "圖樣：金色黎明襯肩",
             },
-            ["phase"] = 3,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 529,
@@ -2963,7 +2835,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: cinturón de lava",
                 ["Taiwanese"] = "圖樣：熔岩腰帶",
             },
-            ["phase"] = 3,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 60000,
@@ -2986,7 +2857,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: guanteletes cromáticos",
                 ["Taiwanese"] = "圖樣：多彩護手",
             },
-            ["phase"] = 3,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 90000,
@@ -3009,7 +2879,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: cinturón del can del Núcleo",
                 ["Taiwanese"] = "圖樣：熔火犬皮腰帶",
             },
-            ["phase"] = 3,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 90000,
@@ -3032,7 +2901,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: cinturón de arrabio",
                 ["Taiwanese"] = "圖樣：熔火腰帶",
             },
-            ["phase"] = 3,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 90000,
@@ -3055,7 +2923,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: chaleco de piel de murciélago primigenio",
                 ["Taiwanese"] = "圖樣：原始蝙蝠皮外套",
             },
-            ["phase"] = 4,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -3082,7 +2949,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: guantes de piel de murciélago primigenio",
                 ["Taiwanese"] = "圖樣：原始蝙蝠皮手套",
             },
-            ["phase"] = 4,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -3109,7 +2975,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: brazales de piel de murciélago primigenio",
                 ["Taiwanese"] = "圖樣：原始蝙蝠皮護腕",
             },
-            ["phase"] = 4,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -3136,7 +3001,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: peto de tigre de sangre",
                 ["Taiwanese"] = "圖樣：血虎胸甲",
             },
-            ["phase"] = 4,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -3163,7 +3027,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: hombreras de tigre de sangre",
                 ["Taiwanese"] = "圖樣：血虎護肩",
             },
-            ["phase"] = 4,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -3190,7 +3053,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: arnés de oso de guerra",
                 ["Taiwanese"] = "圖樣：戰熊背心",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 576,
@@ -3217,7 +3079,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: prendas de lana de oso de guerra",
                 ["Taiwanese"] = "圖樣：戰熊熱褲",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 576,
@@ -3244,7 +3105,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: peto de escamas oníricas",
                 ["Taiwanese"] = "圖樣：夢幻龍鱗胸甲",
             },
-            ["phase"] = 5,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -3271,7 +3131,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: brazales escupefuego",
                 ["Taiwanese"] = "圖樣：飛火護腕",
             },
-            ["phase"] = 5,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -3298,7 +3157,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: guanteletes escupefuego",
                 ["Taiwanese"] = "圖樣：飛火護手",
             },
-            ["phase"] = 5,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -3325,7 +3183,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: peto escupefuego",
                 ["Taiwanese"] = "圖樣：飛火胸甲",
             },
-            ["phase"] = 5,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -3352,7 +3209,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: brazales Acecharenas",
                 ["Taiwanese"] = "圖樣：沙行者護腕",
             },
-            ["phase"] = 5,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -3379,7 +3235,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: guanteletes Acecharenas",
                 ["Taiwanese"] = "圖樣：沙行者護手",
             },
-            ["phase"] = 5,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -3406,7 +3261,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: peto Acecharenas",
                 ["Taiwanese"] = "圖樣：沙行者胸甲",
             },
-            ["phase"] = 5,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -3433,7 +3287,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: túnica de cría negra",
                 ["Taiwanese"] = "圖樣：黑色雛龍外衣",
             },
-            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 1400,
@@ -3462,7 +3315,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: guantes Velotormenta",
                 ["Taiwanese"] = "圖樣：雷暴手套",
             },
-            ["phase"] = 5,
             ["quality"] = "rare",
         },
         {
@@ -3479,7 +3331,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: guantes polares",
                 ["Taiwanese"] = "圖樣：極地手套",
             },
-            ["phase"] = 6,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 529,
@@ -3506,7 +3357,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: cinturón zarzal",
                 ["Taiwanese"] = "圖樣：木藤腰帶",
             },
-            ["phase"] = 5,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -3533,7 +3383,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: botas zarzal",
                 ["Taiwanese"] = "圖樣：木藤靴子",
             },
-            ["phase"] = 5,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -3560,7 +3409,6 @@ TRADE_SKILLS_DATA["items"]["Leatherworking"] =
                 ["Spanish"] = "Patrón: yelmo zarzal",
                 ["Taiwanese"] = "圖樣：木藤頭盔",
             },
-            ["phase"] = 5,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,

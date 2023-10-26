@@ -17,7 +17,6 @@ TRADE_SKILLS_DATA["levels"]["Fishing"] =
                 ["Spanish"] = "Pesca (Aprendiz)",
                 ["Taiwanese"] = "釣魚 (學徒)",
             },
-            ["phase"] = 1,
             ["rank"] = 1,
             ["trainers"] = {
                 ["price"] = 100,
@@ -63,7 +62,6 @@ TRADE_SKILLS_DATA["levels"]["Fishing"] =
                 ["Spanish"] = "Pesca (Oficial)",
                 ["Taiwanese"] = "釣魚 (熟練工)",
             },
-            ["phase"] = 1,
             ["rank"] = 2,
             ["trainers"] = {
                 ["price"] = 500,
@@ -112,7 +110,6 @@ TRADE_SKILLS_DATA["levels"]["Fishing"] =
                 ["Spanish"] = "Pesca (Experto)",
                 ["Taiwanese"] = "釣魚 (專家)",
             },
-            ["phase"] = 1,
             ["rank"] = 3,
         },
         {
@@ -132,7 +129,6 @@ TRADE_SKILLS_DATA["levels"]["Fishing"] =
                 ["Spanish"] = "Pesca (Artesano)",
                 ["Taiwanese"] = "釣魚 (大工匠)",
             },
-            ["phase"] = 1,
             ["quests"] = {
                 6607,
             },

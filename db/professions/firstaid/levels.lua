@@ -17,7 +17,6 @@ TRADE_SKILLS_DATA["levels"]["First Aid"] =
                 ["Spanish"] = "Primeros auxilios (Aprendiz)",
                 ["Taiwanese"] = "急救 (學徒)",
             },
-            ["phase"] = 1,
             ["rank"] = 1,
             ["trainers"] = {
                 ["price"] = 100,
@@ -55,7 +54,6 @@ TRADE_SKILLS_DATA["levels"]["First Aid"] =
                 ["Spanish"] = "Primeros auxilios (Oficial)",
                 ["Taiwanese"] = "急救 (熟練工)",
             },
-            ["phase"] = 1,
             ["rank"] = 2,
             ["trainers"] = {
                 ["price"] = 500,
@@ -96,7 +94,6 @@ TRADE_SKILLS_DATA["levels"]["First Aid"] =
                 ["Spanish"] = "Primeros auxilios (Experto)",
                 ["Taiwanese"] = "急救 (專家)",
             },
-            ["phase"] = 1,
             ["rank"] = 3,
         },
         {
@@ -116,7 +113,6 @@ TRADE_SKILLS_DATA["levels"]["First Aid"] =
                 ["Spanish"] = "Primeros auxilios (Artesano)",
                 ["Taiwanese"] = "急救 (大工匠)",
             },
-            ["phase"] = 1,
             ["quests"] = {
                 6622,
                 6624,
