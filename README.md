@@ -7,7 +7,10 @@ Used in [MissingTradeSkillsList](https://github.com/refaim/MissingTradeSkillsLis
 
 ## Version History
 
-### v1.2 (Oct 26, 2023)
+### v1.2.1 (Oct 29, 2023)
+* Enchanting: Fix a couple of typos
+
+### v1.2.0 (Oct 26, 2023)
 * Remove Classic WoW content phases support
 
 ### v1.1.4 (Oct 26, 2023)
