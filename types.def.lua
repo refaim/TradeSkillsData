@@ -53,7 +53,7 @@
 ---@field sources number[]|nil
 
 ---@shape Item: Entity
----@field quality "common" | "uncommon" | "rare" | "epic"
+---@field quality "common" | "uncommon" | "rare" | "epic" | "legendary"
 ---@field drops ItemDropInfo|nil
 ---@field quests number[]|nil
 ---@field vendors VendorsInfo|nil

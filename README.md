@@ -7,6 +7,9 @@ Used in [MissingTradeSkillsList](https://github.com/refaim/MissingTradeSkillsLis
 
 ## Version History
 
+### v1.2.2 (Feb 7, 2024)
+* Add missing "legendary" item quality type definition
+
 ### v1.2.1 (Oct 29, 2023)
 * Enchanting: Fix a couple of typos
 
