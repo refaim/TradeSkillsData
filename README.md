@@ -1,3 +1,9 @@
+### ⚠️ Repository Archived
+This repository is no longer maintained. 
+Please use the new library: [LibCrafts](https://github.com/refaim/LibCrafts-1.0)
+
+---
+
 A World of Warcraft: Vanilla addon that provides database of trade skill recipes, vendors and sources.
 
 Used in [MissingTradeSkillsList](https://github.com/refaim/MissingTradeSkillsList).
