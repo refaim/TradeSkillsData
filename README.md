@@ -3,7 +3,7 @@
 If you only need to install [MissingTradeSkillsList](https://github.com/refaim/MissingTradeSkillsList/), you can safely install TradeSkillsData.
 
 **For Addon Developers:**
-If you intend to use TradeSkillsData in your own addon, please note that this repository is now archived and no longer maintained. Please switch to [LibCrafts](https://github.com/refaim/LibCrafts-1.0) for continued support and updates.
+If you intend to use TradeSkillsData in your own addon, please note that this repository is now archived and no longer maintained. I recomment switching to [LibCrafts](https://github.com/refaim/LibCrafts-1.0) for continued support and updates.
 
 ---
 
